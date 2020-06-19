@@ -1,0 +1,25 @@
+
+```{r}
+testing %>% 
+    pivot_longer(-date, names_to = "result", values_to = "cases") %>% 
+    filter(str_detect(result, "cum_p|cum_n")) %>% 
+    ggplot() +
+    aes(date, cases, fill = result) +
+    geom_col()
+
+```
+```{r}
+testing %>% 
+    ggplot() +
+    aes(date, cum_positive/cum_total) +
+    geom_col()
+```
+```{r}
+testing %>% 
+    pivot_longer(-date, names_to = "result", values_to = "cases") %>% 
+    filter(str_detect(result, "cum_p|cum_n")) %>% 
+    ggplot() +
+    aes(date, cases, fill = result) +
+    geom_col()
+```
+
