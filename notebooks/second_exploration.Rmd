@@ -1,0 +1,137 @@
+# Testing
+```{r}
+testing <- read_csv(here("clean_data/testing.csv"))
+```
+```{r}
+testing %>% 
+    pivot_longer(-date, names_to = "result", values_to = "cases") %>% 
+    filter(str_detect(result, "cum_p|cum_n")) %>% 
+    ggplot() +
+    aes(date, cases, fill = result) +
+    geom_col()
+
+```
+```{r}
+testing %>% 
+    ggplot() +
+    aes(date, cum_positive/cum_total) +
+    geom_col()
+```
+```{r}
+testing %>% 
+    ggplot() +
+    aes(date, cum_positive) +
+    geom_col()
+```
+
+# Deaths
+
+```{r}
+deaths <- read_csv(here("clean_data/deaths.csv"))
+```
+
+```{r}
+
+?growth.rate
+deaths %>% 
+    growth.rate(confirmed_COVID_deaths, lag = 1) %>% 
+    ggplot() +
+    aes(date, confirmed_COVID_deaths) +
+    geom_line()
+```
+
+```{r}
+
+deaths %>%
+    diff.log(confirmed_COVID_deaths) %>% 
+    ggplot() +
+    aes(date, rate) +
+    geom_line()
+```
+
+
+# Hospital patients
+
+```{r}
+COVID_patients <- read_csv(here("clean_data/COVID_patients.csv"))
+```
+
+```{r}
+COVID_patients %>% 
+    pivot_longer(-date, names_to = "info", values_to = "number") %>% 
+    drop_na() %>%
+    filter(str_detect(info, "hospital")) %>%
+    filter(!str_detect(info, "total")) %>%
+    ggplot() +
+    aes(x = date, y = number, group = info, colour = info ) +
+    geom_line() +
+    theme(legend.position = "bottom")
+```
+
+# Area info
+
+```{r}
+area_info <- read_csv(here("clean_data/cases_by_area.csv")) 
+
+```
+
+```{r}
+area_info %>% 
+    group_by(name) %>%
+    ggplot() +
+    aes(date, value, colour = name) +
+    geom_line()
+```
+
+```{r}
+growth.rate(area_info, lag =1)
+```
+# Delayed discharges
+```{r}
+delayed_discharges <- read_csv(here("clean_data/delayed_discharges.csv"))
+
+```
+```{r}
+delayed_discharges
+```
+
+# NHS Absences
+```{r}
+NHS_covid_absences <- read_csv(here("clean_data/nhs_covid_absences.csv"))
+```
+```{r}
+NHS_covid_absences %>%
+    pivot_longer(-date) %>%
+    filter(name != "all_staff") %>% 
+    group_by(date) %>% 
+    ggplot() +
+    aes(date, value, colour = name) +
+    geom_line() +
+    theme(legend.position = "bottom")
+```
+
+```{r}
+read_csv(here("clean_data/cases_by_area.csv")) %>% 
+    unique(variable)
+```
+
+
+# Population
+```{r}
+read_csv(here("clean_data/population.csv"))
+```
+
+```{r}
+# mgmt_data <-
+    read_csv(here("clean_data/comprehensive_data_with_populations.csv")) %>% 
+    filter(is.na(area))
+```
+```{r}
+mgmt_data %>% 
+    mutate(standardised_value = (value / population) * 100) %>% 
+    filter(variable == "COVID-19 patients in hospital - Confirmed",
+           area == "Lothian" | area == "Tayside") %>% 
+    ggplot() +
+    aes(date, value, colour = area) +
+    geom_line()
+```
