@@ -31,7 +31,8 @@ read_excel("raw_data/pop_estimates.xlsx",
 
 
 # 3. Comprehensive data, regions and populations
-left_join(read_csv(here("clean_data/covid_mgmt_geo.csv")),
+comprehensive_data_with_reg_pop <-
+    left_join(read_csv(here("clean_data/covid_mgmt_geo.csv")),
           read_csv(here("clean_data/population.csv")), by = "area_code") %>% 
     relocate(c(date, area, variable)) %>% 
     select(-official_name, -area_code) %>%
@@ -40,4 +41,11 @@ left_join(read_csv(here("clean_data/covid_mgmt_geo.csv")),
     mutate(variable = ifelse(variable == "Delayed discharges", "General - Delayed discharges", variable)) %>% 
     mutate(variable = ifelse(variable == "Number of COVID-19 confirmed deaths registered to date", "General - Number of COVID-19 confirmed deaths registered to date", variable)) %>% 
     separate(variable, c("data_set", "variable"), " - ", extra = "merge") %>%
+    mutate(date = as.Date(date)) %>% 
     write_csv("clean_data/comprehensive_data_with_populations.csv")
+
+
+
+# 4. FT Excess Deaths
+read_excel("raw_data/ft_excess_deaths.xls") %>% 
+    write_csv("clean_data/ft_excess_deaths_clean.csv")
