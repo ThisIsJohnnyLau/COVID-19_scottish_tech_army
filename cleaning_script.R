@@ -55,7 +55,7 @@ read_excel("raw_data/pop_estimates.xlsx",
 
 
 # 3. Comprehensive data, regions and populations
-comprehensive_data_with_reg_pop <-
+
     left_join(read_csv(here("clean_data/covid_mgmt_geo.csv")),
           read_csv(here("clean_data/population.csv")), by = "area_code") %>% 
     relocate(c(date, area, variable)) %>% 

@@ -24,6 +24,7 @@ data_sets <- full_data %>%
     distinct(data_set) %>% 
     arrange(data_set)
 
+# check testing variables
 testing_variables_daily <- full_data %>%
     filter(data_set == "Testing - Daily") %>% 
     distinct(variable) %>% 
@@ -44,7 +45,6 @@ general_patient_variables <- full_data %>%
     distinct(variable) %>% 
     arrange(variable)
 
-
 calls_variables <- full_data %>%
     filter(data_set == "Calls") %>% 
     distinct(variable) %>% 
@@ -60,7 +60,7 @@ general_variables <- full_data %>%
     distinct(variable) %>% 
     arrange(variable)
 
-
+# check carehome variables
 care_home_variables_daily <- full_data %>%
     filter(data_set == "Adult Care Homes - Daily") %>% 
     distinct(variable) %>% 
@@ -83,8 +83,5 @@ NHS_workforce_variables <- full_data %>%
 
 
 
-
-full_dataset_list <- 
-    c(general_variables, testing_variables_daily, testing_variables_cumulative, general_patient_variables, ICU_variables, calls_variables, ambulance_variables, care_home_variables_daily, care_home_variables_cumulative, NHS_workforce_variables)
 
 

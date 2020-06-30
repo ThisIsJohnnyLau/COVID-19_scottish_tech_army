@@ -85,12 +85,13 @@ Problem
 
 ```{r}
 full_data %>%
-    filter(measurement == "Ratio") %>% 
-    distinct(variable)
+    distinct(data_set)
 ```
 
 ```{r}
 full_data %>% 
-    distinct(data_set)
+    filter(area == "Scotland",
+           data_set == "Adult Care Homes - Cumulative") %>% 
+    distinct(variable)
 ```
 

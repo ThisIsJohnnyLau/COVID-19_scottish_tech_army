@@ -25,7 +25,7 @@ ui <- fluidPage(
   
     selectInput(inputId = "data_set_choice",
                 label = h3("Data Set"),
-                choices = c(NULL, "Testing - Daily", "Testing - Cumulative", "COVID-19 patients in hospital", "COVID-19 patients in ICU"),
+                choices = NULL,
                 selected = NULL,
                 multiple = FALSE),
 

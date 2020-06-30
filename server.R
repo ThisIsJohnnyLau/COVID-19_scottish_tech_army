@@ -6,25 +6,25 @@ server <- function(input, output, session){
         if (input$area_choice == "Scotland") {
             updateSelectInput(
                 session,
+                # Check
                 "data_set_choice",
                 choices = data_sets
                 )
         }
     })
     
-    
     observe({
         if (input$area_choice != "Scotland") {
             updateSelectInput(
                 session,
                 "data_set_choice",
-                choices = c(NULL, "Testing", "COVID-19 patients in hospital", "COVID-19 patients in ICU")
+                choices = c(NULL, "Testing - Cumulative", "Testing - Daily", "COVID-19 patients in hospital", "COVID-19 patients in ICU")
             )
         }
     })
     
-    
-    observe({
+     
+   observe({
         if (input$data_set_choice == "General") {
             updateCheckboxGroupInput(session, "variable_choice", choices = general_variables$variable)
         }
@@ -66,22 +66,23 @@ server <- function(input, output, session){
         }
     })
     observe({
-        if (input$data_set_choice == "Adult care homes - Daily") {
+        if (input$data_set_choice == "Adult Care Homes - Daily") {
             updateCheckboxGroupInput(session, "variable_choice", choices = care_home_variables_daily$variable)
         }
     })
     
     observe({
-        if (input$data_set_choice == "Adult care homes - Proportion") {
+        if (input$data_set_choice == "Adult Care Homes - Proportion") {
             updateCheckboxGroupInput(session, "variable_choice", choices = care_home_variables_proportion$variable)
         }
     })
     
     observe({
-        if (input$data_set_choice == "Adult care homes - Cumulative") {
+        if (input$data_set_choice == "Adult Care Homes - Cumulative") {
             updateCheckboxGroupInput(session, "variable_choice", choices = care_home_variables_cumulative$variable)
         }
     })
+    
     observe({
         if (input$data_set_choice == "NHS workforce COVID-19 absences") {
             updateCheckboxGroupInput(session, "variable_choice", choices = calls_variables$variable)
@@ -104,7 +105,6 @@ server <- function(input, output, session){
     })
     
         output$covid_plot <- renderPlot({
-            # if(!is.null(filtered_data())) {
             filtered_data() %>% 
             ggplot(aes(x = date, y = value, group = variable)) +
             geom_line(aes(colour = variable)) +
