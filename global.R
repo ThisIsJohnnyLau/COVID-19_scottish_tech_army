@@ -17,56 +17,74 @@ area_names <- full_data %>%
     arrange(area)
 
 variable_names <- full_data %>% 
-    distinct(variable)
+    distinct(variable) %>% 
+    arrange(variable)
 
 data_sets <- full_data %>%
-    distinct(data_set)
+    distinct(data_set) %>% 
+    arrange(data_set)
 
-testing_variables <- full_data %>%
-    filter(data_set == "Testing") %>% 
-    distinct(variable)
+testing_variables_daily <- full_data %>%
+    filter(data_set == "Testing - Daily") %>% 
+    distinct(variable) %>% 
+    arrange(variable)
+
+testing_variables_cumulative <- full_data %>%
+    filter(data_set == "Testing - Cumulative") %>% 
+    distinct(variable) %>% 
+    arrange(variable)
 
 ICU_variables <- full_data %>%
     filter(data_set == "COVID-19 patients in ICU") %>% 
-    distinct(variable)
+    distinct(variable) %>% 
+    arrange(variable)
 
 general_patient_variables <- full_data %>%
     filter(data_set == "COVID-19 patients in hospital") %>% 
-    distinct(variable)
+    distinct(variable) %>% 
+    arrange(variable)
 
 
 calls_variables <- full_data %>%
     filter(data_set == "Calls") %>% 
-    distinct(variable)
+    distinct(variable) %>% 
+    arrange(variable)
 
 ambulance_variables <- full_data %>%
     filter(data_set == "Ambulance attendances") %>% 
-    distinct(variable)
+    distinct(variable) %>% 
+    arrange(variable)
 
 general_variables <- full_data %>%
     filter(data_set == "General") %>% 
-    distinct(variable)
+    distinct(variable) %>% 
+    arrange(variable)
 
 
-care_home_variables <- full_data %>%
-    filter(data_set == "Adult care homes") %>% 
-    distinct(variable)
+care_home_variables_daily <- full_data %>%
+    filter(data_set == "Adult Care Homes - Daily") %>% 
+    distinct(variable) %>% 
+    arrange(variable)
+
+care_home_variables_cumulative <- full_data %>%
+    filter(data_set == "Adult Care Homes - Cumulative") %>% 
+    distinct(variable) %>% 
+    arrange(variable)
+
+care_home_variables_proportion <- full_data %>%
+    filter(data_set == "Adult Care Homes - Proportion") %>% 
+    distinct(variable) %>% 
+    arrange(variable)
 
 NHS_workforce_variables <- full_data %>%
     filter(data_set == "NHS workforce COVID-19 absences") %>% 
-    distinct(variable)
+    distinct(variable) %>% 
+    arrange(variable)
+
 
 
 
 full_dataset_list <- 
-    c(testing_variables, ICU_variables, general_patient_variables, calls_variables, ambulance_variables, general_variables, care_home_variables, NHS_workforce_variables)
+    c(general_variables, testing_variables_daily, testing_variables_cumulative, general_patient_variables, ICU_variables, calls_variables, ambulance_variables, care_home_variables_daily, care_home_variables_cumulative, NHS_workforce_variables)
 
 
-
-
-df <- data.frame(site = c('A1', 'A1', 'A1', 'B1', 'B1','B1','B1','C1','C1'), 
-                 part = c('a1', 'a1', 'a2', 'b1', 'b1', 'b2','b3','c1','c2'),
-                 value = c(2,3,4,5,6,7,8,9,10))
-
-site_choices <- as.list(df$site)
-names(site_choices) <- df$site

@@ -31,8 +31,14 @@ server <- function(input, output, session){
     })
     
     observe({
-        if (input$data_set_choice == "Testing") {
-            updateCheckboxGroupInput(session, "variable_choice", choices = testing_variables$variable)
+        if (input$data_set_choice == "Testing - Daily") {
+            updateCheckboxGroupInput(session, "variable_choice", choices = testing_variables_daily$variable)
+        }
+    })
+    
+    observe({
+        if (input$data_set_choice == "Testing - Cumulative") {
+            updateCheckboxGroupInput(session, "variable_choice", choices = testing_variables_cumulative$variable)
         }
     })
     
@@ -60,8 +66,20 @@ server <- function(input, output, session){
         }
     })
     observe({
-        if (input$data_set_choice == "Adult care homes") {
-            updateCheckboxGroupInput(session, "variable_choice", choices = care_home_variables$variable)
+        if (input$data_set_choice == "Adult care homes - Daily") {
+            updateCheckboxGroupInput(session, "variable_choice", choices = care_home_variables_daily$variable)
+        }
+    })
+    
+    observe({
+        if (input$data_set_choice == "Adult care homes - Proportion") {
+            updateCheckboxGroupInput(session, "variable_choice", choices = care_home_variables_proportion$variable)
+        }
+    })
+    
+    observe({
+        if (input$data_set_choice == "Adult care homes - Cumulative") {
+            updateCheckboxGroupInput(session, "variable_choice", choices = care_home_variables_cumulative$variable)
         }
     })
     observe({
