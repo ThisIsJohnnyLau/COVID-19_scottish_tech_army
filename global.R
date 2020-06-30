@@ -9,6 +9,8 @@ library(tis)
 library(readxl)
 library(shiny)
 
+full_data <-
+    read_csv(here("clean_data/comprehensive_data_with_populations.csv"))
 
 area_names <- full_data %>% 
     distinct(area) %>% 
@@ -57,4 +59,14 @@ NHS_workforce_variables <- full_data %>%
 
 
 full_dataset_list <- 
-    list(testing_variables, ICU_variables, general_patient_variables, calls_variables, ambulance_variables, general_variables, care_home_variables, NHS_workforce_variables)
+    c(testing_variables, ICU_variables, general_patient_variables, calls_variables, ambulance_variables, general_variables, care_home_variables, NHS_workforce_variables)
+
+
+
+
+df <- data.frame(site = c('A1', 'A1', 'A1', 'B1', 'B1','B1','B1','C1','C1'), 
+                 part = c('a1', 'a1', 'a2', 'b1', 'b1', 'b2','b3','c1','c2'),
+                 value = c(2,3,4,5,6,7,8,9,10))
+
+site_choices <- as.list(df$site)
+names(site_choices) <- df$site

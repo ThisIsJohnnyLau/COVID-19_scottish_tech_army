@@ -1,0 +1,84 @@
+
+
+
+```{r}
+# Datasets are now the same use full_data
+
+full_data %>% 
+    names()
+comprehensive_data_with_reg_pop %>% 
+    names()
+```
+
+```{r}
+# Basic plot checking Scotland + Total
+
+data_sets
+variable_names
+
+full_data %>%
+    group_by(area, data_set, variable) %>% 
+    arrange(area, data_set, variable, date) %>% 
+    # mutate(value_week = rollmean(x = value, 7, align = "right", fill = NA)) %>%
+    filter(area == "Scotland",
+           data_set == "COVID-19 patients in hospital",
+           variable == "Total") %>%
+    ggplot() +
+    # aes(date, value_week, colour = variable) +
+        aes(date, value, colour = variable) +
+    geom_line() +
+    theme(legend.position = "bottom")
+```
+
+```{r}
+
+full_data %>% 
+    filter(area == "Scotland") %>% 
+    distinct(data_set, variable) %>% 
+    arrange(data_set)
+```
+
+
+Need to check shiny dataset and variable panels refresh okay
+Need to check plot is reactive to region, dataset, variables
+Need to check plot code is capable of handling multiple checkboxes
+
+
+
+```{r}
+full_data %>%
+    filter(area == "Forth Valley",
+           data_set == "Testing",
+           variable == "Cumulative people tested for COVID-19 - Positive") %>% 
+            ggplot() +
+            aes(x = date, y = value, group = variable) +
+            # aes(date, value_week, colour = variable) +
+            geom_line(aes(colour = variable)) +
+    theme(legend.position = "bottom")
+```
+```{r}
+full_data$date %>% 
+    class()
+# +
+#             theme(legend.position = "bottom") +
+#             title(main = "data_set",
+#                   sub = "variable",
+#                   xlab = "Date",
+#                   ylab = "variable")
+            # group_by(area, data_set, variable, date) %>% 
+            # arrange(area, data_set, variable, date) %>% 
+            # mutate(value_week = rollmean(x = value, 7, align = "right", fill = NA)) %>%
+```
+
+```{r}
+full_data %>% 
+    pivot_wider( values_from = "values",
+                 names_from = "names")
+```
+
+```{r}
+full_data %>% 
+    filter(area == "Grampian") %>% 
+    distinct(data_set)
+```
+
