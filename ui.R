@@ -161,12 +161,7 @@ tabPanel(
           h4("Traffic Levels"),
           # column(6,
           leafletOutput("traffic_plot", width = 900, height = 500)
-          %>% withSpinner(color = "#0dc5c1"),
-          tags$a(href = "https://statistics.gov.scot/data/coronavirus-covid-19-management-information", target="_blank", "Data Source"),
-          br(),
-          # column(6,
-          "Note: Some locations are named IZ followed by a number, please refer",
-          tags$a(href = "https://www2.gov.scot/Topics/Statistics/sns/SNSRef/DZresponseplan", target="_blank", "here for more information.")
+          %>% withSpinner(color = "#0dc5c1")
         ),
         
         
