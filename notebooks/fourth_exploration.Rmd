@@ -95,3 +95,12 @@ full_data %>%
     distinct(variable)
 ```
 
+```{r}
+scotland_covid_latest <-
+    scotland_covid %>%
+    clean_names() %>%
+    mutate(date = "2020-06-08") %>% 
+    relocate(date)
+    
+```
+

@@ -97,10 +97,12 @@ ui <- fluidPage(
         
         column(12, 
         column(6,
-               leafletOutput("scot_plot", height = 550)
+               leafletOutput("scot_plot", height = 550) %>%
+                 withSpinner(color = "#0dc5c1")
         ),
         column(6,
-               plotOutput("covid_plot", height = 550),
+               plotOutput("covid_plot", height = 550) %>%
+                 withSpinner(color = "#0dc5c1")
         )
         )
       ), # Fluidrow charts - 3rd row end
@@ -153,6 +155,21 @@ tabPanel(
       width = 9,
       tabsetPanel(
         type = "tabs",
+        
+        tabPanel(
+          "Traffic",
+          h4("Traffic Levels"),
+          # column(6,
+          leafletOutput("traffic_plot", width = 900, height = 500)
+          %>% withSpinner(color = "#0dc5c1"),
+          tags$a(href = "https://statistics.gov.scot/data/coronavirus-covid-19-management-information", target="_blank", "Data Source"),
+          br(),
+          # column(6,
+          "Note: Some locations are named IZ followed by a number, please refer",
+          tags$a(href = "https://www2.gov.scot/Topics/Statistics/sns/SNSRef/DZresponseplan", target="_blank", "here for more information.")
+        ),
+        
+        
         tabPanel(
           "Deaths",
           h4("Total COVID 19 related deaths to date"),

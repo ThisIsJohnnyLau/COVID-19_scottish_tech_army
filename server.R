@@ -279,7 +279,7 @@ server <- function(input, output, session){
 
 
 ##################################################################
-##                  plot for death bubbles                 ##
+##                  plot for number of deaths                 ##
 ##################################################################
         
 output$scot_covid_plot <- renderLeaflet({ 
@@ -301,7 +301,7 @@ output$scot_covid_plot <- renderLeaflet({
         filter(local_authority %in% input$local_auth) %>% 
         leaflet() %>%
         addProviderTiles(
-            providers$CartoDB.Positron
+            providers$Esri.WorldImagery
         ) %>%
         addCircleMarkers(lng = ~long,
                          lat = ~lat,
@@ -313,5 +313,40 @@ output$scot_covid_plot <- renderLeaflet({
         )
 })
         
+        
+        ##################################################################
+        ##                  plot for traffic and deaths                 ##
+        ##################################################################
+        
+        output$traffic_plot <- renderLeaflet({ 
+            
+            # this needs to be reactive i think
+            # labels2 <- labels <- sprintf(
+            #   "<strong>%s</strong><br/>%g",
+            #   scotland_covid$Name,
+            #   scotland_covid$number_of_deaths
+            # ) %>% lapply(htmltools::HTML)
+            
+            bins = c(0, 5, 17, max(scotland_covid$number_of_deaths))
+            
+            pal <- colorBin(c("#f1ed0e", "orange", "#FF0000"),
+                            domain = scotland_covid$number_of_deaths, 
+                            bin = bins)
+            
+            traffic_data %>%
+                filter(date == "2020-06-08") %>%
+                leaflet() %>%
+                addProviderTiles(
+                    providers$Esri.WorldStreetMap
+                ) %>%
+                addCircleMarkers(lng = ~longitude,
+                                 lat = ~latitude,
+                                 fillOpacity = 0.5,
+                                 stroke = F,
+                                 # radius = ~population_2018_based/1000,
+                                 color = ~cars,
+                                 popup = ~site_description
+                )
+        })
         } # Server
 
