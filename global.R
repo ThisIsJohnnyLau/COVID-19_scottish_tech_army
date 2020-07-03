@@ -8,6 +8,35 @@ library(xts)
 library(tis)
 library(readxl)
 library(shiny)
+library(shinythemes)
+library(rmapshaper)
+library(sf)
+library(leaflet)
+
+##################################################################
+##                    Rhi Data Wrangling                        ##
+##################################################################
+
+#data file
+management <- read_csv("clean_data/management_clean.csv")
+
+#shape file and reducing the polygons to increase render speed
+scotland <- st_read("clean_data/scotland.shp", quiet = TRUE) %>%
+    ms_simplify(keep = 0.025)
+
+scotland_covid <- read_csv("clean_data/scotland_covid.csv")
+
+local_authorities <- unique(scotland_covid$local_authority) %>% 
+    sort()
+
+cardio_prescriptions <- read_csv("clean_data/cardio_prescriptions.csv")
+
+
+
+##################################################################
+##                    Johnny Global                             ##
+##                              #                               ##
+##################################################################
 
 full_data <-
     read_csv(here("clean_data/comprehensive_data_with_populations.csv"))
