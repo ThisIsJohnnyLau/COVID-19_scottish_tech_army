@@ -1,0 +1,114 @@
+---
+title: "R Notebook"
+output: 
+  html_notebook: 
+    number_sections: yes
+    toc: yes
+---
+
+
+
+SECOND WAVE??
+
+
+# 1. Comprehensive data and regions
+```{r}
+# Nothing earlier than 2nd March 2020
+
+    read_csv(here("clean_data/covid_mgmt_geo.csv")) %>%
+    arrange(date)
+
+```
+
+
+# 2. Populations
+```{r}
+
+    read_csv(here("clean_data/population.csv"))
+
+```
+# 3. Comprehensive data, regions and populations
+
+```{r}
+full_data <-
+    read_csv(here("clean_data/comprehensive_data_with_populations.csv"))
+```
+
+```{r}
+full_data %>% 
+    arrange(date)
+
+# Names of regions
+area_names <- full_data %>% 
+    distinct(area) %>% 
+    arrange(area)
+
+# Types of data
+full_data %>% 
+    distinct(data_set) %>% 
+    arrange(data_set)
+
+# Types of variable
+full_data %>% 
+    distinct(variable)
+
+full_data %>% 
+  names()
+```
+```{r}
+
+full_data %>%
+    group_by(area, data_set, variable) %>% 
+    arrange(area, data_set, variable, date) %>% 
+    mutate(value_week = rollmean(x = value, 7, align = "right", fill = NA)) %>%
+    filter(area == "Scotland",
+           data_set == "COVID-19 patients in hospital",
+           variable == "Total") %>%
+    ggplot() +
+    aes(date, value_week, colour = variable) +
+    geom_line() +
+    theme(legend.position = "bottom")
+```
+```{r}
+
+full_data %>%
+distinct(data_set)
+```
+```{r}
+full_data %>%
+  filter(data_set == "Testing") %>% 
+  distinct(variable)
+
+```
+
+
+```{r}
+ft_countries <-
+    read_csv(here("raw_data/ft_excess_deaths.csv")) %>% 
+    distinct(country)
+```
+```{r}
+read_csv(here("raw_data/ft_excess_deaths.csv")) %>% 
+    filter(country == "UK") %>%
+    filter(region == "Scotland") %>% 
+    mutate(month_MA = rollmean(x = excess_deaths, 4, align = "right", fill = NA)) %>% 
+    ggplot() +
+    aes(date, month_MA) +
+    geom_line() +
+    theme(title = element_text())
+```
+
+```{r}
+weekly_deaths_by_health_board <- read_csv("raw_data/weekly-deaths-by-date-health-board-location/weekly-deaths-by-date-health-board-location_Data.csv", 
+    skip = 2) %>%
+    clean_names() %>% 
+    select(week_of_occurrence:deaths) %>%
+  
+
+
+```
+
+```{r}
+
+```
+

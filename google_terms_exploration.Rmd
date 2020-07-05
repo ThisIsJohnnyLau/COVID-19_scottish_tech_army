@@ -1,0 +1,34 @@
+```{r}
+
+google_searches <- read_csv("raw_data/multiTimeline.csv",
+         col_types = cols(`loss of smell: (Scotland)` = col_double()), skip = 1) %>%
+    clean_names()
+```
+
+```{r}
+COVID_deaths <- full_data %>%
+    filter(area == "Scotland",
+           data_set == "General",
+           variable == "Number of COVID-19 confirmed deaths registered to date") %>% 
+    rename(week = date, name = variable) %>% 
+    select(-area:-data_set, -population:-people_per_square_km, -measurement) %>%
+    pivot_wider(names_from = name, values_from = value)
+```
+
+```{r}
+joined_data <-
+    left_join(google_searches, COVID_deaths, by = "week") %>%
+    clean_names()
+    
+    
+joined_data %>%
+    mutate(lag_diff = number_of_covid_19_confirmed_deaths_registered_to_date - lag(number_of_covid_19_confirmed_deaths_registered_to_date)) %>%
+    select(-number_of_covid_19_confirmed_deaths_registered_to_date) %>% 
+    pivot_longer(-week) %>%
+    ggplot() +
+    aes(x = week, y = value, group = name, colour = name) +
+    geom_line() +
+    theme(legend.position = "bottom")
+```
+
+
