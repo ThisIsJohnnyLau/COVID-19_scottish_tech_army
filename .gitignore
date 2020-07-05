@@ -12,6 +12,7 @@
 
 # User-specific files
 .Ruserdata
+*.Rproj
 
 # Notebooks
 *.Rmd
