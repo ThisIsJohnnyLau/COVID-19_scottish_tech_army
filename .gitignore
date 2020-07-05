@@ -14,7 +14,15 @@
 .Ruserdata
 
 # Notebooks
-.Rmd
+*.Rmd
+*.nb.html
+
+# Dev folder
+dev/
+
+# Shiny
+rsconnect/
+
 
 # Example code in package build process
 *-Ex.R
