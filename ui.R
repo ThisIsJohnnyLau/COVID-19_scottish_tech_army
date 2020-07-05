@@ -26,7 +26,7 @@ ui <- fluidPage(
     
     # 1st Main Tab
     tabPanel(
-      title = h2("Overview"),
+      title = h3("Overview"),
     
     
     
@@ -129,30 +129,41 @@ ui <- fluidPage(
 
 # Start of 1st main tab
 tabPanel(
-  title = h2("Local Authorities"),
+  title = h3("Indepth"),
   
   # App title
   titlePanel("COVID-19 at a local level"),
   
-  
-  # Sidebar with a slider input for date and selector for data
   sidebarLayout(
+  # Sidebar with a slider input for date and selector for data
+  
+    # sidebarPanel(
+    #   width = 3,
+    #   h3("Local Authorities"),
+    #   checkboxInput("bar", "All/None", value = T),
+    #   checkboxGroupInput("local_auth",
+    #                      label = NULL,
+    #                      inline = TRUE,
+    #                      choices = local_authorities,
+    #                      selected = "All/None"
+    #   )
+    # ),
+    
     sidebarPanel(
       width = 3,
-      h3("Local Authorities"),
-      checkboxInput("bar", "All/None", value = T),
-      checkboxGroupInput("local_auth",
-                         label = NULL,
-                         inline = TRUE,
-                         choices = local_authorities,
-                         selected = "All/None"
+      sliderInput(
+        "date",
+        h3("Date"),
+        min = min(traffic_data$date),
+        max = max(traffic_data$date),
+        value = max(traffic_data$date)
       )
-    ),
-    
+      ),
+      
     
     
     mainPanel(
-      width = 9,
+      width = 12,
       tabsetPanel(
         type = "tabs",
         
@@ -188,11 +199,11 @@ tabPanel(
         
       )
     ) # main panel
-  )# sidebar
+  )# fluid row
 ), # End of 2nd main tab
 
 tabPanel(
-  title = h2("About Us"),
+  title = h3("About Us"),
   
   # App title
   titlePanel(div(img(

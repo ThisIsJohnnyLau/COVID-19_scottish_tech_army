@@ -333,20 +333,46 @@ output$scot_covid_plot <- renderLeaflet({
                             domain = scotland_covid$number_of_deaths, 
                             bin = bins)
             
-            traffic_data %>%
-                filter(date == "2020-06-08") %>%
-                leaflet() %>%
+            traffic_map <- traffic_data %>%
+                filter(date == input$date)
+            
+            scottish_covid_map <- scotland_covid %>%
+                clean_names() %>% 
+                select(inter_zone, name, lat, long, population_2018_based, number_of_deaths)
+            
+            # %>% 
+            #     rename(site_id = inter_zone,
+            #            site_description = name,
+            #            latitude = lat,
+            #            longitude = long,
+            #            date = population_2018_based,
+            #            cars = number_of_deaths)
+            # 
+       
+                # leaflet(rbind(scottish_covid_map, traffic_map)) %>%
+            traffic_map %>% 
                 addProviderTiles(
                     providers$Esri.WorldStreetMap
                 ) %>%
-                addCircleMarkers(lng = ~longitude,
+                addCircleMarkers(data = traffic_map,
+                                 lng = ~longitude,
                                  lat = ~latitude,
                                  fillOpacity = 0.5,
                                  stroke = F,
                                  # radius = ~population_2018_based/1000,
                                  color = ~cars,
                                  popup = ~site_description
-                )
+                ) %>%
+                    addCircleMarkers(data = scottish_covid_map,
+                                     lng = ~long,
+                                     lat = ~lat,
+                                     fillOpacity = 0.5,
+                                     stroke = F,
+                                     radius = ~population_2018_based/1000,
+                                     color = ~pal(number_of_deaths),
+                                     popup = ~Name
+                    )
+                    
         })
         } # Server
 
