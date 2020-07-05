@@ -1,1 +1,0 @@
-# COVID-19_scottish_tech_army
