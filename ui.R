@@ -22,6 +22,8 @@ ui <- fluidPage(
     ),
     
     windowTitle = "Scotland COVID-19 Visualisation",
+    
+
   
     
     # 1st Main Tab
@@ -152,7 +154,7 @@ tabPanel(
     sidebarPanel(
       width = 3,
       sliderInput(
-        "date",
+        "date_2",
         h3("Date"),
         min = min(traffic_data$date),
         max = max(traffic_data$date),

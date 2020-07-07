@@ -115,6 +115,8 @@ server <- function(input, output, session){
                                      selected = "All staff")
         }
     })
+    
+    
     observe({
         if (input$data_set_choice == "Calls") {
             updateCheckboxGroupInput(session, "variable_choice", choices = calls_variables$variable,
@@ -122,8 +124,6 @@ server <- function(input, output, session){
         }
     })
    
-    
-    
     filtered_data <- reactive({
         full_data %>%
             filter(area %in% input$area_choice) %>% 
@@ -197,7 +197,7 @@ server <- function(input, output, session){
             scotland_count %>%
                 leaflet() %>%
                 addPolygons(
-                    fillColor = ~ pal(total),
+                    fillColor = ~pal(total),
                     weight = 2,
                     opacity = 1,
                     color = "white",
@@ -249,32 +249,36 @@ server <- function(input, output, session){
             
         })
         
-        observe({
-            updateCheckboxGroupInput(
-                session, 'local_auth', choices = local_authorities,
-                selected = if (input$bar) local_authorities
-            )
-        })
+        
+# check this code if problems
         
         
-        output$title1 <- renderText({ 
-            paste(input$data)
-        })
+        # observe({
+        #     updateCheckboxGroupInput(
+        #         session, 'local_auth', choices = local_authorities,
+        #         selected = if (input$bar) local_authorities
+        #     )
+        # })
         
-        output$title2 <- renderText({ 
-            paste(input$data)
-        })
         
-        
-        output$note <- renderText({
-            
-            if (input$data == "Testing - Cumulative people tested for COVID-19 - Positive") {
-                print("Note: Count is cumulative")
-            } else {
-                " "
-            }
-            
-        }) 
+        # output$title1 <- renderText({ 
+        #     paste(input$data)
+        # })
+        # 
+        # output$title2 <- renderText({ 
+        #     paste(input$data)
+        # })
+        # 
+        # 
+        # output$note <- renderText({
+        #     
+        #     if (input$data == "Testing - Cumulative people tested for COVID-19 - Positive") {
+        #         print("Note: Count is cumulative")
+        #     } else {
+        #         " "
+        #     }
+        #     
+        # }) 
         
 
 
@@ -284,13 +288,6 @@ server <- function(input, output, session){
         
 output$scot_covid_plot <- renderLeaflet({ 
     
-    # this needs to be reactive i think
-    # labels2 <- labels <- sprintf(
-    #   "<strong>%s</strong><br/>%g",
-    #   scotland_covid$Name,
-    #   scotland_covid$number_of_deaths
-    # ) %>% lapply(htmltools::HTML)
-    
     bins = c(0, 5, 17, max(scotland_covid$number_of_deaths))
     
     pal <- colorBin(c("#f1ed0e", "orange", "#FF0000"),
@@ -298,7 +295,7 @@ output$scot_covid_plot <- renderLeaflet({
                     bin = bins)
     
     scotland_covid %>%
-        filter(local_authority %in% input$local_auth) %>% 
+        # filter(local_authority %in% input$local_auth) %>% 
         leaflet() %>%
         addProviderTiles(
             providers$Esri.WorldImagery
@@ -315,30 +312,24 @@ output$scot_covid_plot <- renderLeaflet({
         
         
         ##################################################################
-        ##                  plot for traffic and deaths                 ##
+        ##                  plot for traffic             ##
         ##################################################################
         
         output$traffic_plot <- renderLeaflet({ 
             
-            # this needs to be reactive i think
-            # labels2 <- labels <- sprintf(
-            #   "<strong>%s</strong><br/>%g",
-            #   scotland_covid$Name,
-            #   scotland_covid$number_of_deaths
-            # ) %>% lapply(htmltools::HTML)
-            
-            bins = c(0, 5, 17, max(scotland_covid$number_of_deaths))
-            
-            pal <- colorBin(c("#f1ed0e", "orange", "#FF0000"),
-                            domain = scotland_covid$number_of_deaths, 
-                            bin = bins)
+            # bins = c(0, 5, 17, max(scotland_covid$number_of_deaths))
+            # 
+            # pal <- colorBin(c("#f1ed0e", "orange", "#FF0000"),
+            #                 domain = scotland_covid$number_of_deaths, 
+            #                 bin = bins)
             
             traffic_map <- traffic_data %>%
-                filter(date == input$date)
+                filter(date == input$date_2)
+                           # input$date_2)
             
-            scottish_covid_map <- scotland_covid %>%
-                clean_names() %>% 
-                select(inter_zone, name, lat, long, population_2018_based, number_of_deaths)
+            # scottish_covid_map <- scotland_covid %>%
+            #     clean_names() %>% 
+            #     select(inter_zone, name, lat, long, population_2018_based, number_of_deaths)
             
             # %>% 
             #     rename(site_id = inter_zone,
@@ -349,11 +340,9 @@ output$scot_covid_plot <- renderLeaflet({
             #            cars = number_of_deaths)
             # 
        
-                # leaflet(rbind(scottish_covid_map, traffic_map)) %>%
             traffic_map %>% 
-                addProviderTiles(
-                    providers$Esri.WorldStreetMap
-                ) %>%
+                leaflet() %>% 
+                addProviderTiles(providers$Esri.WorldStreetMap) %>%
                 addCircleMarkers(data = traffic_map,
                                  lng = ~longitude,
                                  lat = ~latitude,
@@ -361,17 +350,17 @@ output$scot_covid_plot <- renderLeaflet({
                                  stroke = F,
                                  # radius = ~population_2018_based/1000,
                                  color = ~cars,
-                                 popup = ~site_description
-                ) %>%
-                    addCircleMarkers(data = scottish_covid_map,
-                                     lng = ~long,
-                                     lat = ~lat,
-                                     fillOpacity = 0.5,
-                                     stroke = F,
-                                     radius = ~population_2018_based/1000,
-                                     color = ~pal(number_of_deaths),
-                                     popup = ~Name
-                    )
+                                 popup = ~site_description)
+                #  %>%
+                #     addCircleMarkers(data = scottish_covid_map,
+                #                      lng = ~long,
+                #                      lat = ~lat,
+                #                      fillOpacity = 0.5,
+                #                      stroke = F,
+                #                      radius = ~population_2018_based/1000,
+                #                      color = ~pal(number_of_deaths),
+                #                      popup = ~Name
+                #     )
                     
         })
         } # Server
