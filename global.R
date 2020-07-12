@@ -14,6 +14,7 @@ library(rmapshaper)
 library(sf)
 library(leaflet)
 library(openxlsx)
+library(glmulti)
 
 ##################################################################
 ##                    Rhi Data Wrangling                        ##
