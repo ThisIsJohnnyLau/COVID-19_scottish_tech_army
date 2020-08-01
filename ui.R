@@ -131,7 +131,7 @@ ui <- fluidPage(
 
 # Start of 1st main tab
 tabPanel(
-  title = h3("Indepth"),
+  title = h3("Local"),
   
   # App title
   titlePanel("COVID-19 at a local level"),
@@ -152,7 +152,7 @@ tabPanel(
     # ),
     
     sidebarPanel(
-      width = 3,
+      width = 12,
       sliderInput(
         "date_2",
         h3("Date"),
@@ -165,7 +165,7 @@ tabPanel(
     
     
     mainPanel(
-      width = 12,
+      width = 6,
       tabsetPanel(
         type = "tabs",
         
@@ -203,6 +203,13 @@ tabPanel(
     ) # main panel
   )# fluid row
 ), # End of 2nd main tab
+
+tabPanel(
+  title = h3("Indepth"),
+  
+),
+
+
 
 tabPanel(
   title = h3("About Us"),

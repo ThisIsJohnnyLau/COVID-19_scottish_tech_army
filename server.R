@@ -236,7 +236,7 @@ server <- function(input, output, session){
         output$prescriptions <- renderPlot({
             
             cardio_prescriptions %>% 
-                filter(area_name %in% input$local_auth) %>% 
+                # filter(area_name %in% input$local_auth) %>% 
                 group_by(week_ending) %>%
                 mutate(avg = mean(variation)) %>% 
                 ggplot(aes(x = week_ending, y = avg)) +

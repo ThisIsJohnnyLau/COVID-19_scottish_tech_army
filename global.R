@@ -15,7 +15,57 @@ library(sf)
 library(leaflet)
 library(openxlsx)
 library(glmulti)
+library(GGally)
+library(beepr)
 
+# # mean versus median
+# names <- SIMD_and_housing %>% 
+#     names()
+# names(names) <- "variable"
+# 
+# pcts <- names %>% 
+#     filter(variable, str_detect(pattern = "pct"))
+# 
+# counts <- c("intermediate_zone_pop",			
+#             "intermediate_zone_working_pop",
+#             "income_dep",
+#             "employ_dep")
+# 
+# ratios <- c("cif",
+#             "alcohol",
+#             "drug",
+#             "smr")
+# 
+# 
+# pcts <- c("employ_dep_pct",
+#           "depress_pct",		
+#           "lbwt_pct",
+#           "attendance_pct",
+#           "not_participating_pct",
+#           "university_pct",	
+#           "bband_pct",				
+#           "crime_pct",
+#           "overcrowded_pct",			
+#           "nocentralheat_pct")
+
+				
+				
+				
+	
+# emerg				
+# attainment_score				
+# no_qual_ratio_std				
+# petrol_ave_drive_mins				
+# gp_ave_drive_mins				
+# drive_post				
+# prim_sch_ave_drive_mins				
+# drive_retail				
+# sec_sch_ave_drive_mins				
+# gp_ave_pub_trans_mins				
+# pt_post				
+# shopping_ave_pub_trans_mins				
+# overcrowd				
+# nocentralheat				
 ##################################################################
 ##                    Rhi Data Wrangling                        ##
 ##################################################################

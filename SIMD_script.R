@@ -1,4 +1,37 @@
 
+
+
+
+# housing data
+read_csv("raw_data/dwellings-type.csv", 
+         skip = 7) %>%
+    separate("http://purl.org/linked-data/sdmx/2009/dimension#refArea",
+             into = c("a", "b", "c", "d", "e", "f", "g", "data_zone"),
+             fill = "right") %>% 
+    select(-c("a", "b", "c", "d", "e", "f", "g")) %>% 
+    clean_names() %>% 
+    write_csv("clean_data/dwellings")
+
+
+
+read_csv("raw_data/household-estimates.csv",
+         skip = 7) %>%
+    separate("http://purl.org/linked-data/sdmx/2009/dimension#refArea",
+             into = c("a", "b", "c", "d", "e", "f", "g", "data_zone"),
+             fill = "right") %>% 
+    select(-c("a", "b", "c", "d", "e", "f", "g")) %>% 
+    clean_names() %>%
+    write_csv("clean_data/household_estimates")
+
+# NB duplicated entries need addressing
+housing_data <-
+    full_join(
+        read_csv("clean_data/household_estimates"),
+        read_csv("clean_data/dwellings")
+    ) %>% 
+    filter(!duplicated(data_zone))
+
+
 # Reading from raw Excel SIMD file - data tab
 read_excel("raw_data/SIMD/SIMD+2020v2+-+indicators.xlsx", 
                                      sheet = "Data", col_types = c("text", 
@@ -16,7 +49,8 @@ read_excel("raw_data/SIMD/SIMD+2020v2+-+indicators.xlsx",
                                                                    "numeric", "numeric")) %>% 
     clean_names() %>%
     # renaming variables for my clarity
-    rename(income_dep_pct = income_rate,
+    rename(local_population = total_population,
+           income_dep_pct = income_rate,
            income_dep = income_count,
            employ_dep = employment_count,
            employ_dep_pct = employment_rate,
@@ -62,103 +96,132 @@ read_excel("raw_data/SIMD/SIMD+2020v2+-+indicators.xlsx",
 # included income and employ dep versus total_pop aswell
 # Starting off with basic data to transform local area data only.
 # Total population = the sub-intermediate zone
+#  joining housing data
 SIMD_imp <- read_csv(here("clean_data/SIMD.csv")) %>% 
     group_by(intermediate_zone) %>%
     mutate(
         crime_count = ifelse(is.na(crime_count), median(crime_count, na.rm=TRUE), crime_count),
         attainment_score = ifelse(is.na(attainment_score), median(attainment_score, na.rm=TRUE), attainment_score),
         attendance_pct = ifelse(is.na(attendance_pct), median(attendance_pct, na.rm=TRUE), attendance_pct),
-        crime_pct = crime_count / total_population * 100,
-        overcrowded_pct = overcrowd / total_population * 100,
-        nocentralheat_pct = nocentralheat / total_population * 100,
+        crime_pct = crime_count / local_population * 100,
+        overcrowded_pct = overcrowd / local_population * 100,
+        nocentralheat_pct = nocentralheat / local_population * 100,
         income_dep_pct = income_dep / working_age_population * 100,
         employ_dep_pct = employ_dep / working_age_population * 100,
-        income_dep_pct_tot = income_dep / total_population * 100,
-        employ_dep_pct_tot = employ_dep / total_population * 100,
+        income_dep_pct_tot = income_dep / local_population * 100,
+        employ_dep_pct_tot = employ_dep / local_population * 100,
         non_attendance_pct = 100 - attendance_pct,
-        working_age_pct = working_age_population / total_population * 100)
+        working_age_pct = working_age_population / local_population * 100)
 
 
-# COVID deaths data
-scotland_covid <- read_csv("clean_data/scotland_covid.csv")
 
-intermediate_zone_deaths <- scotland_covid %>%
-    clean_names() %>%
-    select(name, long, lat, number_of_deaths) %>% 
-    rename(intermediate_zone = name) %>% 
-    unique()
 
+
+# joining housing data
+SIMD_and_housing <- left_join(SIMD_imp, housing_data, by = "data_zone")
+                                #c("data_zone", "intermediate_zone" = "reference_area"))
+
+# Reading in shape file for area sizes
+    zone_data <- read_sf(here("raw_data/SG_IntermediateZoneBdry_2011/SG_IntermediateZone_Bdry_2011.shp")) %>%
+    clean_names()
+    
+        # Removing large geometry info
+   zone_data$geometry <-
+    NULL
+
+   # Selecting and renaming area info for joining to local data
+   zone_area <- zone_data %>%
+     select(inter_zone, std_area_km2) %>% 
+     rename(data_zone = inter_zone)
+   
+   area_codes <- read_csv("clean_data/area_codes_lookup.csv") %>% 
+     rename(data_zone = int_zone,
+            intermediate_zone = int_zone_name,
+            council_area = ca_name,
+            council_area_code = ca
+     ) %>%
+     select(data_zone:council_area)
+   
+   zone_area_codes <- left_join(area_codes, zone_area, by = "data_zone")
+   
+   #data file
+   management <- read_csv("clean_data/management_clean.csv")
+   
+   local_authorities <- unique(scotland_covid$local_authority) %>% 
+     sort()
+
+
+   # COVID deaths data for joining to intermediate zone aggregate data
+   
+   intermediate_zone_deaths <- read_csv("clean_data/scotland_covid.csv") %>% 
+     clean_names() %>% # intermediate_zone_code, local_authority, name,
+     filter(!duplicated(intermediate_zone_code)) %>% 
+     relocate(local_authority:intermediate_zone_code) %>% 
+     rename(intermediate_zone = name,
+            council_area = local_authority,
+            data_zone = intermediate_zone_code) %>% 
+     select(intermediate_zone, council_area, long, lat, number_of_deaths) %>% 
+     left_join(., area_codes, by = c("intermediate_zone", "council_area"))
+   
+   
+   
+
+########## Full regression data ###################
 
 SIMD_and_deaths <-
-    #  Starting with basic imputed data for local-local areas
-    SIMD_imp %>%
+    #  Starting with basic imputed data for local-local areas and housing
+    SIMD_and_housing %>%
     # Creating overall zone values and 'contribution factor'
     group_by(intermediate_zone) %>% 
-    mutate(intermediate_zone_pop = sum(total_population),
+    mutate(intermediate_zone_pop = sum(local_population),
            intermediate_zone_working_pop = sum(working_age_population),
-           weight_in_zone_pop = total_population / intermediate_zone_pop) %>% 
-    relocate(c(weight_in_zone_pop,intermediate_zone_pop, intermediate_zone_working_pop), .before = total_population) %>%
+           weight_in_zone_pop = local_population / intermediate_zone_pop) %>% 
+    relocate(c(reference_area, weight_in_zone_pop,intermediate_zone_pop, intermediate_zone_working_pop), .before = local_population) %>%
     # removing local local population data
-    select(-total_population, -working_age_population) %>% 
+    select(-local_population, -working_age_population) %>%
     # rename(intermediate_zone = name) %>%
     # Setup before dropping sub-residential area data
     pivot_longer(-data_zone:-weight_in_zone_pop) %>%
     # Creating weighted intermediary values
     mutate(value_contribution = value * weight_in_zone_pop) %>% 
-    select(-value) %>%
+    select(-value, -data_zone, -reference_area) %>%
     ungroup() %>%
     # Summing intermediary values
     group_by(intermediate_zone, name) %>% 
-    mutate(zone_value = sum(value_contribution)
-    ) %>%
+    mutate(zone_value = sum(value_contribution)) %>%
     # Dropping reference to individual residential, weights and contributions
-    select(-data_zone, -weight_in_zone_pop, -value_contribution, -council_area) %>%
+    select(-weight_in_zone_pop, -value_contribution) %>%
+    # Removing counts in favour of pct
+    filter(str_detect(name, "count", negate = TRUE)) %>% 
     # Focussing on intermediary values
     distinct() %>%
     ungroup() %>%
-    # Removing counts in favour of pct
-    filter(str_detect(name, "count", negate = TRUE)) %>%
     # Setup wider data for regression
-    pivot_wider(intermediate_zone,
+    pivot_wider(intermediate_zone:council_area,
                 names_from = name,
                 values_from = zone_value) %>%
-    # adding intermediate COVID death data
-    left_join(intermediate_zone_deaths) %>%
-    # focussing on death pct and working pop pct
-    mutate(covid_death_pct = number_of_deaths / intermediate_zone_pop * 100,
+  left_join(intermediate_zone_deaths, by = c("intermediate_zone", "council_area")) %>% 
+  relocate(number_of_deaths, .after = council_area)
+
+  
+
+
+SIMD_and_deaths_and_area <-
+    left_join(SIMD_and_deaths, zone_area, by = "data_zone") %>%
+    mutate(overall_density = (intermediate_zone_pop / std_area_km2),
+           working_pop_density = intermediate_zone_working_pop / std_area_km2,
+           non_working_pop_density = (intermediate_zone_pop - intermediate_zone_working_pop) / std_area_km2,
+           covid_death_pct = number_of_deaths / intermediate_zone_pop * 100,
            working_pop_pct = intermediate_zone_working_pop / intermediate_zone_pop * 100,
            attainment_score = attainment_score * 100) %>%
-    # reluctantly dropping NAs; consider how to impute later
-    drop_na() %>%
-    relocate(c(covid_death_pct, number_of_deaths))
-    
-    
-# Reading in shape file for area sizes
-    zone_data <- read_sf(here("raw_data/SG_IntermediateZoneBdry_2011/SG_IntermediateZone_Bdry_2011.shp")) %>%
-    clean_names()
+    relocate(c(council_area_code, data_zone, covid_death_pct, number_of_deaths), .after = council_area) %>%
+    pivot_longer(-intermediate_zone:-data_zone)
 
-# Removing large geometry info
-zone_data$geometry <-
-    NULL
-
-# Selecting and renaming area info
-zone_area <- zone_data %>% 
-    select(name, std_area_km2) %>% 
-    rename(intermediate_zone = name)
 
 # Setting up modelling data
 modelling_data <-
     left_join(SIMD_and_deaths, zone_area) %>%
     mutate(density = (intermediate_zone_pop / std_area_km2)) %>% 
     select(-intermediate_zone)
-    # dropping non-regression info group A
-    # select(-intermediate_zone_working_pop, -number_of_deaths, -long, -lat, -no_qual_ratio_std, -attendance_pct, -income_dep, -employ_dep, -overcrowd, -nocentralheat)
-
-
-#data file
-management <- read_csv("clean_data/management_clean.csv")
-
-
-
-local_authorities <- unique(scotland_covid$local_authority) %>% 
-    sort()
+# dropping non-regression info group A
+# select(-intermediate_zone_working_pop, -number_of_deaths, -long, -lat, -no_qual_ratio_std, -attendance_pct, -income_dep, -employ_dep, -overcrowd, -nocentralheat)

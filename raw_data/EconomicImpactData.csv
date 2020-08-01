@@ -1,0 +1,826 @@
+"","code","Area_Name","Day","Month","Year","Date","Indicator","Value"
+"1","S12000033","Aberdeen City","30th","June",2020,"30/06/2020","Business Support Grants Awarded",2059
+"2","S12000034","Aberdeenshire","30th","June",2020,"30/06/2020","Business Support Grants Awarded",3566
+"3","S12000041","Angus","30th","June",2020,"30/06/2020","Business Support Grants Awarded",1832
+"4","S12000035","Argyll & Bute","30th","June",2020,"30/06/2020","Business Support Grants Awarded",3177
+"5","S12000005","Clackmannanshire","30th","June",2020,"30/06/2020","Business Support Grants Awarded",614
+"6","S12000006","Dumfries & Galloway","30th","June",2020,"30/06/2020","Business Support Grants Awarded",3836
+"7","S12000042","Dundee City","30th","June",2020,"30/06/2020","Business Support Grants Awarded",2156
+"8","S12000008","East Ayrshire","30th","June",2020,"30/06/2020","Business Support Grants Awarded",1757
+"9","S12000045","East Dunbartonshire","30th","June",2020,"30/06/2020","Business Support Grants Awarded",1058
+"10","S12000010","East Lothian","30th","June",2020,"30/06/2020","Business Support Grants Awarded",1472
+"11","S12000011","East Renfrewshire","30th","June",2020,"30/06/2020","Business Support Grants Awarded",744
+"12","S12000036","City of Edinburgh","30th","June",2020,"30/06/2020","Business Support Grants Awarded",7499
+"13","S12000013","Eilean Siar","30th","June",2020,"30/06/2020","Business Support Grants Awarded",769
+"14","S12000014","Falkirk","30th","June",2020,"30/06/2020","Business Support Grants Awarded",2039
+"15","S12000047","Fife","30th","June",2020,"30/06/2020","Business Support Grants Awarded",4678
+"16","S12000049","Glasgow City","30th","June",2020,"30/06/2020","Business Support Grants Awarded",8748
+"17","S12000017","Highland","30th","June",2020,"30/06/2020","Business Support Grants Awarded",6283
+"18","S12000018","Inverclyde","30th","June",2020,"30/06/2020","Business Support Grants Awarded",898
+"19","S12000019","Midlothian","30th","June",2020,"30/06/2020","Business Support Grants Awarded",1078
+"20","S12000020","Moray","30th","June",2020,"30/06/2020","Business Support Grants Awarded",1662
+"21","S12000021","North Ayrshire","30th","June",2020,"30/06/2020","Business Support Grants Awarded",2087
+"22","S12000050","North Lanarkshire","30th","June",2020,"30/06/2020","Business Support Grants Awarded",3489
+"23","S12000023","Orkney Islands","30th","June",2020,"30/06/2020","Business Support Grants Awarded",664
+"24","S12000048","Perth & Kinross","30th","June",2020,"30/06/2020","Business Support Grants Awarded",3160
+"25","S12000038","Renfrewshire","30th","June",2020,"30/06/2020","Business Support Grants Awarded",2227
+"26","S12000026","Scottish Borders","30th","June",2020,"30/06/2020","Business Support Grants Awarded",2719
+"27","S12000027","Shetland Islands","30th","June",2020,"30/06/2020","Business Support Grants Awarded",706
+"28","S12000028","South Ayrshire","30th","June",2020,"30/06/2020","Business Support Grants Awarded",1885
+"29","S12000029","South Lanarkshire","30th","June",2020,"30/06/2020","Business Support Grants Awarded",3538
+"30","S12000030","Stirling","30th","June",2020,"30/06/2020","Business Support Grants Awarded",1975
+"31","S12000039","West Dunbartonshire","30th","June",2020,"30/06/2020","Business Support Grants Awarded",1187
+"32","S12000040","West Lothian","30th","June",2020,"30/06/2020","Business Support Grants Awarded",2218
+"33","S92000003","Scotland","30th","June",2020,"30/06/2020","Business Support Grants Awarded",81780
+"34","S12000033","Aberdeen City","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",19
+"35","S12000034","Aberdeenshire","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",23
+"36","S12000041","Angus","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",40
+"37","S12000035","Argyll & Bute","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",68
+"38","S12000005","Clackmannanshire","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",45
+"39","S12000006","Dumfries & Galloway","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",51
+"40","S12000042","Dundee City","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",48
+"41","S12000008","East Ayrshire","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",44
+"42","S12000045","East Dunbartonshire","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",31
+"43","S12000010","East Lothian","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",40
+"44","S12000011","East Renfrewshire","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",25
+"45","S12000036","City of Edinburgh","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",32
+"46","S12000013","Eilean Siar","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",52
+"47","S12000014","Falkirk","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",44
+"48","S12000047","Fife","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",40
+"49","S12000049","Glasgow City","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",37
+"50","S12000017","Highland","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",46
+"51","S12000018","Inverclyde","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",45
+"52","S12000019","Midlothian","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",38
+"53","S12000020","Moray","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",41
+"54","S12000021","North Ayrshire","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",51
+"55","S12000050","North Lanarkshire","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",36
+"56","S12000023","Orkney Islands","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",38
+"57","S12000048","Perth & Kinross","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",44
+"58","S12000038","Renfrewshire","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",37
+"59","S12000026","Scottish Borders","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",46
+"60","S12000027","Shetland Islands","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",39
+"61","S12000028","South Ayrshire","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",43
+"62","S12000029","South Lanarkshire","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",32
+"63","S12000030","Stirling","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",43
+"64","S12000039","West Dunbartonshire","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",50
+"65","S12000040","West Lothian","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",38
+"66","S92000003","Scotland","30th","June",2020,"30/06/2020","Grants per 100 Small Businesses",38
+"67","S12000033","Aberdeen City","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",1979
+"68","S12000034","Aberdeenshire","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",3529
+"69","S12000041","Angus","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",1793
+"70","S12000035","Argyll & Bute","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",3081
+"71","S12000005","Clackmannanshire","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",606
+"72","S12000006","Dumfries & Galloway","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",3728
+"73","S12000042","Dundee City","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",2100
+"74","S12000008","East Ayrshire","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",1728
+"75","S12000045","East Dunbartonshire","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",1029
+"76","S12000010","East Lothian","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",1432
+"77","S12000011","East Renfrewshire","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",741
+"78","S12000036","City of Edinburgh","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",7220
+"79","S12000013","Eilean Siar","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",746
+"80","S12000014","Falkirk","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",2010
+"81","S12000047","Fife","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",4548
+"82","S12000049","Glasgow City","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",8377
+"83","S12000017","Highland","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",6135
+"84","S12000018","Inverclyde","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",879
+"85","S12000019","Midlothian","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",1050
+"86","S12000020","Moray","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",1615
+"87","S12000021","North Ayrshire","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",2059
+"88","S12000050","North Lanarkshire","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",3384
+"89","S12000023","Orkney Islands","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",632
+"90","S12000048","Perth & Kinross","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",3114
+"91","S12000038","Renfrewshire","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",2176
+"92","S12000026","Scottish Borders","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",2582
+"93","S12000027","Shetland Islands","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",698
+"94","S12000028","South Ayrshire","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",1837
+"95","S12000029","South Lanarkshire","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",3453
+"96","S12000030","Stirling","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",1949
+"97","S12000039","West Dunbartonshire","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",1165
+"98","S12000040","West Lothian","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",2192
+"99","S92000003","Scotland","23rd","June",2020,"23/06/2020","Business Support Grants Awarded",79567
+"100","S12000033","Aberdeen City","16th","June",2020,"16/06/2020","Business Support Grants Awarded",1900
+"101","S12000034","Aberdeenshire","16th","June",2020,"16/06/2020","Business Support Grants Awarded",3450
+"102","S12000041","Angus","16th","June",2020,"16/06/2020","Business Support Grants Awarded",1762
+"103","S12000035","Argyll & Bute","16th","June",2020,"16/06/2020","Business Support Grants Awarded",2987
+"104","S12000005","Clackmannanshire","16th","June",2020,"16/06/2020","Business Support Grants Awarded",607
+"105","S12000006","Dumfries & Galloway","16th","June",2020,"16/06/2020","Business Support Grants Awarded",3618
+"106","S12000042","Dundee City","16th","June",2020,"16/06/2020","Business Support Grants Awarded",2073
+"107","S12000008","East Ayrshire","16th","June",2020,"16/06/2020","Business Support Grants Awarded",1682
+"108","S12000045","East Dunbartonshire","16th","June",2020,"16/06/2020","Business Support Grants Awarded",1008
+"109","S12000010","East Lothian","16th","June",2020,"16/06/2020","Business Support Grants Awarded",1416
+"110","S12000011","East Renfrewshire","16th","June",2020,"16/06/2020","Business Support Grants Awarded",722
+"111","S12000036","City of Edinburgh","16th","June",2020,"16/06/2020","Business Support Grants Awarded",7033
+"112","S12000013","Eilean Siar","16th","June",2020,"16/06/2020","Business Support Grants Awarded",728
+"113","S12000014","Falkirk","16th","June",2020,"16/06/2020","Business Support Grants Awarded",1979
+"114","S12000047","Fife","16th","June",2020,"16/06/2020","Business Support Grants Awarded",4400
+"115","S12000049","Glasgow City","16th","June",2020,"16/06/2020","Business Support Grants Awarded",8066
+"116","S12000017","Highland","16th","June",2020,"16/06/2020","Business Support Grants Awarded",5977
+"117","S12000018","Inverclyde","16th","June",2020,"16/06/2020","Business Support Grants Awarded",851
+"118","S12000019","Midlothian","16th","June",2020,"16/06/2020","Business Support Grants Awarded",953
+"119","S12000020","Moray","16th","June",2020,"16/06/2020","Business Support Grants Awarded",1587
+"120","S12000021","North Ayrshire","16th","June",2020,"16/06/2020","Business Support Grants Awarded",2027
+"121","S12000050","North Lanarkshire","16th","June",2020,"16/06/2020","Business Support Grants Awarded",3293
+"122","S12000023","Orkney Islands","16th","June",2020,"16/06/2020","Business Support Grants Awarded",602
+"123","S12000048","Perth & Kinross","16th","June",2020,"16/06/2020","Business Support Grants Awarded",3068
+"124","S12000038","Renfrewshire","16th","June",2020,"16/06/2020","Business Support Grants Awarded",2104
+"125","S12000026","Scottish Borders","16th","June",2020,"16/06/2020","Business Support Grants Awarded",2518
+"126","S12000027","Shetland Islands","16th","June",2020,"16/06/2020","Business Support Grants Awarded",680
+"127","S12000028","South Ayrshire","16th","June",2020,"16/06/2020","Business Support Grants Awarded",1812
+"128","S12000029","South Lanarkshire","16th","June",2020,"16/06/2020","Business Support Grants Awarded",3332
+"129","S12000030","Stirling","16th","June",2020,"16/06/2020","Business Support Grants Awarded",1909
+"130","S12000039","West Dunbartonshire","16th","June",2020,"16/06/2020","Business Support Grants Awarded",1134
+"131","S12000040","West Lothian","16th","June",2020,"16/06/2020","Business Support Grants Awarded",2146
+"132","S92000003","Scotland","16th","June",2020,"16/06/2020","Business Support Grants Awarded",77424
+"133","S12000033","Aberdeen City","9th","June",2020,"09/06/2020","Business Support Grants Awarded",1800
+"134","S12000034","Aberdeenshire","9th","June",2020,"09/06/2020","Business Support Grants Awarded",3376
+"135","S12000041","Angus","9th","June",2020,"09/06/2020","Business Support Grants Awarded",1733
+"136","S12000035","Argyll & Bute","9th","June",2020,"09/06/2020","Business Support Grants Awarded",2880
+"137","S12000005","Clackmannanshire","9th","June",2020,"09/06/2020","Business Support Grants Awarded",587
+"138","S12000006","Dumfries & Galloway","9th","June",2020,"09/06/2020","Business Support Grants Awarded",3532
+"139","S12000042","Dundee City","9th","June",2020,"09/06/2020","Business Support Grants Awarded",2025
+"140","S12000008","East Ayrshire","9th","June",2020,"09/06/2020","Business Support Grants Awarded",1645
+"141","S12000045","East Dunbartonshire","9th","June",2020,"09/06/2020","Business Support Grants Awarded",998
+"142","S12000010","East Lothian","9th","June",2020,"09/06/2020","Business Support Grants Awarded",1355
+"143","S12000011","East Renfrewshire","9th","June",2020,"09/06/2020","Business Support Grants Awarded",709
+"144","S12000036","City of Edinburgh","9th","June",2020,"09/06/2020","Business Support Grants Awarded",6754
+"145","S12000013","Eilean Siar","9th","June",2020,"09/06/2020","Business Support Grants Awarded",715
+"146","S12000014","Falkirk","9th","June",2020,"09/06/2020","Business Support Grants Awarded",1935
+"147","S12000047","Fife","9th","June",2020,"09/06/2020","Business Support Grants Awarded",4237
+"148","S12000049","Glasgow City","9th","June",2020,"09/06/2020","Business Support Grants Awarded",7705
+"149","S12000017","Highland","9th","June",2020,"09/06/2020","Business Support Grants Awarded",5707
+"150","S12000018","Inverclyde","9th","June",2020,"09/06/2020","Business Support Grants Awarded",817
+"151","S12000019","Midlothian","9th","June",2020,"09/06/2020","Business Support Grants Awarded",911
+"152","S12000020","Moray","9th","June",2020,"09/06/2020","Business Support Grants Awarded",1531
+"153","S12000021","North Ayrshire","9th","June",2020,"09/06/2020","Business Support Grants Awarded",1983
+"154","S12000050","North Lanarkshire","9th","June",2020,"09/06/2020","Business Support Grants Awarded",3171
+"155","S12000023","Orkney Islands","9th","June",2020,"09/06/2020","Business Support Grants Awarded",562
+"156","S12000048","Perth & Kinross","9th","June",2020,"09/06/2020","Business Support Grants Awarded",3022
+"157","S12000038","Renfrewshire","9th","June",2020,"09/06/2020","Business Support Grants Awarded",2075
+"158","S12000026","Scottish Borders","9th","June",2020,"09/06/2020","Business Support Grants Awarded",2403
+"159","S12000027","Shetland Islands","9th","June",2020,"09/06/2020","Business Support Grants Awarded",676
+"160","S12000028","South Ayrshire","9th","June",2020,"09/06/2020","Business Support Grants Awarded",1755
+"161","S12000029","South Lanarkshire","9th","June",2020,"09/06/2020","Business Support Grants Awarded",3204
+"162","S12000030","Stirling","9th","June",2020,"09/06/2020","Business Support Grants Awarded",1862
+"163","S12000039","West Dunbartonshire","9th","June",2020,"09/06/2020","Business Support Grants Awarded",1111
+"164","S12000040","West Lothian","9th","June",2020,"09/06/2020","Business Support Grants Awarded",2080
+"165","S92000003","Scotland","9th","June",2020,"09/06/2020","Business Support Grants Awarded",74856
+"166","S12000033","Aberdeen City","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",1722
+"167","S12000034","Aberdeenshire","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",3287
+"168","S12000041","Angus","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",1700
+"169","S12000035","Argyll & Bute","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",2759
+"170","S12000005","Clackmannanshire","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",566
+"171","S12000006","Dumfries & Galloway","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",3437
+"172","S12000042","Dundee City","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",1990
+"173","S12000008","East Ayrshire","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",1621
+"174","S12000045","East Dunbartonshire","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",976
+"175","S12000010","East Lothian","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",1328
+"176","S12000011","East Renfrewshire","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",695
+"177","S12000036","City of Edinburgh","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",6499
+"178","S12000013","Eilean Siar","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",687
+"179","S12000014","Falkirk","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",1887
+"180","S12000047","Fife","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",4104
+"181","S12000049","Glasgow City","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",7422
+"182","S12000017","Highland","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",5510
+"183","S12000018","Inverclyde","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",781
+"184","S12000019","Midlothian","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",864
+"185","S12000020","Moray","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",1471
+"186","S12000021","North Ayrshire","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",1943
+"187","S12000050","North Lanarkshire","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",3081
+"188","S12000023","Orkney Islands","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",545
+"189","S12000048","Perth & Kinross","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",2969
+"190","S12000038","Renfrewshire","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",2023
+"191","S12000026","Scottish Borders","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",2271
+"192","S12000027","Shetland Islands","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",651
+"193","S12000028","South Ayrshire","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",1714
+"194","S12000029","South Lanarkshire","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",3179
+"195","S12000030","Stirling","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",1850
+"196","S12000039","West Dunbartonshire","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",1071
+"197","S12000040","West Lothian","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",2019
+"198","S92000003","Scotland","2nd","June",2020,"02/06/2020","Business Support Grants Awarded",72622
+"199","S12000033","Aberdeen City","26th","May",2020,"26/05/2020","Business Support Grants Awarded",1641
+"200","S12000034","Aberdeenshire","26th","May",2020,"26/05/2020","Business Support Grants Awarded",3191
+"201","S12000041","Angus","26th","May",2020,"26/05/2020","Business Support Grants Awarded",1633
+"202","S12000035","Argyll & Bute","26th","May",2020,"26/05/2020","Business Support Grants Awarded",2664
+"203","S12000005","Clackmannanshire","26th","May",2020,"26/05/2020","Business Support Grants Awarded",536
+"204","S12000006","Dumfries & Galloway","26th","May",2020,"26/05/2020","Business Support Grants Awarded",3303
+"205","S12000042","Dundee City","26th","May",2020,"26/05/2020","Business Support Grants Awarded",1947
+"206","S12000008","East Ayrshire","26th","May",2020,"26/05/2020","Business Support Grants Awarded",1583
+"207","S12000045","East Dunbartonshire","26th","May",2020,"26/05/2020","Business Support Grants Awarded",946
+"208","S12000010","East Lothian","26th","May",2020,"26/05/2020","Business Support Grants Awarded",1283
+"209","S12000011","East Renfrewshire","26th","May",2020,"26/05/2020","Business Support Grants Awarded",660
+"210","S12000036","City of Edinburgh","26th","May",2020,"26/05/2020","Business Support Grants Awarded",6121
+"211","S12000013","Eilean Siar","26th","May",2020,"26/05/2020","Business Support Grants Awarded",654
+"212","S12000014","Falkirk","26th","May",2020,"26/05/2020","Business Support Grants Awarded",1824
+"213","S12000047","Fife","26th","May",2020,"26/05/2020","Business Support Grants Awarded",3944
+"214","S12000049","Glasgow City","26th","May",2020,"26/05/2020","Business Support Grants Awarded",6954
+"215","S12000017","Highland","26th","May",2020,"26/05/2020","Business Support Grants Awarded",5289
+"216","S12000018","Inverclyde","26th","May",2020,"26/05/2020","Business Support Grants Awarded",731
+"217","S12000019","Midlothian","26th","May",2020,"26/05/2020","Business Support Grants Awarded",812
+"218","S12000020","Moray","26th","May",2020,"26/05/2020","Business Support Grants Awarded",1419
+"219","S12000021","North Ayrshire","26th","May",2020,"26/05/2020","Business Support Grants Awarded",1831
+"220","S12000050","North Lanarkshire","26th","May",2020,"26/05/2020","Business Support Grants Awarded",2954
+"221","S12000023","Orkney Islands","26th","May",2020,"26/05/2020","Business Support Grants Awarded",508
+"222","S12000048","Perth & Kinross","26th","May",2020,"26/05/2020","Business Support Grants Awarded",2883
+"223","S12000038","Renfrewshire","26th","May",2020,"26/05/2020","Business Support Grants Awarded",1918
+"224","S12000026","Scottish Borders","26th","May",2020,"26/05/2020","Business Support Grants Awarded",2196
+"225","S12000027","Shetland Islands","26th","May",2020,"26/05/2020","Business Support Grants Awarded",578
+"226","S12000028","South Ayrshire","26th","May",2020,"26/05/2020","Business Support Grants Awarded",1643
+"227","S12000029","South Lanarkshire","26th","May",2020,"26/05/2020","Business Support Grants Awarded",3067
+"228","S12000030","Stirling","26th","May",2020,"26/05/2020","Business Support Grants Awarded",1804
+"229","S12000039","West Dunbartonshire","26th","May",2020,"26/05/2020","Business Support Grants Awarded",1036
+"230","S12000040","West Lothian","26th","May",2020,"26/05/2020","Business Support Grants Awarded",1955
+"231","S92000003","Scotland","26th","May",2020,"26/05/2020","Business Support Grants Awarded",69508
+"232","S12000033","Aberdeen City","19th","May",2020,"19/05/2020","Business Support Grants Awarded",1518
+"233","S12000034","Aberdeenshire","19th","May",2020,"19/05/2020","Business Support Grants Awarded",3041
+"234","S12000041","Angus","19th","May",2020,"19/05/2020","Business Support Grants Awarded",1541
+"235","S12000035","Argyll & Bute","19th","May",2020,"19/05/2020","Business Support Grants Awarded",2473
+"236","S12000005","Clackmannanshire","19th","May",2020,"19/05/2020","Business Support Grants Awarded",514
+"237","S12000006","Dumfries & Galloway","19th","May",2020,"19/05/2020","Business Support Grants Awarded",3064
+"238","S12000042","Dundee City","19th","May",2020,"19/05/2020","Business Support Grants Awarded",1877
+"239","S12000008","East Ayrshire","19th","May",2020,"19/05/2020","Business Support Grants Awarded",1514
+"240","S12000045","East Dunbartonshire","19th","May",2020,"19/05/2020","Business Support Grants Awarded",906
+"241","S12000010","East Lothian","19th","May",2020,"19/05/2020","Business Support Grants Awarded",1202
+"242","S12000011","East Renfrewshire","19th","May",2020,"19/05/2020","Business Support Grants Awarded",638
+"243","S12000036","City of Edinburgh","19th","May",2020,"19/05/2020","Business Support Grants Awarded",5667
+"244","S12000013","Eilean Siar","19th","May",2020,"19/05/2020","Business Support Grants Awarded",599
+"245","S12000014","Falkirk","19th","May",2020,"19/05/2020","Business Support Grants Awarded",1759
+"246","S12000047","Fife","19th","May",2020,"19/05/2020","Business Support Grants Awarded",3663
+"247","S12000049","Glasgow City","19th","May",2020,"19/05/2020","Business Support Grants Awarded",6487
+"248","S12000017","Highland","19th","May",2020,"19/05/2020","Business Support Grants Awarded",4661
+"249","S12000018","Inverclyde","19th","May",2020,"19/05/2020","Business Support Grants Awarded",682
+"250","S12000019","Midlothian","19th","May",2020,"19/05/2020","Business Support Grants Awarded",743
+"251","S12000020","Moray","19th","May",2020,"19/05/2020","Business Support Grants Awarded",1338
+"252","S12000021","North Ayrshire","19th","May",2020,"19/05/2020","Business Support Grants Awarded",1716
+"253","S12000050","North Lanarkshire","19th","May",2020,"19/05/2020","Business Support Grants Awarded",2806
+"254","S12000023","Orkney Islands","19th","May",2020,"19/05/2020","Business Support Grants Awarded",513
+"255","S12000048","Perth & Kinross","19th","May",2020,"19/05/2020","Business Support Grants Awarded",2731
+"256","S12000038","Renfrewshire","19th","May",2020,"19/05/2020","Business Support Grants Awarded",1845
+"257","S12000026","Scottish Borders","19th","May",2020,"19/05/2020","Business Support Grants Awarded",2092
+"258","S12000027","Shetland Islands","19th","May",2020,"19/05/2020","Business Support Grants Awarded",499
+"259","S12000028","South Ayrshire","19th","May",2020,"19/05/2020","Business Support Grants Awarded",1492
+"260","S12000029","South Lanarkshire","19th","May",2020,"19/05/2020","Business Support Grants Awarded",2792
+"261","S12000030","Stirling","19th","May",2020,"19/05/2020","Business Support Grants Awarded",1722
+"262","S12000039","West Dunbartonshire","19th","May",2020,"19/05/2020","Business Support Grants Awarded",972
+"263","S12000040","West Lothian","19th","May",2020,"19/05/2020","Business Support Grants Awarded",1845
+"264","S92000003","Scotland","19th","May",2020,"19/05/2020","Business Support Grants Awarded",64912
+"265","S12000033","Aberdeen City","12th","May",2020,"12/05/2020","Business Support Grants Awarded",1371
+"266","S12000034","Aberdeenshire","12th","May",2020,"12/05/2020","Business Support Grants Awarded",2743
+"267","S12000041","Angus","12th","May",2020,"12/05/2020","Business Support Grants Awarded",1358
+"268","S12000035","Argyll & Bute","12th","May",2020,"12/05/2020","Business Support Grants Awarded",2256
+"269","S12000005","Clackmannanshire","12th","May",2020,"12/05/2020","Business Support Grants Awarded",502
+"270","S12000006","Dumfries & Galloway","12th","May",2020,"12/05/2020","Business Support Grants Awarded",2754
+"271","S12000042","Dundee City","12th","May",2020,"12/05/2020","Business Support Grants Awarded",1731
+"272","S12000008","East Ayrshire","12th","May",2020,"12/05/2020","Business Support Grants Awarded",1334
+"273","S12000045","East Dunbartonshire","12th","May",2020,"12/05/2020","Business Support Grants Awarded",840
+"274","S12000010","East Lothian","12th","May",2020,"12/05/2020","Business Support Grants Awarded",1117
+"275","S12000011","East Renfrewshire","12th","May",2020,"12/05/2020","Business Support Grants Awarded",614
+"276","S12000036","City of Edinburgh","12th","May",2020,"12/05/2020","Business Support Grants Awarded",5193
+"277","S12000013","Eilean Siar","12th","May",2020,"12/05/2020","Business Support Grants Awarded",513
+"278","S12000014","Falkirk","12th","May",2020,"12/05/2020","Business Support Grants Awarded",1585
+"279","S12000047","Fife","12th","May",2020,"12/05/2020","Business Support Grants Awarded",3297
+"280","S12000049","Glasgow City","12th","May",2020,"12/05/2020","Business Support Grants Awarded",5884
+"281","S12000017","Highland","12th","May",2020,"12/05/2020","Business Support Grants Awarded",3998
+"282","S12000018","Inverclyde","12th","May",2020,"12/05/2020","Business Support Grants Awarded",600
+"283","S12000019","Midlothian","12th","May",2020,"12/05/2020","Business Support Grants Awarded",664
+"284","S12000020","Moray","12th","May",2020,"12/05/2020","Business Support Grants Awarded",1209
+"285","S12000021","North Ayrshire","12th","May",2020,"12/05/2020","Business Support Grants Awarded",1547
+"286","S12000050","North Lanarkshire","12th","May",2020,"12/05/2020","Business Support Grants Awarded",2582
+"287","S12000023","Orkney Islands","12th","May",2020,"12/05/2020","Business Support Grants Awarded",431
+"288","S12000048","Perth & Kinross","12th","May",2020,"12/05/2020","Business Support Grants Awarded",2534
+"289","S12000038","Renfrewshire","12th","May",2020,"12/05/2020","Business Support Grants Awarded",1718
+"290","S12000026","Scottish Borders","12th","May",2020,"12/05/2020","Business Support Grants Awarded",2026
+"291","S12000027","Shetland Islands","12th","May",2020,"12/05/2020","Business Support Grants Awarded",429
+"292","S12000028","South Ayrshire","12th","May",2020,"12/05/2020","Business Support Grants Awarded",1344
+"293","S12000029","South Lanarkshire","12th","May",2020,"12/05/2020","Business Support Grants Awarded",2664
+"294","S12000030","Stirling","12th","May",2020,"12/05/2020","Business Support Grants Awarded",1611
+"295","S12000039","West Dunbartonshire","12th","May",2020,"12/05/2020","Business Support Grants Awarded",912
+"296","S12000040","West Lothian","12th","May",2020,"12/05/2020","Business Support Grants Awarded",1706
+"297","S92000003","Scotland","12th","May",2020,"12/05/2020","Business Support Grants Awarded",59067
+"298","S12000033","Aberdeen City","5th","May",2020,"05/05/2020","Business Support Grants Awarded",1226
+"299","S12000034","Aberdeenshire","5th","May",2020,"05/05/2020","Business Support Grants Awarded",2614
+"300","S12000041","Angus","5th","May",2020,"05/05/2020","Business Support Grants Awarded",1250
+"301","S12000035","Argyll & Bute","5th","May",2020,"05/05/2020","Business Support Grants Awarded",2008
+"302","S12000005","Clackmannanshire","5th","May",2020,"05/05/2020","Business Support Grants Awarded",488
+"303","S12000006","Dumfries & Galloway","5th","May",2020,"05/05/2020","Business Support Grants Awarded",2392
+"304","S12000042","Dundee City","5th","May",2020,"05/05/2020","Business Support Grants Awarded",1596
+"305","S12000008","East Ayrshire","5th","May",2020,"05/05/2020","Business Support Grants Awarded",1323
+"306","S12000045","East Dunbartonshire","5th","May",2020,"05/05/2020","Business Support Grants Awarded",781
+"307","S12000010","East Lothian","5th","May",2020,"05/05/2020","Business Support Grants Awarded",1040
+"308","S12000011","East Renfrewshire","5th","May",2020,"05/05/2020","Business Support Grants Awarded",540
+"309","S12000036","City of Edinburgh","5th","May",2020,"05/05/2020","Business Support Grants Awarded",4591
+"310","S12000013","Eilean Siar","5th","May",2020,"05/05/2020","Business Support Grants Awarded",462
+"311","S12000014","Falkirk","5th","May",2020,"05/05/2020","Business Support Grants Awarded",1475
+"312","S12000047","Fife","5th","May",2020,"05/05/2020","Business Support Grants Awarded",2738
+"313","S12000049","Glasgow City","5th","May",2020,"05/05/2020","Business Support Grants Awarded",5071
+"314","S12000017","Highland","5th","May",2020,"05/05/2020","Business Support Grants Awarded",3705
+"315","S12000018","Inverclyde","5th","May",2020,"05/05/2020","Business Support Grants Awarded",553
+"316","S12000019","Midlothian","5th","May",2020,"05/05/2020","Business Support Grants Awarded",589
+"317","S12000020","Moray","5th","May",2020,"05/05/2020","Business Support Grants Awarded",1117
+"318","S12000021","North Ayrshire","5th","May",2020,"05/05/2020","Business Support Grants Awarded",1402
+"319","S12000050","North Lanarkshire","5th","May",2020,"05/05/2020","Business Support Grants Awarded",2367
+"320","S12000023","Orkney Islands","5th","May",2020,"05/05/2020","Business Support Grants Awarded",422
+"321","S12000048","Perth & Kinross","5th","May",2020,"05/05/2020","Business Support Grants Awarded",2365
+"322","S12000038","Renfrewshire","5th","May",2020,"05/05/2020","Business Support Grants Awarded",1637
+"323","S12000026","Scottish Borders","5th","May",2020,"05/05/2020","Business Support Grants Awarded",1937
+"324","S12000027","Shetland Islands","5th","May",2020,"05/05/2020","Business Support Grants Awarded",397
+"325","S12000028","South Ayrshire","5th","May",2020,"05/05/2020","Business Support Grants Awarded",1299
+"326","S12000029","South Lanarkshire","5th","May",2020,"05/05/2020","Business Support Grants Awarded",2459
+"327","S12000030","Stirling","5th","May",2020,"05/05/2020","Business Support Grants Awarded",1456
+"328","S12000039","West Dunbartonshire","5th","May",2020,"05/05/2020","Business Support Grants Awarded",881
+"329","S12000040","West Lothian","5th","May",2020,"05/05/2020","Business Support Grants Awarded",1584
+"330","S92000003","Scotland","5th","May",2020,"05/05/2020","Business Support Grants Awarded",53765
+"331","S12000033","Aberdeen City","28th","April",2020,"28/04/2020","Business Support Grants Awarded",1051
+"332","S12000034","Aberdeenshire","28th","April",2020,"28/04/2020","Business Support Grants Awarded",2314
+"333","S12000041","Angus","28th","April",2020,"28/04/2020","Business Support Grants Awarded",1023
+"334","S12000035","Argyll & Bute","28th","April",2020,"28/04/2020","Business Support Grants Awarded",1717
+"335","S12000005","Clackmannanshire","28th","April",2020,"28/04/2020","Business Support Grants Awarded",448
+"336","S12000006","Dumfries & Galloway","28th","April",2020,"28/04/2020","Business Support Grants Awarded",2110
+"337","S12000042","Dundee City","28th","April",2020,"28/04/2020","Business Support Grants Awarded",1426
+"338","S12000008","East Ayrshire","28th","April",2020,"28/04/2020","Business Support Grants Awarded",1190
+"339","S12000045","East Dunbartonshire","28th","April",2020,"28/04/2020","Business Support Grants Awarded",630
+"340","S12000010","East Lothian","28th","April",2020,"28/04/2020","Business Support Grants Awarded",915
+"341","S12000011","East Renfrewshire","28th","April",2020,"28/04/2020","Business Support Grants Awarded",475
+"342","S12000036","City of Edinburgh","28th","April",2020,"28/04/2020","Business Support Grants Awarded",3784
+"343","S12000013","Eilean Siar","28th","April",2020,"28/04/2020","Business Support Grants Awarded",423
+"344","S12000014","Falkirk","28th","April",2020,"28/04/2020","Business Support Grants Awarded",1352
+"345","S12000047","Fife","28th","April",2020,"28/04/2020","Business Support Grants Awarded",2051
+"346","S12000049","Glasgow City","28th","April",2020,"28/04/2020","Business Support Grants Awarded",3217
+"347","S12000017","Highland","28th","April",2020,"28/04/2020","Business Support Grants Awarded",2793
+"348","S12000018","Inverclyde","28th","April",2020,"28/04/2020","Business Support Grants Awarded",438
+"349","S12000019","Midlothian","28th","April",2020,"28/04/2020","Business Support Grants Awarded",454
+"350","S12000020","Moray","28th","April",2020,"28/04/2020","Business Support Grants Awarded",958
+"351","S12000021","North Ayrshire","28th","April",2020,"28/04/2020","Business Support Grants Awarded",1246
+"352","S12000050","North Lanarkshire","28th","April",2020,"28/04/2020","Business Support Grants Awarded",2144
+"353","S12000023","Orkney Islands","28th","April",2020,"28/04/2020","Business Support Grants Awarded",385
+"354","S12000048","Perth & Kinross","28th","April",2020,"28/04/2020","Business Support Grants Awarded",2095
+"355","S12000038","Renfrewshire","28th","April",2020,"28/04/2020","Business Support Grants Awarded",1498
+"356","S12000026","Scottish Borders","28th","April",2020,"28/04/2020","Business Support Grants Awarded",1712
+"357","S12000027","Shetland Islands","28th","April",2020,"28/04/2020","Business Support Grants Awarded",364
+"358","S12000028","South Ayrshire","28th","April",2020,"28/04/2020","Business Support Grants Awarded",1232
+"359","S12000029","South Lanarkshire","28th","April",2020,"28/04/2020","Business Support Grants Awarded",2357
+"360","S12000030","Stirling","28th","April",2020,"28/04/2020","Business Support Grants Awarded",1355
+"361","S12000039","West Dunbartonshire","28th","April",2020,"28/04/2020","Business Support Grants Awarded",814
+"362","S12000040","West Lothian","28th","April",2020,"28/04/2020","Business Support Grants Awarded",1416
+"363","S92000003","Scotland","28th","April",2020,"28/04/2020","Business Support Grants Awarded",45387
+"364","S12000033","Aberdeen City","31st","May",2020,"31/05/2020","Employments Furloughed",27700
+"365","S12000034","Aberdeenshire","31st","May",2020,"31/05/2020","Employments Furloughed",29700
+"366","S12000041","Angus","31st","May",2020,"31/05/2020","Employments Furloughed",12400
+"367","S12000035","Argyll & Bute","31st","May",2020,"31/05/2020","Employments Furloughed",9200
+"368","S12000005","Clackmannanshire","31st","May",2020,"31/05/2020","Employments Furloughed",5800
+"369","S12000006","Dumfries & Galloway","31st","May",2020,"31/05/2020","Employments Furloughed",15400
+"370","S12000042","Dundee City","31st","May",2020,"31/05/2020","Employments Furloughed",15000
+"371","S12000008","East Ayrshire","31st","May",2020,"31/05/2020","Employments Furloughed",13700
+"372","S12000045","East Dunbartonshire","31st","May",2020,"31/05/2020","Employments Furloughed",11200
+"373","S12000010","East Lothian","31st","May",2020,"31/05/2020","Employments Furloughed",12500
+"374","S12000011","East Renfrewshire","31st","May",2020,"31/05/2020","Employments Furloughed",10100
+"375","S12000036","City of Edinburgh","31st","May",2020,"31/05/2020","Employments Furloughed",58400
+"376","S12000013","Eilean Siar","31st","May",2020,"31/05/2020","Employments Furloughed",2600
+"377","S12000014","Falkirk","31st","May",2020,"31/05/2020","Employments Furloughed",18800
+"378","S12000047","Fife","31st","May",2020,"31/05/2020","Employments Furloughed",37900
+"379","S12000049","Glasgow City","31st","May",2020,"31/05/2020","Employments Furloughed",74400
+"380","S12000017","Highland","31st","May",2020,"31/05/2020","Employments Furloughed",32200
+"381","S12000018","Inverclyde","31st","May",2020,"31/05/2020","Employments Furloughed",7300
+"382","S12000019","Midlothian","31st","May",2020,"31/05/2020","Employments Furloughed",11200
+"383","S12000020","Moray","31st","May",2020,"31/05/2020","Employments Furloughed",11700
+"384","S12000021","North Ayrshire","31st","May",2020,"31/05/2020","Employments Furloughed",14000
+"385","S12000050","North Lanarkshire","31st","May",2020,"31/05/2020","Employments Furloughed",41800
+"386","S12000023","Orkney Islands","31st","May",2020,"31/05/2020","Employments Furloughed",2400
+"387","S12000048","Perth & Kinross","31st","May",2020,"31/05/2020","Employments Furloughed",19700
+"388","S12000038","Renfrewshire","31st","May",2020,"31/05/2020","Employments Furloughed",23000
+"389","S12000026","Scottish Borders","31st","May",2020,"31/05/2020","Employments Furloughed",12800
+"390","S12000027","Shetland Islands","31st","May",2020,"31/05/2020","Employments Furloughed",2700
+"391","S12000028","South Ayrshire","31st","May",2020,"31/05/2020","Employments Furloughed",12100
+"392","S12000029","South Lanarkshire","31st","May",2020,"31/05/2020","Employments Furloughed",39200
+"393","S12000030","Stirling","31st","May",2020,"31/05/2020","Employments Furloughed",11000
+"394","S12000039","West Dunbartonshire","31st","May",2020,"31/05/2020","Employments Furloughed",10400
+"395","S12000040","West Lothian","31st","May",2020,"31/05/2020","Employments Furloughed",21700
+"396","S92000003","Scotland","31st","May",2020,"31/05/2020","Employments Furloughed",628200
+"397","S12000033","Aberdeen City","31st","May",2020,"31/05/2020","Furloughed per WA pop",17.6
+"398","S12000034","Aberdeenshire","31st","May",2020,"31/05/2020","Furloughed per WA pop",18.4
+"399","S12000041","Angus","31st","May",2020,"31/05/2020","Furloughed per WA pop",17.9
+"400","S12000035","Argyll & Bute","31st","May",2020,"31/05/2020","Furloughed per WA pop",18.1
+"401","S12000005","Clackmannanshire","31st","May",2020,"31/05/2020","Furloughed per WA pop",18
+"402","S12000006","Dumfries & Galloway","31st","May",2020,"31/05/2020","Furloughed per WA pop",17.7
+"403","S12000042","Dundee City","31st","May",2020,"31/05/2020","Furloughed per WA pop",15.1
+"404","S12000008","East Ayrshire","31st","May",2020,"31/05/2020","Furloughed per WA pop",18
+"405","S12000045","East Dunbartonshire","31st","May",2020,"31/05/2020","Furloughed per WA pop",17.3
+"406","S12000010","East Lothian","31st","May",2020,"31/05/2020","Furloughed per WA pop",19
+"407","S12000011","East Renfrewshire","31st","May",2020,"31/05/2020","Furloughed per WA pop",17.8
+"408","S12000036","City of Edinburgh","31st","May",2020,"31/05/2020","Furloughed per WA pop",15.9
+"409","S12000013","Eilean Siar","31st","May",2020,"31/05/2020","Furloughed per WA pop",16.7
+"410","S12000014","Falkirk","31st","May",2020,"31/05/2020","Furloughed per WA pop",18.4
+"411","S12000047","Fife","31st","May",2020,"31/05/2020","Furloughed per WA pop",16.3
+"412","S12000049","Glasgow City","31st","May",2020,"31/05/2020","Furloughed per WA pop",16.6
+"413","S12000017","Highland","31st","May",2020,"31/05/2020","Furloughed per WA pop",22.4
+"414","S12000018","Inverclyde","31st","May",2020,"31/05/2020","Furloughed per WA pop",15
+"415","S12000019","Midlothian","31st","May",2020,"31/05/2020","Furloughed per WA pop",19.6
+"416","S12000020","Moray","31st","May",2020,"31/05/2020","Furloughed per WA pop",19.8
+"417","S12000021","North Ayrshire","31st","May",2020,"31/05/2020","Furloughed per WA pop",17.1
+"418","S12000050","North Lanarkshire","31st","May",2020,"31/05/2020","Furloughed per WA pop",19
+"419","S12000023","Orkney Islands","31st","May",2020,"31/05/2020","Furloughed per WA pop",17.9
+"420","S12000048","Perth & Kinross","31st","May",2020,"31/05/2020","Furloughed per WA pop",21.5
+"421","S12000038","Renfrewshire","31st","May",2020,"31/05/2020","Furloughed per WA pop",20
+"422","S12000026","Scottish Borders","31st","May",2020,"31/05/2020","Furloughed per WA pop",18.9
+"423","S12000027","Shetland Islands","31st","May",2020,"31/05/2020","Furloughed per WA pop",19.2
+"424","S12000028","South Ayrshire","31st","May",2020,"31/05/2020","Furloughed per WA pop",18.3
+"425","S12000029","South Lanarkshire","31st","May",2020,"31/05/2020","Furloughed per WA pop",19.4
+"426","S12000030","Stirling","31st","May",2020,"31/05/2020","Furloughed per WA pop",18.2
+"427","S12000039","West Dunbartonshire","31st","May",2020,"31/05/2020","Furloughed per WA pop",18.4
+"428","S12000040","West Lothian","31st","May",2020,"31/05/2020","Furloughed per WA pop",18.5
+"429","S92000003","Scotland","31st","May",2020,"31/05/2020","Furloughed per WA pop",18
+"430","S12000033","Aberdeen City","31st","May",2020,"31/05/2020","SEISS Claims",3900
+"431","S12000034","Aberdeenshire","31st","May",2020,"31/05/2020","SEISS Claims",6600
+"432","S12000041","Angus","31st","May",2020,"31/05/2020","SEISS Claims",3000
+"433","S12000035","Argyll & Bute","31st","May",2020,"31/05/2020","SEISS Claims",3500
+"434","S12000005","Clackmannanshire","31st","May",2020,"31/05/2020","SEISS Claims",1200
+"435","S12000006","Dumfries & Galloway","31st","May",2020,"31/05/2020","SEISS Claims",5500
+"436","S12000042","Dundee City","31st","May",2020,"31/05/2020","SEISS Claims",3100
+"437","S12000008","East Ayrshire","31st","May",2020,"31/05/2020","SEISS Claims",3500
+"438","S12000045","East Dunbartonshire","31st","May",2020,"31/05/2020","SEISS Claims",2700
+"439","S12000010","East Lothian","31st","May",2020,"31/05/2020","SEISS Claims",3600
+"440","S12000011","East Renfrewshire","31st","May",2020,"31/05/2020","SEISS Claims",2300
+"441","S12000036","City of Edinburgh","31st","May",2020,"31/05/2020","SEISS Claims",14200
+"442","S12000013","Eilean Siar","31st","May",2020,"31/05/2020","SEISS Claims",900
+"443","S12000014","Falkirk","31st","May",2020,"31/05/2020","SEISS Claims",4100
+"444","S12000047","Fife","31st","May",2020,"31/05/2020","SEISS Claims",9200
+"445","S12000049","Glasgow City","31st","May",2020,"31/05/2020","SEISS Claims",15500
+"446","S12000017","Highland","31st","May",2020,"31/05/2020","SEISS Claims",8400
+"447","S12000018","Inverclyde","31st","May",2020,"31/05/2020","SEISS Claims",1400
+"448","S12000019","Midlothian","31st","May",2020,"31/05/2020","SEISS Claims",2900
+"449","S12000020","Moray","31st","May",2020,"31/05/2020","SEISS Claims",2600
+"450","S12000021","North Ayrshire","31st","May",2020,"31/05/2020","SEISS Claims",3400
+"451","S12000050","North Lanarkshire","31st","May",2020,"31/05/2020","SEISS Claims",8500
+"452","S12000023","Orkney Islands","31st","May",2020,"31/05/2020","SEISS Claims",800
+"453","S12000048","Perth & Kinross","31st","May",2020,"31/05/2020","SEISS Claims",5000
+"454","S12000038","Renfrewshire","31st","May",2020,"31/05/2020","SEISS Claims",4100
+"455","S12000026","Scottish Borders","31st","May",2020,"31/05/2020","SEISS Claims",4600
+"456","S12000027","Shetland Islands","31st","May",2020,"31/05/2020","SEISS Claims",600
+"457","S12000028","South Ayrshire","31st","May",2020,"31/05/2020","SEISS Claims",2900
+"458","S12000029","South Lanarkshire","31st","May",2020,"31/05/2020","SEISS Claims",8900
+"459","S12000030","Stirling","31st","May",2020,"31/05/2020","SEISS Claims",2600
+"460","S12000039","West Dunbartonshire","31st","May",2020,"31/05/2020","SEISS Claims",2000
+"461","S12000040","West Lothian","31st","May",2020,"31/05/2020","SEISS Claims",4400
+"462","S92000003","Scotland","31st","May",2020,"31/05/2020","SEISS Claims",146000
+"463","S12000033","Aberdeen City","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",66
+"464","S12000034","Aberdeenshire","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",63
+"465","S12000041","Angus","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",67
+"466","S12000035","Argyll & Bute","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",69
+"467","S12000005","Clackmannanshire","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",74
+"468","S12000006","Dumfries & Galloway","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",64
+"469","S12000042","Dundee City","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",72
+"470","S12000008","East Ayrshire","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",71
+"471","S12000045","East Dunbartonshire","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",73
+"472","S12000010","East Lothian","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",74
+"473","S12000011","East Renfrewshire","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",73
+"474","S12000036","City of Edinburgh","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",70
+"475","S12000013","Eilean Siar","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",70
+"476","S12000014","Falkirk","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",76
+"477","S12000047","Fife","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",70
+"478","S12000049","Glasgow City","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",72
+"479","S12000017","Highland","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",69
+"480","S12000018","Inverclyde","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",73
+"481","S12000019","Midlothian","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",75
+"482","S12000020","Moray","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",67
+"483","S12000021","North Ayrshire","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",71
+"484","S12000050","North Lanarkshire","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",74
+"485","S12000023","Orkney Islands","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",52
+"486","S12000048","Perth & Kinross","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",68
+"487","S12000038","Renfrewshire","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",75
+"488","S12000026","Scottish Borders","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",68
+"489","S12000027","Shetland Islands","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",65
+"490","S12000028","South Ayrshire","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",69
+"491","S12000029","South Lanarkshire","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",74
+"492","S12000030","Stirling","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",69
+"493","S12000039","West Dunbartonshire","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",77
+"494","S12000040","West Lothian","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",73
+"495","S92000003","Scotland","31st","May",2020,"31/05/2020","SEISS Take-Up Rate",70
+"496","S12000033","Aberdeen City","31st","May",2020,"31/05/2020","Claimant Count",7870
+"497","S12000034","Aberdeenshire","31st","May",2020,"31/05/2020","Claimant Count",5990
+"498","S12000041","Angus","31st","May",2020,"31/05/2020","Claimant Count",3760
+"499","S12000035","Argyll & Bute","31st","May",2020,"31/05/2020","Claimant Count",3300
+"500","S12000005","Clackmannanshire","31st","May",2020,"31/05/2020","Claimant Count",2180
+"501","S12000006","Dumfries & Galloway","31st","May",2020,"31/05/2020","Claimant Count",5130
+"502","S12000042","Dundee City","31st","May",2020,"31/05/2020","Claimant Count",7070
+"503","S12000008","East Ayrshire","31st","May",2020,"31/05/2020","Claimant Count",5975
+"504","S12000045","East Dunbartonshire","31st","May",2020,"31/05/2020","Claimant Count",2780
+"505","S12000010","East Lothian","31st","May",2020,"31/05/2020","Claimant Count",3710
+"506","S12000011","East Renfrewshire","31st","May",2020,"31/05/2020","Claimant Count",2300
+"507","S12000036","City of Edinburgh","31st","May",2020,"31/05/2020","Claimant Count",17885
+"508","S12000013","Eilean Siar","31st","May",2020,"31/05/2020","Claimant Count",870
+"509","S12000014","Falkirk","31st","May",2020,"31/05/2020","Claimant Count",6280
+"510","S12000047","Fife","31st","May",2020,"31/05/2020","Claimant Count",15135
+"511","S12000049","Glasgow City","31st","May",2020,"31/05/2020","Claimant Count",36045
+"512","S12000017","Highland","31st","May",2020,"31/05/2020","Claimant Count",8340
+"513","S12000018","Inverclyde","31st","May",2020,"31/05/2020","Claimant Count",3205
+"514","S12000019","Midlothian","31st","May",2020,"31/05/2020","Claimant Count",3180
+"515","S12000020","Moray","31st","May",2020,"31/05/2020","Claimant Count",2915
+"516","S12000021","North Ayrshire","31st","May",2020,"31/05/2020","Claimant Count",7050
+"517","S12000050","North Lanarkshire","31st","May",2020,"31/05/2020","Claimant Count",15265
+"518","S12000023","Orkney Islands","31st","May",2020,"31/05/2020","Claimant Count",410
+"519","S12000048","Perth & Kinross","31st","May",2020,"31/05/2020","Claimant Count",4340
+"520","S12000038","Renfrewshire","31st","May",2020,"31/05/2020","Claimant Count",7565
+"521","S12000026","Scottish Borders","31st","May",2020,"31/05/2020","Claimant Count",3745
+"522","S12000027","Shetland Islands","31st","May",2020,"31/05/2020","Claimant Count",475
+"523","S12000028","South Ayrshire","31st","May",2020,"31/05/2020","Claimant Count",4620
+"524","S12000029","South Lanarkshire","31st","May",2020,"31/05/2020","Claimant Count",13295
+"525","S12000030","Stirling","31st","May",2020,"31/05/2020","Claimant Count",3115
+"526","S12000039","West Dunbartonshire","31st","May",2020,"31/05/2020","Claimant Count",4775
+"527","S12000040","West Lothian","31st","May",2020,"31/05/2020","Claimant Count",6665
+"528","S92000003","Scotland","31st","May",2020,"31/05/2020","Claimant Count",215240
+"529","S12000033","Aberdeen City","31st","May",2020,"31/05/2020","Claimants per WA pop",5
+"530","S12000034","Aberdeenshire","31st","May",2020,"31/05/2020","Claimants per WA pop",3.7
+"531","S12000041","Angus","31st","May",2020,"31/05/2020","Claimants per WA pop",5.4
+"532","S12000035","Argyll & Bute","31st","May",2020,"31/05/2020","Claimants per WA pop",6.4
+"533","S12000005","Clackmannanshire","31st","May",2020,"31/05/2020","Claimants per WA pop",6.8
+"534","S12000006","Dumfries & Galloway","31st","May",2020,"31/05/2020","Claimants per WA pop",5.9
+"535","S12000042","Dundee City","31st","May",2020,"31/05/2020","Claimants per WA pop",7.2
+"536","S12000008","East Ayrshire","31st","May",2020,"31/05/2020","Claimants per WA pop",7.8
+"537","S12000045","East Dunbartonshire","31st","May",2020,"31/05/2020","Claimants per WA pop",4.3
+"538","S12000010","East Lothian","31st","May",2020,"31/05/2020","Claimants per WA pop",5.7
+"539","S12000011","East Renfrewshire","31st","May",2020,"31/05/2020","Claimants per WA pop",4
+"540","S12000036","City of Edinburgh","31st","May",2020,"31/05/2020","Claimants per WA pop",4.9
+"541","S12000013","Eilean Siar","31st","May",2020,"31/05/2020","Claimants per WA pop",5.6
+"542","S12000014","Falkirk","31st","May",2020,"31/05/2020","Claimants per WA pop",6.2
+"543","S12000047","Fife","31st","May",2020,"31/05/2020","Claimants per WA pop",6.5
+"544","S12000049","Glasgow City","31st","May",2020,"31/05/2020","Claimants per WA pop",8.2
+"545","S12000017","Highland","31st","May",2020,"31/05/2020","Claimants per WA pop",5.8
+"546","S12000018","Inverclyde","31st","May",2020,"31/05/2020","Claimants per WA pop",6.5
+"547","S12000019","Midlothian","31st","May",2020,"31/05/2020","Claimants per WA pop",5.6
+"548","S12000020","Moray","31st","May",2020,"31/05/2020","Claimants per WA pop",4.9
+"549","S12000021","North Ayrshire","31st","May",2020,"31/05/2020","Claimants per WA pop",8.6
+"550","S12000050","North Lanarkshire","31st","May",2020,"31/05/2020","Claimants per WA pop",7
+"551","S12000023","Orkney Islands","31st","May",2020,"31/05/2020","Claimants per WA pop",3.1
+"552","S12000048","Perth & Kinross","31st","May",2020,"31/05/2020","Claimants per WA pop",4.7
+"553","S12000038","Renfrewshire","31st","May",2020,"31/05/2020","Claimants per WA pop",6.6
+"554","S12000026","Scottish Borders","31st","May",2020,"31/05/2020","Claimants per WA pop",5.5
+"555","S12000027","Shetland Islands","31st","May",2020,"31/05/2020","Claimants per WA pop",3.3
+"556","S12000028","South Ayrshire","31st","May",2020,"31/05/2020","Claimants per WA pop",6.9
+"557","S12000029","South Lanarkshire","31st","May",2020,"31/05/2020","Claimants per WA pop",6.6
+"558","S12000030","Stirling","31st","May",2020,"31/05/2020","Claimants per WA pop",5.1
+"559","S12000039","West Dunbartonshire","31st","May",2020,"31/05/2020","Claimants per WA pop",8.4
+"560","S12000040","West Lothian","31st","May",2020,"31/05/2020","Claimants per WA pop",5.7
+"561","S92000003","Scotland","31st","May",2020,"31/05/2020","Claimants per WA pop",6.2
+"562","S12000033","Aberdeen City","30th","April",2020,"30/04/2020","Claimant Count",6705
+"563","S12000034","Aberdeenshire","30th","April",2020,"30/04/2020","Claimant Count",5185
+"564","S12000041","Angus","30th","April",2020,"30/04/2020","Claimant Count",3290
+"565","S12000035","Argyll & Bute","30th","April",2020,"30/04/2020","Claimant Count",2815
+"566","S12000005","Clackmannanshire","30th","April",2020,"30/04/2020","Claimant Count",1975
+"567","S12000006","Dumfries & Galloway","30th","April",2020,"30/04/2020","Claimant Count",4890
+"568","S12000042","Dundee City","30th","April",2020,"30/04/2020","Claimant Count",6430
+"569","S12000008","East Ayrshire","30th","April",2020,"30/04/2020","Claimant Count",5405
+"570","S12000045","East Dunbartonshire","30th","April",2020,"30/04/2020","Claimant Count",2360
+"571","S12000010","East Lothian","30th","April",2020,"30/04/2020","Claimant Count",3185
+"572","S12000011","East Renfrewshire","30th","April",2020,"30/04/2020","Claimant Count",1855
+"573","S12000036","City of Edinburgh","30th","April",2020,"30/04/2020","Claimant Count",13980
+"574","S12000013","Eilean Siar","30th","April",2020,"30/04/2020","Claimant Count",805
+"575","S12000014","Falkirk","30th","April",2020,"30/04/2020","Claimant Count",5525
+"576","S12000047","Fife","30th","April",2020,"30/04/2020","Claimant Count",13690
+"577","S12000049","Glasgow City","30th","April",2020,"30/04/2020","Claimant Count",31590
+"578","S12000017","Highland","30th","April",2020,"30/04/2020","Claimant Count",7080
+"579","S12000018","Inverclyde","30th","April",2020,"30/04/2020","Claimant Count",3000
+"580","S12000019","Midlothian","30th","April",2020,"30/04/2020","Claimant Count",2735
+"581","S12000020","Moray","30th","April",2020,"30/04/2020","Claimant Count",2545
+"582","S12000021","North Ayrshire","30th","April",2020,"30/04/2020","Claimant Count",6535
+"583","S12000050","North Lanarkshire","30th","April",2020,"30/04/2020","Claimant Count",13465
+"584","S12000023","Orkney Islands","30th","April",2020,"30/04/2020","Claimant Count",380
+"585","S12000048","Perth & Kinross","30th","April",2020,"30/04/2020","Claimant Count",3575
+"586","S12000038","Renfrewshire","30th","April",2020,"30/04/2020","Claimant Count",6685
+"587","S12000026","Scottish Borders","30th","April",2020,"30/04/2020","Claimant Count",3325
+"588","S12000027","Shetland Islands","30th","April",2020,"30/04/2020","Claimant Count",430
+"589","S12000028","South Ayrshire","30th","April",2020,"30/04/2020","Claimant Count",4290
+"590","S12000029","South Lanarkshire","30th","April",2020,"30/04/2020","Claimant Count",11590
+"591","S12000030","Stirling","30th","April",2020,"30/04/2020","Claimant Count",2795
+"592","S12000039","West Dunbartonshire","30th","April",2020,"30/04/2020","Claimant Count",4450
+"593","S12000040","West Lothian","30th","April",2020,"30/04/2020","Claimant Count",5600
+"594","S92000003","Scotland","30th","April",2020,"30/04/2020","Claimant Count",188175
+"595","S12000033","Aberdeen City","30th","April",2020,"30/04/2020","Claimants per WA pop",4.3
+"596","S12000034","Aberdeenshire","30th","April",2020,"30/04/2020","Claimants per WA pop",3.2
+"597","S12000041","Angus","30th","April",2020,"30/04/2020","Claimants per WA pop",4.7
+"598","S12000035","Argyll & Bute","30th","April",2020,"30/04/2020","Claimants per WA pop",5.5
+"599","S12000005","Clackmannanshire","30th","April",2020,"30/04/2020","Claimants per WA pop",6.1
+"600","S12000006","Dumfries & Galloway","30th","April",2020,"30/04/2020","Claimants per WA pop",5.6
+"601","S12000042","Dundee City","30th","April",2020,"30/04/2020","Claimants per WA pop",6.5
+"602","S12000008","East Ayrshire","30th","April",2020,"30/04/2020","Claimants per WA pop",7.1
+"603","S12000045","East Dunbartonshire","30th","April",2020,"30/04/2020","Claimants per WA pop",3.6
+"604","S12000010","East Lothian","30th","April",2020,"30/04/2020","Claimants per WA pop",4.9
+"605","S12000011","East Renfrewshire","30th","April",2020,"30/04/2020","Claimants per WA pop",3.3
+"606","S12000036","City of Edinburgh","30th","April",2020,"30/04/2020","Claimants per WA pop",3.9
+"607","S12000013","Eilean Siar","30th","April",2020,"30/04/2020","Claimants per WA pop",5.1
+"608","S12000014","Falkirk","30th","April",2020,"30/04/2020","Claimants per WA pop",5.4
+"609","S12000047","Fife","30th","April",2020,"30/04/2020","Claimants per WA pop",5.9
+"610","S12000049","Glasgow City","30th","April",2020,"30/04/2020","Claimants per WA pop",7.1
+"611","S12000017","Highland","30th","April",2020,"30/04/2020","Claimants per WA pop",4.9
+"612","S12000018","Inverclyde","30th","April",2020,"30/04/2020","Claimants per WA pop",6.1
+"613","S12000019","Midlothian","30th","April",2020,"30/04/2020","Claimants per WA pop",4.8
+"614","S12000020","Moray","30th","April",2020,"30/04/2020","Claimants per WA pop",4.3
+"615","S12000021","North Ayrshire","30th","April",2020,"30/04/2020","Claimants per WA pop",7.9
+"616","S12000050","North Lanarkshire","30th","April",2020,"30/04/2020","Claimants per WA pop",6.1
+"617","S12000023","Orkney Islands","30th","April",2020,"30/04/2020","Claimants per WA pop",2.8
+"618","S12000048","Perth & Kinross","30th","April",2020,"30/04/2020","Claimants per WA pop",3.9
+"619","S12000038","Renfrewshire","30th","April",2020,"30/04/2020","Claimants per WA pop",5.8
+"620","S12000026","Scottish Borders","30th","April",2020,"30/04/2020","Claimants per WA pop",4.9
+"621","S12000027","Shetland Islands","30th","April",2020,"30/04/2020","Claimants per WA pop",3
+"622","S12000028","South Ayrshire","30th","April",2020,"30/04/2020","Claimants per WA pop",6.4
+"623","S12000029","South Lanarkshire","30th","April",2020,"30/04/2020","Claimants per WA pop",5.7
+"624","S12000030","Stirling","30th","April",2020,"30/04/2020","Claimants per WA pop",4.6
+"625","S12000039","West Dunbartonshire","30th","April",2020,"30/04/2020","Claimants per WA pop",7.8
+"626","S12000040","West Lothian","30th","April",2020,"30/04/2020","Claimants per WA pop",4.8
+"627","S92000003","Scotland","30th","April",2020,"30/04/2020","Claimants per WA pop",5.4
+"628","S12000033","Aberdeen City","30th","March",2020,"30/03/2020","Claimant Count",4165
+"629","S12000034","Aberdeenshire","30th","March",2020,"30/03/2020","Claimant Count",2955
+"630","S12000041","Angus","30th","March",2020,"30/03/2020","Claimant Count",2030
+"631","S12000035","Argyll & Bute","30th","March",2020,"30/03/2020","Claimant Count",1510
+"632","S12000005","Clackmannanshire","30th","March",2020,"30/03/2020","Claimant Count",1350
+"633","S12000006","Dumfries & Galloway","30th","March",2020,"30/03/2020","Claimant Count",2910
+"634","S12000042","Dundee City","30th","March",2020,"30/03/2020","Claimant Count",4435
+"635","S12000008","East Ayrshire","30th","March",2020,"30/03/2020","Claimant Count",3610
+"636","S12000045","East Dunbartonshire","30th","March",2020,"30/03/2020","Claimant Count",1235
+"637","S12000010","East Lothian","30th","March",2020,"30/03/2020","Claimant Count",1720
+"638","S12000011","East Renfrewshire","30th","March",2020,"30/03/2020","Claimant Count",975
+"639","S12000036","City of Edinburgh","30th","March",2020,"30/03/2020","Claimant Count",7285
+"640","S12000013","Eilean Siar","30th","March",2020,"30/03/2020","Claimant Count",465
+"641","S12000014","Falkirk","30th","March",2020,"30/03/2020","Claimant Count",3325
+"642","S12000047","Fife","30th","March",2020,"30/03/2020","Claimant Count",8810
+"643","S12000049","Glasgow City","30th","March",2020,"30/03/2020","Claimant Count",20295
+"644","S12000017","Highland","30th","March",2020,"30/03/2020","Claimant Count",3660
+"645","S12000018","Inverclyde","30th","March",2020,"30/03/2020","Claimant Count",2215
+"646","S12000019","Midlothian","30th","March",2020,"30/03/2020","Claimant Count",1495
+"647","S12000020","Moray","30th","March",2020,"30/03/2020","Claimant Count",1575
+"648","S12000021","North Ayrshire","30th","March",2020,"30/03/2020","Claimant Count",4495
+"649","S12000050","North Lanarkshire","30th","March",2020,"30/03/2020","Claimant Count",8225
+"650","S12000023","Orkney Islands","30th","March",2020,"30/03/2020","Claimant Count",200
+"651","S12000048","Perth & Kinross","30th","March",2020,"30/03/2020","Claimant Count",1860
+"652","S12000038","Renfrewshire","30th","March",2020,"30/03/2020","Claimant Count",4015
+"653","S12000026","Scottish Borders","30th","March",2020,"30/03/2020","Claimant Count",1900
+"654","S12000027","Shetland Islands","30th","March",2020,"30/03/2020","Claimant Count",265
+"655","S12000028","South Ayrshire","30th","March",2020,"30/03/2020","Claimant Count",2755
+"656","S12000029","South Lanarkshire","30th","March",2020,"30/03/2020","Claimant Count",7045
+"657","S12000030","Stirling","30th","March",2020,"30/03/2020","Claimant Count",1530
+"658","S12000039","West Dunbartonshire","30th","March",2020,"30/03/2020","Claimant Count",2885
+"659","S12000040","West Lothian","30th","March",2020,"30/03/2020","Claimant Count",3450
+"660","S92000003","Scotland","30th","March",2020,"30/03/2020","Claimant Count",114650
+"661","S12000033","Aberdeen City","30th","March",2020,"30/03/2020","Claimants per WA pop",2.7
+"662","S12000034","Aberdeenshire","30th","March",2020,"30/03/2020","Claimants per WA pop",1.8
+"663","S12000041","Angus","30th","March",2020,"30/03/2020","Claimants per WA pop",2.9
+"664","S12000035","Argyll & Bute","30th","March",2020,"30/03/2020","Claimants per WA pop",2.9
+"665","S12000005","Clackmannanshire","30th","March",2020,"30/03/2020","Claimants per WA pop",4.2
+"666","S12000006","Dumfries & Galloway","30th","March",2020,"30/03/2020","Claimants per WA pop",3.3
+"667","S12000042","Dundee City","30th","March",2020,"30/03/2020","Claimants per WA pop",4.5
+"668","S12000008","East Ayrshire","30th","March",2020,"30/03/2020","Claimants per WA pop",4.7
+"669","S12000045","East Dunbartonshire","30th","March",2020,"30/03/2020","Claimants per WA pop",1.9
+"670","S12000010","East Lothian","30th","March",2020,"30/03/2020","Claimants per WA pop",2.6
+"671","S12000011","East Renfrewshire","30th","March",2020,"30/03/2020","Claimants per WA pop",1.7
+"672","S12000036","City of Edinburgh","30th","March",2020,"30/03/2020","Claimants per WA pop",2
+"673","S12000013","Eilean Siar","30th","March",2020,"30/03/2020","Claimants per WA pop",3
+"674","S12000014","Falkirk","30th","March",2020,"30/03/2020","Claimants per WA pop",3.3
+"675","S12000047","Fife","30th","March",2020,"30/03/2020","Claimants per WA pop",3.8
+"676","S12000049","Glasgow City","30th","March",2020,"30/03/2020","Claimants per WA pop",4.6
+"677","S12000017","Highland","30th","March",2020,"30/03/2020","Claimants per WA pop",2.5
+"678","S12000018","Inverclyde","30th","March",2020,"30/03/2020","Claimants per WA pop",4.5
+"679","S12000019","Midlothian","30th","March",2020,"30/03/2020","Claimants per WA pop",2.6
+"680","S12000020","Moray","30th","March",2020,"30/03/2020","Claimants per WA pop",2.7
+"681","S12000021","North Ayrshire","30th","March",2020,"30/03/2020","Claimants per WA pop",5.5
+"682","S12000050","North Lanarkshire","30th","March",2020,"30/03/2020","Claimants per WA pop",3.8
+"683","S12000023","Orkney Islands","30th","March",2020,"30/03/2020","Claimants per WA pop",1.5
+"684","S12000048","Perth & Kinross","30th","March",2020,"30/03/2020","Claimants per WA pop",2
+"685","S12000038","Renfrewshire","30th","March",2020,"30/03/2020","Claimants per WA pop",3.5
+"686","S12000026","Scottish Borders","30th","March",2020,"30/03/2020","Claimants per WA pop",2.8
+"687","S12000027","Shetland Islands","30th","March",2020,"30/03/2020","Claimants per WA pop",1.8
+"688","S12000028","South Ayrshire","30th","March",2020,"30/03/2020","Claimants per WA pop",4.1
+"689","S12000029","South Lanarkshire","30th","March",2020,"30/03/2020","Claimants per WA pop",3.5
+"690","S12000030","Stirling","30th","March",2020,"30/03/2020","Claimants per WA pop",2.5
+"691","S12000039","West Dunbartonshire","30th","March",2020,"30/03/2020","Claimants per WA pop",5.1
+"692","S12000040","West Lothian","30th","March",2020,"30/03/2020","Claimants per WA pop",3
+"693","S92000003","Scotland","30th","March",2020,"30/03/2020","Claimants per WA pop",3.3
+"694","S12000033","Aberdeen City","29th","February",2020,"29/02/2020","Claimant Count",4150
+"695","S12000034","Aberdeenshire","29th","February",2020,"29/02/2020","Claimant Count",2975
+"696","S12000041","Angus","29th","February",2020,"29/02/2020","Claimant Count",2040
+"697","S12000035","Argyll & Bute","29th","February",2020,"29/02/2020","Claimant Count",1530
+"698","S12000005","Clackmannanshire","29th","February",2020,"29/02/2020","Claimant Count",1390
+"699","S12000006","Dumfries & Galloway","29th","February",2020,"29/02/2020","Claimant Count",2950
+"700","S12000042","Dundee City","29th","February",2020,"29/02/2020","Claimant Count",4530
+"701","S12000008","East Ayrshire","29th","February",2020,"29/02/2020","Claimant Count",3685
+"702","S12000045","East Dunbartonshire","29th","February",2020,"29/02/2020","Claimant Count",1230
+"703","S12000010","East Lothian","29th","February",2020,"29/02/2020","Claimant Count",1765
+"704","S12000011","East Renfrewshire","29th","February",2020,"29/02/2020","Claimant Count",950
+"705","S12000036","City of Edinburgh","29th","February",2020,"29/02/2020","Claimant Count",7105
+"706","S12000013","Eilean Siar","29th","February",2020,"29/02/2020","Claimant Count",465
+"707","S12000014","Falkirk","29th","February",2020,"29/02/2020","Claimant Count",3300
+"708","S12000047","Fife","29th","February",2020,"29/02/2020","Claimant Count",8765
+"709","S12000049","Glasgow City","29th","February",2020,"29/02/2020","Claimant Count",20055
+"710","S12000017","Highland","29th","February",2020,"29/02/2020","Claimant Count",3715
+"711","S12000018","Inverclyde","29th","February",2020,"29/02/2020","Claimant Count",2255
+"712","S12000019","Midlothian","29th","February",2020,"29/02/2020","Claimant Count",1470
+"713","S12000020","Moray","29th","February",2020,"29/02/2020","Claimant Count",1550
+"714","S12000021","North Ayrshire","29th","February",2020,"29/02/2020","Claimant Count",4600
+"715","S12000050","North Lanarkshire","29th","February",2020,"29/02/2020","Claimant Count",8230
+"716","S12000023","Orkney Islands","29th","February",2020,"29/02/2020","Claimant Count",195
+"717","S12000048","Perth & Kinross","29th","February",2020,"29/02/2020","Claimant Count",1865
+"718","S12000038","Renfrewshire","29th","February",2020,"29/02/2020","Claimant Count",4025
+"719","S12000026","Scottish Borders","29th","February",2020,"29/02/2020","Claimant Count",1860
+"720","S12000027","Shetland Islands","29th","February",2020,"29/02/2020","Claimant Count",265
+"721","S12000028","South Ayrshire","29th","February",2020,"29/02/2020","Claimant Count",2790
+"722","S12000029","South Lanarkshire","29th","February",2020,"29/02/2020","Claimant Count",7015
+"723","S12000030","Stirling","29th","February",2020,"29/02/2020","Claimant Count",1540
+"724","S12000039","West Dunbartonshire","29th","February",2020,"29/02/2020","Claimant Count",2930
+"725","S12000040","West Lothian","29th","February",2020,"29/02/2020","Claimant Count",3425
+"726","S92000003","Scotland","29th","February",2020,"29/02/2020","Claimant Count",114605
+"727","S12000033","Aberdeen City","29th","February",2020,"29/02/2020","Claimants per WA pop",2.6
+"728","S12000034","Aberdeenshire","29th","February",2020,"29/02/2020","Claimants per WA pop",1.8
+"729","S12000041","Angus","29th","February",2020,"29/02/2020","Claimants per WA pop",2.9
+"730","S12000035","Argyll & Bute","29th","February",2020,"29/02/2020","Claimants per WA pop",3
+"731","S12000005","Clackmannanshire","29th","February",2020,"29/02/2020","Claimants per WA pop",4.3
+"732","S12000006","Dumfries & Galloway","29th","February",2020,"29/02/2020","Claimants per WA pop",3.4
+"733","S12000042","Dundee City","29th","February",2020,"29/02/2020","Claimants per WA pop",4.6
+"734","S12000008","East Ayrshire","29th","February",2020,"29/02/2020","Claimants per WA pop",4.8
+"735","S12000045","East Dunbartonshire","29th","February",2020,"29/02/2020","Claimants per WA pop",1.9
+"736","S12000010","East Lothian","29th","February",2020,"29/02/2020","Claimants per WA pop",2.7
+"737","S12000011","East Renfrewshire","29th","February",2020,"29/02/2020","Claimants per WA pop",1.7
+"738","S12000036","City of Edinburgh","29th","February",2020,"29/02/2020","Claimants per WA pop",2
+"739","S12000013","Eilean Siar","29th","February",2020,"29/02/2020","Claimants per WA pop",3
+"740","S12000014","Falkirk","29th","February",2020,"29/02/2020","Claimants per WA pop",3.2
+"741","S12000047","Fife","29th","February",2020,"29/02/2020","Claimants per WA pop",3.8
+"742","S12000049","Glasgow City","29th","February",2020,"29/02/2020","Claimants per WA pop",4.5
+"743","S12000017","Highland","29th","February",2020,"29/02/2020","Claimants per WA pop",2.6
+"744","S12000018","Inverclyde","29th","February",2020,"29/02/2020","Claimants per WA pop",4.6
+"745","S12000019","Midlothian","29th","February",2020,"29/02/2020","Claimants per WA pop",2.6
+"746","S12000020","Moray","29th","February",2020,"29/02/2020","Claimants per WA pop",2.6
+"747","S12000021","North Ayrshire","29th","February",2020,"29/02/2020","Claimants per WA pop",5.6
+"748","S12000050","North Lanarkshire","29th","February",2020,"29/02/2020","Claimants per WA pop",3.8
+"749","S12000023","Orkney Islands","29th","February",2020,"29/02/2020","Claimants per WA pop",1.4
+"750","S12000048","Perth & Kinross","29th","February",2020,"29/02/2020","Claimants per WA pop",2
+"751","S12000038","Renfrewshire","29th","February",2020,"29/02/2020","Claimants per WA pop",3.5
+"752","S12000026","Scottish Borders","29th","February",2020,"29/02/2020","Claimants per WA pop",2.7
+"753","S12000027","Shetland Islands","29th","February",2020,"29/02/2020","Claimants per WA pop",1.9
+"754","S12000028","South Ayrshire","29th","February",2020,"29/02/2020","Claimants per WA pop",4.2
+"755","S12000029","South Lanarkshire","29th","February",2020,"29/02/2020","Claimants per WA pop",3.5
+"756","S12000030","Stirling","29th","February",2020,"29/02/2020","Claimants per WA pop",2.5
+"757","S12000039","West Dunbartonshire","29th","February",2020,"29/02/2020","Claimants per WA pop",5.1
+"758","S12000040","West Lothian","29th","February",2020,"29/02/2020","Claimants per WA pop",2.9
+"759","S92000003","Scotland","29th","February",2020,"29/02/2020","Claimants per WA pop",3.3
+"760","S12000033","Aberdeen City","30th","January",2020,"30/01/2020","Claimant Count",4015
+"761","S12000034","Aberdeenshire","30th","January",2020,"30/01/2020","Claimant Count",2920
+"762","S12000041","Angus","30th","January",2020,"30/01/2020","Claimant Count",2045
+"763","S12000035","Argyll & Bute","30th","January",2020,"30/01/2020","Claimant Count",1445
+"764","S12000005","Clackmannanshire","30th","January",2020,"30/01/2020","Claimant Count",1350
+"765","S12000006","Dumfries & Galloway","30th","January",2020,"30/01/2020","Claimant Count",2830
+"766","S12000042","Dundee City","30th","January",2020,"30/01/2020","Claimant Count",4435
+"767","S12000008","East Ayrshire","30th","January",2020,"30/01/2020","Claimant Count",3695
+"768","S12000045","East Dunbartonshire","30th","January",2020,"30/01/2020","Claimant Count",1215
+"769","S12000010","East Lothian","30th","January",2020,"30/01/2020","Claimant Count",1750
+"770","S12000011","East Renfrewshire","30th","January",2020,"30/01/2020","Claimant Count",970
+"771","S12000036","City of Edinburgh","30th","January",2020,"30/01/2020","Claimant Count",6910
+"772","S12000013","Eilean Siar","30th","January",2020,"30/01/2020","Claimant Count",420
+"773","S12000014","Falkirk","30th","January",2020,"30/01/2020","Claimant Count",3280
+"774","S12000047","Fife","30th","January",2020,"30/01/2020","Claimant Count",8505
+"775","S12000049","Glasgow City","30th","January",2020,"30/01/2020","Claimant Count",19655
+"776","S12000017","Highland","30th","January",2020,"30/01/2020","Claimant Count",3705
+"777","S12000018","Inverclyde","30th","January",2020,"30/01/2020","Claimant Count",2200
+"778","S12000019","Midlothian","30th","January",2020,"30/01/2020","Claimant Count",1410
+"779","S12000020","Moray","30th","January",2020,"30/01/2020","Claimant Count",1495
+"780","S12000021","North Ayrshire","30th","January",2020,"30/01/2020","Claimant Count",4475
+"781","S12000050","North Lanarkshire","30th","January",2020,"30/01/2020","Claimant Count",8030
+"782","S12000023","Orkney Islands","30th","January",2020,"30/01/2020","Claimant Count",190
+"783","S12000048","Perth & Kinross","30th","January",2020,"30/01/2020","Claimant Count",1815
+"784","S12000038","Renfrewshire","30th","January",2020,"30/01/2020","Claimant Count",3980
+"785","S12000026","Scottish Borders","30th","January",2020,"30/01/2020","Claimant Count",1835
+"786","S12000027","Shetland Islands","30th","January",2020,"30/01/2020","Claimant Count",230
+"787","S12000028","South Ayrshire","30th","January",2020,"30/01/2020","Claimant Count",2740
+"788","S12000029","South Lanarkshire","30th","January",2020,"30/01/2020","Claimant Count",6830
+"789","S12000030","Stirling","30th","January",2020,"30/01/2020","Claimant Count",1495
+"790","S12000039","West Dunbartonshire","30th","January",2020,"30/01/2020","Claimant Count",2830
+"791","S12000040","West Lothian","30th","January",2020,"30/01/2020","Claimant Count",3260
+"792","S92000003","Scotland","30th","January",2020,"30/01/2020","Claimant Count",111955
+"793","S12000033","Aberdeen City","30th","January",2020,"30/01/2020","Claimants per WA pop",2.6
+"794","S12000034","Aberdeenshire","30th","January",2020,"30/01/2020","Claimants per WA pop",1.8
+"795","S12000041","Angus","30th","January",2020,"30/01/2020","Claimants per WA pop",2.9
+"796","S12000035","Argyll & Bute","30th","January",2020,"30/01/2020","Claimants per WA pop",2.8
+"797","S12000005","Clackmannanshire","30th","January",2020,"30/01/2020","Claimants per WA pop",4.2
+"798","S12000006","Dumfries & Galloway","30th","January",2020,"30/01/2020","Claimants per WA pop",3.2
+"799","S12000042","Dundee City","30th","January",2020,"30/01/2020","Claimants per WA pop",4.5
+"800","S12000008","East Ayrshire","30th","January",2020,"30/01/2020","Claimants per WA pop",4.8
+"801","S12000045","East Dunbartonshire","30th","January",2020,"30/01/2020","Claimants per WA pop",1.9
+"802","S12000010","East Lothian","30th","January",2020,"30/01/2020","Claimants per WA pop",2.7
+"803","S12000011","East Renfrewshire","30th","January",2020,"30/01/2020","Claimants per WA pop",1.7
+"804","S12000036","City of Edinburgh","30th","January",2020,"30/01/2020","Claimants per WA pop",1.9
+"805","S12000013","Eilean Siar","30th","January",2020,"30/01/2020","Claimants per WA pop",2.7
+"806","S12000014","Falkirk","30th","January",2020,"30/01/2020","Claimants per WA pop",3.2
+"807","S12000047","Fife","30th","January",2020,"30/01/2020","Claimants per WA pop",3.7
+"808","S12000049","Glasgow City","30th","January",2020,"30/01/2020","Claimants per WA pop",4.4
+"809","S12000017","Highland","30th","January",2020,"30/01/2020","Claimants per WA pop",2.6
+"810","S12000018","Inverclyde","30th","January",2020,"30/01/2020","Claimants per WA pop",4.5
+"811","S12000019","Midlothian","30th","January",2020,"30/01/2020","Claimants per WA pop",2.5
+"812","S12000020","Moray","30th","January",2020,"30/01/2020","Claimants per WA pop",2.5
+"813","S12000021","North Ayrshire","30th","January",2020,"30/01/2020","Claimants per WA pop",5.4
+"814","S12000050","North Lanarkshire","30th","January",2020,"30/01/2020","Claimants per WA pop",3.7
+"815","S12000023","Orkney Islands","30th","January",2020,"30/01/2020","Claimants per WA pop",1.4
+"816","S12000048","Perth & Kinross","30th","January",2020,"30/01/2020","Claimants per WA pop",2
+"817","S12000038","Renfrewshire","30th","January",2020,"30/01/2020","Claimants per WA pop",3.5
+"818","S12000026","Scottish Borders","30th","January",2020,"30/01/2020","Claimants per WA pop",2.7
+"819","S12000027","Shetland Islands","30th","January",2020,"30/01/2020","Claimants per WA pop",1.6
+"820","S12000028","South Ayrshire","30th","January",2020,"30/01/2020","Claimants per WA pop",4.1
+"821","S12000029","South Lanarkshire","30th","January",2020,"30/01/2020","Claimants per WA pop",3.4
+"822","S12000030","Stirling","30th","January",2020,"30/01/2020","Claimants per WA pop",2.5
+"823","S12000039","West Dunbartonshire","30th","January",2020,"30/01/2020","Claimants per WA pop",5
+"824","S12000040","West Lothian","30th","January",2020,"30/01/2020","Claimants per WA pop",2.8
+"825","S92000003","Scotland","30th","January",2020,"30/01/2020","Claimants per WA pop",3.2

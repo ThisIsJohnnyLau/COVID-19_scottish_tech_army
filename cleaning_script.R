@@ -72,9 +72,14 @@ read_excel("raw_data/pop_estimates.xlsx",
     write_csv("clean_data/comprehensive_data_with_populations.csv")
 
 
+# Area codes
+    read_csv("raw_data/area_code_lookup.csv") %>% 
+        clean_names() %>%
+        write_csv("clean_data/area_codes_lookup.csv")
 # 
 # # 4. FT Excess Deaths
 # read_excel("raw_data/ft_excess_deaths.xls") %>% 
 #     write_csv("clean_data/ft_excess_deaths_clean.csv")
 
 
+# council area deaths
