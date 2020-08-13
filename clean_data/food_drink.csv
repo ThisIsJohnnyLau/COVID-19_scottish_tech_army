@@ -1,0 +1,3189 @@
+data_zone,intermediate_zone,count
+S92000003,Scotland,16265
+S12000033,Aberdeen City,785
+S12000034,Aberdeenshire,645
+S12000041,Angus,305
+S12000035,Argyll and Bute,515
+S12000036,City of Edinburgh,2175
+S12000005,Clackmannanshire,115
+S12000006,Dumfries and Galloway,610
+S12000042,Dundee City,430
+S12000008,East Ayrshire,260
+S12000045,East Dunbartonshire,165
+S12000010,East Lothian,255
+S12000011,East Renfrewshire,140
+S12000014,Falkirk,330
+S12000047,Fife,870
+S12000049,Glasgow City,2085
+S12000017,Highland,1230
+S12000018,Inverclyde,175
+S12000019,Midlothian,185
+S12000020,Moray,300
+S12000013,Na h-Eileanan Siar,110
+S12000021,North Ayrshire,375
+S12000050,North Lanarkshire,690
+S12000023,Orkney Islands,75
+S12000048,Perth and Kinross,580
+S12000038,Renfrewshire,420
+S12000026,Scottish Borders,375
+S12000027,Shetland Islands,95
+S12000028,South Ayrshire,355
+S12000029,South Lanarkshire,680
+S12000030,Stirling,390
+S12000039,West Dunbartonshire,200
+S12000040,West Lothian,345
+S02000401,"Abbeyhill, Meadowbank and Marionville",15
+S02000095,Aberchirder and Whitehills,10
+S02000508,Aberdour and Auchtertool,15
+S02000956,Aberuthven and Almondbank,10
+S02000054,Aboyne and South Deeside,15
+S02000937,Abronhill North,0
+S02000932,Abronhill South,5
+S02000918,Airdrie North,15
+S02000884,Allanton,10
+S02000157,Alloa North,5
+S02000153,Alloa South and East,35
+S02000154,Alloa West,5
+S02001062,Alloway and Doonfoot,10
+S02000755,Alness,10
+S02000254,Altonhill North and Onthank,5
+S02000252,"Altonhill South, Longpark and Hillhead",10
+S02000162,Alva,10
+S02000979,Alyth,10
+S02000651,Anderston,30
+S02000129,Angus Glens,15
+S02000177,Annan North,5
+S02000174,Annan South,20
+S02001076,"Annbank, Mossblown and Tarbolton - the Coalfields",5
+S02000702,Anniesland East,10
+S02000705,Anniesland West,5
+S02000565,Anstruther,20
+S02000478,Antonshill,0
+S02000114,Arbroath Cliffburn,5
+S02000112,Arbroath Harbour,40
+S02000111,Arbroath Keptie,10
+S02000113,Arbroath Kirkton,5
+S02000115,Arbroath Warddykes,5
+S02000225,Ardler and St Marys,10
+S02000849,Ardrossan Central,15
+S02000855,Ardrossan North East,5
+S02000854,Ardrossan North West,5
+S02001222,Armadale,20
+S02000832,Arran,50
+S02001095,Ashgill and Netherburn,5
+S02000026,Ashgrove,5
+S02000322,Auchenback,0
+S02000260,Auchinairn,10
+S02000238,Auchinleck,10
+S02000084,Auchnagatt,0
+S02000953,Auchterarder,20
+S02000087,Auchterless and Monquhitter,0
+S02000570,Auchtermuchty and Gateside,5
+S02001069,"Ayr North Harbour, Wallacetown and Newton South",20
+S02001067,Ayr South Harbour and Town Centre,95
+S02000340,Baberton and Juniper Green,10
+S02000723,Badenoch and Strathspey Central,55
+S02000726,Badenoch and Strathspey North,35
+S02000721,Badenoch and Strathspey South,40
+S02000618,Baillieston East,25
+S02000626,Baillieston West,0
+S02000470,Bainsford and Langlees,5
+S02000330,Balerno,5
+S02000204,Balgay,10
+S02000042,Balgownie and Donmouth East,10
+S02000041,Balgownie and Donmouth West,5
+S02000380,Balgreen and Roseburn,5
+S02000538,Ballingry,5
+S02000933,Balloch East,10
+S02000936,Balloch West,5
+S02000941,Balmalloch,5
+S02000069,Balmedie and Potterton,5
+S02000581,Balmullo and Gauldry,5
+S02000697,Balornock,0
+S02000057,Banchory,20
+S02000059,Banchory-Devenick and Findon,10
+S02000099,Banff,20
+S02001158,Bankhead South,5
+S02000445,Banknock and Haggs,5
+S02001165,Bannockburn,20
+S02000453,Bantaskin,5
+S02001079,Barassie,0
+S02000646,Barlanark,5
+S02000282,Barloch,5
+S02000687,Barmulloch,5
+S02000212,Barnhill,10
+S02000413,Barnton and Cammo,5
+S02000431,Barra and South Uist,15
+S02000074,Barrahill,10
+S02001225,Bathgate East,45
+S02001219,Bathgate West,0
+S02000607,Battlefield,20
+S02000215,Baxter Park,0
+S02000862,Beith East and Rural,10
+S02000864,Beith West,0
+S02000241,Bellfield and Kirkstyle,5
+S02000898,Bellshill Central,20
+S02000892,Bellshill South,20
+S02001065,Belmont,5
+S02000432,Benbecula and North Ui,15
+S02000150,Benderloch Trail,35
+S02001047,Berwickshire Central,10
+S02001048,Berwickshire East,25
+S02001045,Berwickshire West,5
+S02001085,"Biggar, Symington, Thankerton and Dolphinton",20
+S02000378,"Bingham, Magdalene and the Christians",5
+S02000901,Birkenshaw,5
+S02001112,"Birniehill, Kelvin and Whitehills East",10
+S02000268,Bishopbriggs North and Kenmure,5
+S02000264,Bishopbriggs West and Cadder,20
+S02001020,Bishopton,15
+S02000753,Black Isle North,10
+S02000748,Black Isle South,25
+S02001212,Blackburn,15
+S02000355,Blackford,20
+S02000397,Blackhall,10
+S02000678,Blackhill and Barmulloch East,5
+S02000454,"Blackness, Carriden and Grahamsdyke",10
+S02001215,Blackridge,5
+S02001205,Blaeberry Hill,5
+S02000982,"Blair Atholl, Strathardle and Glenshee",35
+S02000709,Blairdardie East,0
+S02000711,Blairdardie West,5
+S02000978,Blairgowrie East (Rattray),5
+S02000977,Blairgowrie West,30
+S02001163,Blane Valley,5
+S02001143,Blantyre South and Wheatlands,10
+S02001144,Blantytre North and Coatshill,10
+S02000331,Bonaly and Pentlands,10
+S02000418,Bonnington and Pilrig,20
+S02000465,Bonnybridge,15
+S02000802,Bonnyrigg North,20
+S02000800,Bonnyrigg South,0
+S02000250,Bonnyton and Town Centre,50
+S02000190,Boreland and Ecclefechan,5
+S02001168,Borestone,10
+S02000423,Boswall and Pilton,5
+S02001147,Bothwell North,0
+S02001145,Bothwell South,10
+S02000779,"Bow Farm, Barrs Cottage, Cowdenknowes and Overton",5
+S02000456,Bowhouse,5
+S02000440,Braes Villages,0
+S02000782,"Braeside, Branchton, Lower Larkfield and Ravenscraig",5
+S02000011,"Braeside, Mannofield, Broomhill and Seafield East",10
+S02000013,"Braeside, Mannofield, Broomhill and Seafield North",5
+S02000009,"Braeside, Mannofield, Broomhill and Seafield South",0
+S02000620,Braidfauld,15
+S02000347,Braids,0
+S02000126,Brechin East,10
+S02000127,Brechin West,10
+S02001202,Breich Valley,5
+S02001178,Bridge of Allan,20
+S02000955,Bridge of Earn and Abernethy,10
+S02001008,Bridge of Weir,10
+S02000444,"Brightons, Reddingmuirhead and Wallacest",10
+S02000438,Broadbay,0
+S02000679,Broomhill,10
+S02000358,Broomhouse and Sighthill,10
+S02000412,Broughton,20
+S02000213,Broughty Ferry East,5
+S02000206,Broughty Ferry Wes,45
+S02001227,Broxburn,15
+S02000376,Bruntsfield,35
+S02000540,Buckhaven and Muiredge,0
+S02000828,Buckie Central East,10
+S02000827,Buckie West and Mains of Buckie,15
+S02000043,Bucksburn North,20
+S02000039,Bucksburn South,5
+S02000399,Bughtlin and Parkgrove,5
+S02001159,"Burgh, Eastfield and Silverbank",5
+S02000829,"Burghead, Roseisle and Laich",10
+S02000962,Burghmuir and Oakbank,0
+S02001137,Burnbank Central and Udston,5
+S02001141,Burnbank North,15
+S02001133,Burnbank South and Chantinghall,10
+S02001026,Burnfoot and area,0
+S02001160,Burnhill and Bankhead North,5
+S02001150,Burnside and Springhall,5
+S02000495,Burntisland East,5
+S02000500,Burntisland West,10
+S02000315,Busby,10
+S02000132,Bute,5
+S02000223,Caird Park,0
+S02000490,Cairneyhill and Crombie,0
+S02000908,Cairnhill,25
+S02000768,Caithness North East,15
+S02000767,Caithness North West,10
+S02000763,Caithness South,10
+S02000921,Caldercruix and Plains,10
+S02000350,Calders,5
+S02001217,Calderwood,10
+S02001136,Calderwood Central,0
+S02001138,Calderwood East,0
+S02001132,Calderwood West and Nerston,10
+S02001182,Callander,25
+S02000635,"Calton, Galllowgate and Bridgeton",35
+S02001166,Cambusbarron and Carron Vall,5
+S02001153,Cambuslang Central,15
+S02000459,Camelon East,20
+S02000458,Camelon West,5
+S02000130,Campbeltown,20
+S02000534,Cardenden,15
+S02000637,Cardonald North,0
+S02000625,Cardonald South and East,20
+S02000627,Cardonald West and Central,20
+S02000896,Carfin North,10
+S02000887,"Carfin, Cleekhimin and New Stevenston",15
+S02001100,Carluke East,0
+S02001104,Carluke North,10
+S02001099,Carluke South,10
+S02001103,Carluke West,5
+S02000591,Carmunnock North,0
+S02000584,Carmunnock South,0
+S02000613,Carmyle and Mount Vernon South,5
+S02000108,Carnoustie East,10
+S02000107,Carnoustie West,10
+S02000657,Carntyne,5
+S02000648,Carntyne West and Haghill,20
+S02000594,Carnwadric East,5
+S02000592,Carnwadric West,5
+S02000372,Carrick Knowe,5
+S02001060,Carrick North,15
+S02001057,Carrick South,25
+S02000938,Carrickstone,5
+S02000474,Carron,5
+S02000476,Carronshore,5
+S02000480,Carse and Grangemouth Old Town,10
+S02001093,"Carstairs, Carstairs Junction and Carnwath",5
+S02000168,Castle Douglas,25
+S02001064,Castlehill and Kincaidston,0
+S02000589,Castlemilk,5
+S02000599,Cathcart,10
+S02000189,Catherinefield,0
+S02000662,Central Easterhouse,5
+S02001053,Central Shetland,10
+S02000964,"Central, North Inch and South Inch",110
+S02000903,Chapelhall East,10
+S02000902,Chapelhall West,0
+S02001083,"Chapelton, Glengavel and Sandford",0
+S02000216,Charleston,5
+S02001029,Cheviot East,10
+S02001025,Cheviot West,5
+S02000925,Chryston and Muirhead,10
+S02000018,City Centre,250
+S02000201,City Centre,105
+S02000658,City Centre East,145
+S02000655,City Centre West,465
+S02000152,"Clackmannan, Kennet and Forestmill",5
+S02000317,Clarkston and Sheddens,10
+S02000080,Clashindarroch,5
+S02000885,Cleland,5
+S02000400,Clermiston,5
+S02000394,Clerwood and Corstorphine (Hillview),0
+S02000911,Cliftonville South,20
+S02000348,Clovenstone and Drumbryden,0
+S02001081,Clydesdale South,5
+S02000913,Coatbridge West,10
+S02000915,Coatdyke and Whinhall,30
+S02001043,Coldstream and area,10
+S02000344,Colinton and Kingsknowe,5
+S02000880,Coltness,5
+S02000408,Comely Bank,5
+S02000336,Comiston and Swanston,5
+S02000960,"Comrie, Gilmerton and St Fillans",20
+S02000928,Condorrat,5
+S02000747,Conon and Muir of Ord,15
+S02000383,Corstorphine,25
+S02000976,Coupar Angus and Meigle,15
+S02000005,Cove North,35
+S02000001,Cove South,0
+S02000146,Cowal North,35
+S02000137,Cowal South,20
+S02000519,Cowdenbeath North,5
+S02000515,Cowdenbeath South,5
+S02000676,Cowlairs and Port Dundas,15
+S02001063,Coylton,5
+S02000663,Craigend and Ruchazie,10
+S02000406,Craigentinny,0
+S02000352,Craighouse and South Morningside,10
+S02000207,Craigie and Craigiebank,5
+S02000407,Craigleith,5
+S02000351,Craiglockhart,10
+S02000914,Craigneuk Airdrie,5
+S02000878,Craigneuk Wishaw,5
+S02001218,Craigshill,5
+S02000638,Craigton,5
+S02000569,Crail and Boarhills,20
+S02000421,Cramond,5
+S02000654,"Cranhill, Lightburn and Queenslie South",5
+S02000060,Crathes and Torphins,10
+S02000179,Cree Valley,30
+S02000958,Crieff North,15
+S02000957,Crieff South,20
+S02000193,Crocketford and Carsphairn,15
+S02000065,Cromar and Kildrummy,10
+S02000318,Crookfur and Fruin,10
+S02000606,Crookston North,0
+S02000601,Crookston South,0
+S02000329,Cross Stobbs,0
+S02001096,"Crossford, Braidwood and Yieldshields",5
+S02000491,"Crossford, Charleston and Limekilns",10
+S02000498,Crossgates and Halbeath,25
+S02000249,Crosshouse and Gatehead Rural,5
+S02001105,Crosshouse and Lindsayfield,0
+S02000082,Cruden,10
+S02000820,"Cullen, Portknockie, Findochty, Drybridge and Berryhillock",15
+S02000003,Culter,10
+S02000004,"Cults, Bieldside and Milltimber East",15
+S02000007,"Cults, Bieldside and Milltimber West",0
+S02000934,Cumbernauld Central,20
+S02000030,Cummings Park,5
+S02000236,Cumnock North,15
+S02000237,Cumnock Rural,10
+S02000234,Cumnock South and Craigens,5
+S02000575,Cupar Central,25
+S02000574,Cupar East,5
+S02000573,Cupar West and Springfield,5
+S02000337,Currie East,10
+S02000339,Currie West,0
+S02000571,"Dairsie, Ceres and Dunino",10
+S02000167,Dalbeattie,35
+S02000484,Dalgety Bay Central,5
+S02000487,Dalgety Bay East,10
+S02000485,Dalgety Bay West and Hillend,5
+S02000805,Dalkeith,25
+S02000370,Dalkeith Rd,30
+S02000619,Dalmarnock,5
+S02001068,Dalmilling and Craigie,0
+S02000859,Dalry East and Rural,15
+S02000861,Dalry West,0
+S02000381,Dalry and Fountainbridge,40
+S02000040,Danestone,5
+S02000587,Darnley East,0
+S02000590,Darnley North,5
+S02000586,Darnley West,10
+S02000247,Darvel,5
+S02000253,Dean and New Farm Loch North,0
+S02000389,"Dean, West End and West Coates",205
+S02001221,Deans,5
+S02001229,Dechmont,5
+S02001211,Dedridge,5
+S02000093,Deer and Mormond,10
+S02000046,Denmore,15
+S02000650,Dennistoun,10
+S02000659,Dennistoun North and Alexandra Parade,20
+S02000752,Dingwall,25
+S02000203,Docks and Wellgate,25
+S02000161,Dollar and Muckhart,10
+S02000231,Doon Valley North,0
+S02000230,Doon Valley South,10
+S02000451,Douglas,5
+S02000218,Douglas East,0
+S02000222,Douglas West,5
+S02001082,"Douglas, Coalburn and Rigside",10
+S02000681,Dowanhill,25
+S02000227,Downfield,5
+S02000834,Dreghorn,10
+S02000233,Drongan,5
+S02000715,Drumchapel North,0
+S02000712,Drumchapel South,10
+S02000917,Drumgelloch,10
+S02000660,Drumoyne and Shieldhall,10
+S02000716,Drumry East,5
+S02000714,Drumry West,5
+S02000411,Drylaw,10
+S02000384,Duddingston,5
+S02000184,Dumfries East,20
+S02000180,Dumfries South,15
+S02000183,Dumfries West,5
+S02001181,Dunblane East,10
+S02001180,Dunblane West,10
+S02001080,"Dundonald, Loans and Symington",15
+S02000909,Dundyvan,10
+S02000061,"Dunecht, Durris and Drumoak",10
+S02000497,Dunfermline Abbeyview North,10
+S02000494,Dunfermline Abbeyview South,0
+S02000504,Dunfermline Baldridgeburn,10
+S02000509,Dunfermline Bellyeoman,0
+S02000496,Dunfermline Brucefield,10
+S02000499,Dunfermline Central,50
+S02000493,Dunfermline East and Pitcorthie East,10
+S02000503,Dunfermline Garvock Hill,0
+S02000505,Dunfermline Headwell,0
+S02000510,Dunfermline Milesmark and Wellwood,0
+S02000492,Dunfermline Pitcorthie West,5
+S02000502,Dunfermline Touch and Woodmill,0
+S02000513,Dunfermline Townhill and Kingseat,5
+S02000479,Dunipace,5
+S02000135,Dunoon,25
+S02001046,Duns,10
+S02000328,"Dunterlie, East Arthurlie and Dovecothall",30
+S02000073,Durno-Chapel of Garioch,5
+S02000047,Dyce,70
+S02000528,Dysart,10
+S02000310,Eaglesham and Waterfoot,5
+S02000244,Earlston and Hurlford Rural,10
+S02001044,"Earlston, Lauder and Stow area",20
+S02001128,Earnock,5
+S02000056,East Cairngorms,35
+S02001213,East Calder,0
+S02000284,East Clober and Mains Estate,5
+S02000388,East Craigs,15
+S02000945,East Kirkwall,10
+S02000943,East Mainland,10
+S02001130,East Mains,30
+S02000424,East Trinity and Bonnyhaugh,10
+S02001054,East and West Mainland,5
+S02000653,Easterhouse East,5
+S02000801,Easthouses,5
+S02001115,Eddlewood,0
+S02000999,Elderslie and Phoenix,15
+S02000824,Elgin Bishopmill East and Ladyhill,30
+S02000825,Elgin Bishopmill West and Newfield,0
+S02000823,Elgin Cathedral to Ashgrove and Pinefield,30
+S02000822,Elgin Central West,20
+S02001220,Eliburn,5
+S02000564,"Elie, Colinsburgh and Largoward",15
+S02000076,Ellon East,25
+S02000077,Ellon West,5
+S02000970,Errol and Inchture,5
+S02001018,Erskine Central,5
+S02001017,Erskine East and Inchinnan,0
+S02001019,Erskine West,5
+S02000804,Eskbank,15
+S02001028,"Ettrick, Yarrow and Yair",15
+S02001049,Eyemouth,15
+S02001122,Fairhill,0
+S02000860,Fairlie and Rural,15
+S02000335,Fairmilehead,5
+S02000219,Fairmuir,20
+S02000452,Falkirk Town Centre and Callendar Park,55
+S02000567,Falkland and Freuchie,10
+S02001170,Fallin,5
+S02000895,Fallside,20
+S02000473,"Fankerton, Stoneywood and Denny Town",10
+S02001162,Farme Cross and Gallowflat North,15
+S02001204,Fauldhouse,5
+S02001146,Fernhill and Cathkin,0
+S02000343,"Ferniehill,  South Moredun and Craigour",5
+S02000016,Ferryhill North,10
+S02000010,Ferryhill South,10
+S02000053,"Fetteresso, Netherley and Catter",10
+S02000815,"Findhorn, Kinloss and Pluscarden Valley",15
+S02000661,Finnieston and Kelvinhaugh,105
+S02000229,Fintry,5
+S02000675,Firhill,10
+S02000158,"Fishcross, Devon Village and Coalsnaughton",0
+S02000173,Fleet,30
+S02000813,"Fochabers, Aultmore, Clochan and Ordiquish",10
+S02000119,Forfar Central,25
+S02000120,Forfar East,10
+S02000118,Forfar West,5
+S02000886,Forgewood,5
+S02000817,Forres Central East and seaward,25
+S02000814,Forres South West and Mannachie,5
+S02000366,Forrester Park and Broomhall,5
+S02000719,Fort William North,10
+S02000717,Fort William South,55
+S02001113,"Forth, Braehead and Auchengray",5
+S02001173,Forthside,20
+S02000103,Fraserburgh Central-Academy,5
+S02000104,Fraserburgh Harbour and Broadsea,30
+S02000102,Fraserburgh Lochpots,5
+S02000101,Fraserburgh Smiddyhill,0
+S02000122,Friockheim,15
+S02000029,"Froghall, Powis and Sunnybank",5
+S02000081,Fyvie-Rothie,5
+S02001038,Galashiels North,20
+S02001035,Galashiels South,15
+S02001037,Galashiels West,10
+S02000647,Gallowgate North and Bellgrove,10
+S02000242,Galston,15
+S02000961,Gannochy and Walnut Grove,10
+S02000096,Gardenstown and King Edward,10
+S02000143,Garelochhead,15
+S02000062,Garlogie and Elrick,5
+S02000645,Garrowhill East and Swinton,5
+S02000636,Garrowhill West,10
+S02000924,Gartcosh and Marnock,10
+S02000674,"Garthamlock, Auchinlea and Gartloch",15
+S02000008,Garthdee,10
+S02000912,Gartlea,5
+S02000024,George Street,45
+S02000181,Georgetown,0
+S02001059,Girvan Ailsa,20
+S02001058,Girvan Glendoune,0
+S02000668,Glasgow Harbour and  Partick South,20
+S02001098,"Glassford, Quarter and Allanton",10
+S02000954,"Glenfarg, Dunning and Rhynd",10
+S02000922,Glenmavis and Greengairs,5
+S02000549,Glenrothes Auchmuty,0
+S02000559,"Glenrothes Balfarg, Pitcairn and Coul",5
+S02000561,Glenrothes Balgeddie,5
+S02000556,Glenrothes Cadham and Pitcoudie,5
+S02000548,Glenrothes Caskieberran and Rimbleton,0
+S02000560,Glenrothes Collydean,0
+S02000553,Glenrothes Macedonia and Tanshall,5
+S02000544,Glenrothes Pitteuchar,5
+S02000554,Glenrothes South Parks,20
+S02000542,Glenrothes Stenton and Finglassie,10
+S02000545,Glenrothes Woodside,10
+S02000588,Glenwood North,5
+S02000585,Glenwood South,0
+S02000628,Gorbals and Hutchesontown,10
+S02000793,Gorebridge and Middleton,5
+S02000377,Gorgie East,5
+S02000373,Gorgie West,15
+S02000785,"Gourock Central, Upper East and IRH",15
+S02000787,"Gourock East, Greenock West and Lyle Road",0
+S02000786,Gourock Upper and West Central & Upper Larkfield,5
+S02000656,Govan and Linthouse,25
+S02000615,Govanhill East and Aikenhead,10
+S02000616,Govanhill West,20
+S02000333,"Gracemount, Southouse and Burdiehouse",5
+S02000460,Grahamston,25
+S02000361,Grange,20
+S02000245,"Grange, Howard and Gargieston",5
+S02000468,Grangemouth Town Centre,15
+S02000420,Great Junction Street,30
+S02000142,Greater Lochgilphead,10
+S02000354,Greendykes and Niddrie Mains,15
+S02000904,Greenend and Carnbroe,0
+S02000929,Greenfaulds,10
+S02000640,Greenfield,5
+S02001109,Greenhills,5
+S02000778,Greenock East,5
+S02000781,Greenock Town Centre and East Central,55
+S02000780,Greenock Upper Central,5
+S02000784,Greenock West and Central,25
+S02001206,Greenrigg,5
+S02000176,Gretna and Eastriggs,25
+S02000972,"Guildtown, Balbeggie and St Madoes",10
+S02001120,Hairmyres and Westwood West,10
+S02001156,"Halfway, Hallside and Drumsagard",15
+S02000446,Hallglen and Glen Village,0
+S02001139,Hamilton Centre and Low Parks,60
+S02000022,Hanover,35
+S02001101,Hareleeshill,0
+S02000280,Harestanes,0
+S02000433,Harris,15
+S02000906,Harthill and Salsburgh,5
+S02000897,Hattonrigg,0
+S02001023,Hawick Central,25
+S02001024,Hawick North,0
+S02001022,Hawick West End,15
+S02001087,Hazelbank and Kirkfieldbank,5
+S02000014,Hazlehead,10
+S02000461,Head of Muir and Dennyloanhead,5
+S02001072,Heathfield,5
+S02000034,Heathryfold and Middlefield,0
+S02000816,"Heldon West, Fogwatt to Inchberry",5
+S02000139,Helensburgh Centre,35
+S02000138,Helensburgh East,0
+S02000140,Helensburgh North,0
+S02000141,Helensburgh West and Rhu,5
+S02000414,Hermitage Park and Prospect Bank,10
+S02001140,High Blantyre,15
+S02000448,High Bonnybridge and Greenhill,5
+S02001154,High Crosshill,5
+S02001183,Highland,75
+S02000514,Hill of Beath,0
+S02000277,Hillhead,10
+S02000664,Hillhead,60
+S02001134,Hillhouse,0
+S02000639,Hillington,5
+S02000128,Hillside,5
+S02000402,Hillside and Calton Hill,40
+S02000211,Hilltown,25
+S02000969,"Hillyland, Tulloch and Inveralmond",10
+S02000033,Hilton,5
+S02001066,Holmston and Forehill,5
+S02000893,Holytown,10
+S02001226,Houston,15
+S02001012,Houston North,5
+S02001009,Houston South,0
+S02001214,Howden,40
+S02000068,Howe of Alford,15
+S02000136,Hunter's Quay,10
+S02000083,Huntly,15
+S02000359,Hutchison and Moat,10
+S02000338,Hyvots and Gilmerton Dykes,5
+S02000295,IZ Eight,15
+S02001191,IZ Eight,5
+S02000305,IZ Eighteen,20
+S02001201,IZ Eighteen,15
+S02000298,IZ Eleven,25
+S02001194,IZ Eleven,5
+S02000302,IZ Fifteen,20
+S02001198,IZ Fifteen,15
+S02000292,IZ Five,5
+S02001188,IZ Five,10
+S02000291,IZ Four,5
+S02001187,IZ Four,5
+S02000301,IZ Fourteen,15
+S02001197,IZ Fourteen,10
+S02000296,IZ Nine,25
+S02001192,IZ Nine,30
+S02000306,IZ Nineteen,10
+S02000288,IZ One,10
+S02001184,IZ One,5
+S02000294,IZ Seven,5
+S02001190,IZ Seven,5
+S02000304,IZ Seventeen,15
+S02001200,IZ Seventeen,30
+S02000293,IZ Six,0
+S02001189,IZ Six,10
+S02000303,IZ Sixteen,15
+S02001199,IZ Sixteen,5
+S02000297,IZ Ten,5
+S02001193,IZ Ten,0
+S02000300,IZ Thirteen,5
+S02001196,IZ Thirteen,5
+S02000290,IZ Three,5
+S02001186,IZ Three,5
+S02000299,IZ Twelve,5
+S02001195,IZ Twelve,5
+S02000307,IZ Twenty,15
+S02000308,IZ Twenty One,5
+S02000309,IZ Twenty Two,30
+S02000289,IZ Two,0
+S02001185,IZ Two,35
+S02000649,Ibrox,10
+S02000644,Ibrox East and Cessnock,20
+S02001039,Innerleithen and Walkerburn area,20
+S02000079,"Insch, Oyne and Ythanwells",10
+S02000756,Invergordon,10
+S02000973,"Invergowrie, Longforgan and Abernyte",5
+S02000483,Inverkeithing East,10
+S02000773,Inverkip and Wemyss Bay,10
+S02000415,Inverleith,10
+S02000735,Inverness Ballifeary and Dalneigh,10
+S02000742,"Inverness Central, Raigmore and Longman",95
+S02000736,Inverness Crown and Haugh,40
+S02000743,Inverness Culloden and Balloch,5
+S02000734,Inverness Drakies,5
+S02000732,Inverness Drummond,10
+S02000727,Inverness East Rural,15
+S02000733,Inverness Hilton,0
+S02000729,Inverness Inshes and Slackbuie,15
+S02000731,Inverness Kinmylies and South West,5
+S02000730,Inverness Lochardil and Holm Mains,5
+S02000744,Inverness Merkinch,5
+S02000739,Inverness Muirtown,25
+S02000741,Inverness Scorguie,0
+S02000740,Inverness Smithton,5
+S02000728,Inverness West Rural,20
+S02000737,Inverness Westhill,15
+S02000072,Inverurie North,10
+S02000071,Inverurie South,35
+S02000837,Irvine Bourtreehill,5
+S02000836,Irvine Broomlands,0
+S02000845,Irvine Castlepark North,0
+S02000841,Irvine Castlepark South,5
+S02000838,Irvine Central,40
+S02000839,Irvine East,5
+S02000835,Irvine Fullarton,20
+S02000840,Irvine Girdle Toll and Staneca,0
+S02000843,Irvine Perceton and Lawthorn,0
+S02000833,Irvine Tarryholme,5
+S02000947,Isles,10
+S02001027,Jedburgh,15
+S02000368,"Jewel, Brunstane and Newcraighall",20
+S02000998,Johnstone North East,25
+S02000994,Johnstone North West,10
+S02000992,Johnstone South East,5
+S02000988,Johnstone South West,0
+S02000386,Joppa,10
+S02000811,Keith and Fife Keith,15
+S02001034,Kelso North,0
+S02001032,Kelso South,20
+S02000531,Kelty East,10
+S02000532,Kelty West,0
+S02000690,Kelvindale,10
+S02000672,Kelvingrove and University,55
+S02000689,Kelvinside and Jordanhill,20
+S02000067,Kemnay,5
+S02000557,Kennoway,10
+S02000685,Keppochhill,5
+S02000464,Kersiebank,0
+S02000266,Kessington East,0
+S02000269,Kessington West,10
+S02000568,Kettle and Ladybank,10
+S02000279,Keystone and Dougalston,15
+S02000996,Kilbarchan,5
+S02000865,Kilbirnie North,10
+S02000863,Kilbirnie South and Longbar,5
+S02000935,Kildrum,0
+S02000771,Kilmacolm Central,10
+S02000772,"Kilmacolm, Quarriers, Greenock Upper East/Central",0
+S02000273,Kilmardinny East,5
+S02000272,Kilmardinny West,10
+S02000243,Kilmarnock South Central and Caprington,20
+S02000256,Kilmaurs Rural,10
+S02000940,Kilsyth Bogside,5
+S02000942,Kilsyth East and Croy,20
+S02000857,Kilwinning Central and North,15
+S02000853,Kilwinning Pennyburn,0
+S02000851,Kilwinning West and Blacklan,0
+S02000856,Kilwinning Whitehirst Park and Woodside,0
+S02000506,Kincardine,10
+S02000006,"Kincorth, Leggart and Nigg North",5
+S02000002,"Kincorth, Leggart and Nigg South",5
+S02000507,Kinghorn,10
+S02000600,Kingspark North,5
+S02000595,Kingspark South,5
+S02000631,Kingston West and Dumbreck,15
+S02000035,Kingswells,15
+S02000466,Kinneil,10
+S02000642,Kinning Park and Festival Park,20
+S02000950,Kinross,15
+S02000066,Kintore and Blackburn,15
+S02000131,Kintyre Trail,35
+S02000518,Kirkcaldy Bennochy East,0
+S02000520,Kirkcaldy Bennochy West,5
+S02000516,Kirkcaldy Central,50
+S02000535,Kirkcaldy Chapel,10
+S02000533,Kirkcaldy Dunnikier,0
+S02000530,Kirkcaldy Gallatown and Sinclairtown,10
+S02000524,Kirkcaldy Hayfield and Smeaton,5
+S02000512,Kirkcaldy Linktown and Seafield,0
+S02000523,Kirkcaldy Newliston and Redcraigs,0
+S02000522,Kirkcaldy Pathhead,10
+S02000517,Kirkcaldy Raith,0
+S02000526,Kirkcaldy Templehall East,5
+S02000527,Kirkcaldy Templehall West,5
+S02000166,Kirkcudbright,20
+S02001231,Kirkhill,5
+S02000275,Kirkintilloch South,0
+S02000281,Kirkintilloch West,25
+S02000391,Kirkliston,15
+S02000165,Kirkmaiden,15
+S02001088,Kirkmuirhill and Blackwood,5
+S02000905,Kirkshaws,5
+S02000228,Kirkton,5
+S02001210,Kirkton,15
+S02000907,Kirkwood and Bargeddie,10
+S02000123,Kirriemuir,15
+S02000117,Kirriemuir Landward,5
+S02001223,Knightsridge,5
+S02000699,Knightswood East,0
+S02000698,Knightswood Park East,0
+S02000706,Knightswood Park West,0
+S02000703,Knightswood West,5
+S02000879,Ladywell,5
+S02001216,Ladywell,10
+S02001129,Laighstonehall,5
+S02001091,Lanark North East,10
+S02001090,Lanark North West,5
+S02001086,Lanark South,20
+S02000195,Langholm and Canonbie,10
+S02001036,Langlee,0
+S02000604,Langside,0
+S02000471,Larbert Village and South Broomage,10
+S02000563,Largo,10
+S02000866,Largs Central and Cumbrae,45
+S02000869,Largs North,5
+S02000868,Largs South,5
+S02001102,"Larkhall Central, Raploch, Millheugh and Burnhead",25
+S02000634,Laurieston and Tradeston,45
+S02000450,Laurieston and Westquarter,5
+S02000209,Law,5
+S02001107,Law,0
+S02000426,Leith Docks,65
+S02000287,Lennoxtown,10
+S02000270,Lenzie North,5
+S02000267,Lenzie South,10
+S02001052,Lerwick North,45
+S02001051,Lerwick South,5
+S02000551,Leslie and Newcastle,5
+S02001084,Lesmahagow,10
+S02000965,Letham,5
+S02000116,Letham and Glamis,10
+S02000580,Leuchars and Guardbridge,10
+S02000566,Leven East and Bonnybank,15
+S02000555,Leven North,0
+S02000552,Leven West,5
+S02000826,"Lhanbryde, Urquhart, Pitgavney and seaward",0
+S02000342,Liberton East,5
+S02000346,Liberton West,5
+S02000187,Lincluden and Lochside,5
+S02000221,Linlathen and Midcraigie,15
+S02001235,Linlithgow Bridge,25
+S02001234,Linlithgow North,5
+S02001232,Linlithgow South,5
+S02001006,Linwood North,0
+S02001005,Linwood South,10
+S02001111,Little Earnock,5
+S02000803,Loanhead,15
+S02000147,Loch Awe,40
+S02000722,Loch Ness,50
+S02000720,Lochaber East and North,65
+S02000718,Lochaber West,60
+S02000725,Lochalsh,30
+S02000188,Locharbriggs,5
+S02000214,Lochee,15
+S02000529,Lochgelly East,10
+S02000525,Lochgelly West and Lumphinnans,0
+S02000443,"Lochgreen, Lionthorn and Prospecthill",0
+S02000192,Lochmaben and Parkgate,10
+S02000536,Lochore and Crosshill,5
+S02001070,"Lochside, Braehead and Whitletts",10
+S02000983,Lochwinnoch,10
+S02000194,Lockerbie and Mid Annandale,20
+S02001177,Logie,15
+S02000202,Logie and Blackness,5
+S02000144,Lomond Shore,15
+S02000092,Longside and Rattray,5
+S02000356,Longstone and Saughton Mains,5
+S02000409,Lorne,25
+S02000830,Lossiemouth East and Seatown,20
+S02000831,Lossiemouth West,10
+S02001151,Low Blantyre and Bardykes,5
+S02001119,Low Waters,10
+S02000178,Lower Annandale and South East Dumfries,15
+S02000783,"Lower Bow & Larkfield, Fancy Farm, Mallard Bowl",0
+S02000191,Lower Nithsdale,5
+S02000323,Lower Whitecraigs and South Giffnock,5
+S02000121,Lunan,5
+S02000974,Luncarty and Dunkeld,25
+S02000100,Macduff,10
+S02000164,Machars South,15
+S02000442,Maddiston and Rumford,5
+S02000374,Marchmont East and Sciennes,15
+S02000371,Marchmont West,5
+S02000562,Markinch and Star,5
+S02000704,Maryhill East,0
+S02000700,Maryhill West,10
+S02000025,Mastrick,5
+S02000239,Mauchline,10
+S02000235,Mauchline Rural,5
+S02000612,Maxwell Park,5
+S02001061,Maybole,10
+S02000799,Mayfield,0
+S02000379,Meadows,70
+S02000050,Mearns North and Inverbervie,15
+S02000048,Mearns South and Benholm,10
+S02000313,"Mearns Village, Westacres and Greenfarm",10
+S02000049,Mearns and Laurencekirk,10
+S02000311,Mearnskirk and South Kirkhill,5
+S02001033,Melrose and Tweedbank area,15
+S02000160,Menstrie,5
+S02000205,Menzieshill,5
+S02000360,Merchiston and Greenhill,20
+S02000467,Merchiston and New Carron Village,10
+S02000326,Merrylee and Braidbar,5
+S02000598,Merrylee and Millbrae,0
+S02001106,Merryton and Meadowhill,5
+S02000541,Methil Denbeath,5
+S02000546,Methil East,5
+S02000547,Methil Methilhill,5
+S02000543,Methil West,5
+S02000145,Mid Argyll,15
+S02000196,Mid Nithsdale,15
+S02000462,Middlefield,0
+S02000023,Midstocket,5
+S02000951,Milnathort and Crook of Devon,5
+S02000890,Milnwood,5
+S02000708,Milton East,0
+S02000701,Milton West,10
+S02000286,Milton of Campsie,0
+S02000090,Mintlaw,10
+S02000197,Moffat and Eskdalemuir,20
+S02000959,Moncrieffe and Friarton,10
+S02000106,Monifieth East,10
+S02000105,Monifieth West,0
+S02000109,Monikie,15
+S02000125,Montrose North,10
+S02000124,Montrose South,35
+S02000927,Moodiesburn East,5
+S02000926,Moodiesburn West,0
+S02000171,Moors,15
+S02000345,Moredun,5
+S02000357,Morningside,20
+S02000334,Mortonhall,5
+S02001110,Mossneuk and Newlandsmuir,0
+S02000621,Mosspark,5
+S02000821,"Mosstodloch, Portgordon and seaward",0
+S02000883,Motherwell North,5
+S02000881,Motherwell South,45
+S02000882,Motherwell West,0
+S02000603,Mount Florida,15
+S02000623,Mount Vernon North and Sandyhills,0
+S02000395,Mountcastle,5
+S02000593,Muirend and Old Cathcart,5
+S02001078,Muirhead,5
+S02000419,Muirhouse,5
+S02000876,Muirhouse and Knowetop,20
+S02000967,Muirton,5
+S02000151,"Mull, Iona, Coll and Tiree",45
+S02001208,Murieston,5
+S02000390,Murrayfield and Ravelston,10
+S02000952,"Muthill, Greenloaning and Gleneagles",10
+S02000750,Nairn East,25
+S02000738,Nairn Rural,10
+S02000749,Nairn West,15
+S02001114,Nerston and EK Landward Area,20
+S02000325,Netherlee,5
+S02000469,Nethermains,5
+S02000874,Netherton and Kirkhill,10
+S02000175,New Abbey,15
+S02000232,New Cumnock,5
+S02000819,New Elgin East,5
+S02000818,New Elgin West,5
+S02000251,New Farm Loch South,0
+S02000094,New Pitsligo,10
+S02000405,New Town East,35
+S02000398,New Town West,115
+S02000891,Newarthill,5
+S02000796,Newbattle and Dalhousie,10
+S02000579,Newburgh,5
+S02001021,Newcastleton and Teviot area,15
+S02000463,Newlands,10
+S02000596,Newlands,10
+S02000070,Newmachar and Fintray,5
+S02000875,Newmains,15
+S02000246,Newmilns,5
+S02000582,Newport and Wormit,5
+S02001071,Newton North,5
+S02000798,Newtongrange,5
+S02000055,Newtonhill,5
+S02000457,Newtown,0
+S02000362,Niddrie,0
+S02000186,Nithside and Nunholm,95
+S02000597,Nitshill,25
+S02000652,North Barlanark and Easterhouse South,5
+S02000477,North Broomage and Inches,10
+S02000276,North Castlehill and Thorn,5
+S02000327,North Giffnock and North Thornliebank,20
+S02000795,North Gorebridge,5
+S02000683,North Kelvin,10
+S02000312,North Kirkhill,0
+S02000427,North Leith and Newhaven,20
+S02001055,North Mainland,20
+S02000971,North Muirton and Old Scone,5
+S02000481,North Queensferry and Inverkeithing West,10
+S02000809,North Speyside,20
+S02001056,North and East Isles,10
+S02000257,Northern and Irvine Valley Rural,10
+S02000031,Northfield,5
+S02000392,Northfield,10
+S02000439,Northwest Lewis,5
+S02001209,Oakbank,10
+S02000511,"Oakley, Comrie and Blairhall",10
+S02000149,Oban North,60
+S02000148,Oban South,25
+S02000037,Old Aberdeen,5
+S02000643,Old Shettleston and Parkhead North,10
+S02000393,Old Town and Leith Street,390
+S02000044,Oldmachar East,5
+S02000045,Oldmachar West,0
+S02000888,Orbiston,0
+S02000870,Overtown,0
+S02000341,Oxgangs and Firrhill,5
+S02001000,Paisley Central,75
+S02000989,Paisley Dykebar,0
+S02000997,Paisley East,0
+S02001003,Paisley Ferguslie,0
+S02000987,Paisley Foxbar,0
+S02001007,Paisley Gallowhill and Hillington,20
+S02000986,Paisley Glenburn East,0
+S02000985,Paisley Glenburn West,0
+S02001010,Paisley North,45
+S02001004,Paisley North East,20
+S02001001,Paisley North West,15
+S02001002,Paisley Ralston,0
+S02000993,Paisley South,5
+S02000991,Paisley South East,10
+S02000990,Paisley South West,0
+S02000995,Paisley West,0
+S02000353,Parkhead,5
+S02000629,Parkhead East and Braidfauld North,0
+S02000633,Parkhead West and Barrowfield,35
+S02000671,Partick,5
+S02000677,Partickhill and Hyndland,10
+S02000871,Pather,5
+S02000794,Pathhead and Rural East Midlothian,10
+S02001042,Peebles North,30
+S02001041,Peebles South,0
+S02000791,Penicuik East,5
+S02000792,Penicuik North,0
+S02000789,Penicuik Southeast,15
+S02000790,Penicuik Southwest,0
+S02000641,Penilee,5
+S02000797,Pentland,25
+S02000199,Perth Road,40
+S02000086,Peterhead Bay,5
+S02000088,Peterhead Harbour,40
+S02000085,Peterhead Links,10
+S02000089,Peterhead Ugieside,5
+S02000910,Petersburn,5
+S02000680,Petershill,5
+S02000248,Piersland,5
+S02000980,Pitlochry,45
+S02000435,Point,5
+S02000617,Pollok North and East,0
+S02000608,Pollok South and West,10
+S02000602,Pollokshaws,15
+S02000622,Pollokshields East,15
+S02000624,Pollokshields West,10
+S02000449,Polmont,10
+S02000375,Polwarth,10
+S02000775,"Port Glasgow Mid, East and Central",5
+S02000774,Port Glasgow Upper East,0
+S02000776,"Port Glasgow Upper, West and Central",15
+S02000058,Portlethen,10
+S02000396,Portobello,25
+S02000172,Portpatrick,25
+S02000097,"Portsoy, Fordyce and Cornhill",10
+S02000692,Possil Park,10
+S02000949,"Powmill, Cleish and Scotlandwell",10
+S02000364,Prestonfield,5
+S02001075,Prestwick Airport and Monkton,25
+S02001073,Prestwick East,0
+S02001074,Prestwick West,25
+S02000812,"Rafford, Dallas, Dyke to Dava",5
+S02000981,Rannoch and Aberfeldy,55
+S02001174,Raploch,10
+S02000369,"Ratho, Gogarburn and Airport",30
+S02000447,Redding,5
+S02001013,Renfrew East,10
+S02001016,Renfrew North,50
+S02001011,Renfrew South,5
+S02001014,Renfrew West,5
+S02001015,Renfrewshire Rural North and Langbank,20
+S02000984,Renfrewshire Rural South & Howwood,5
+S02000403,Restalrig (Loganlea),5
+S02000410,Restalrig and Lochend,5
+S02000667,Riddrie and Hogganfield,5
+S02000695,Robroyston and Millerston,10
+S02000274,Rosebank and Waterside,5
+S02000098,Rosehearty and Strathbeg,15
+S02000021,Rosemount,15
+S02000754,Ross and Cromarty Central,15
+S02000757,Ross and Cromarty East,10
+S02000760,Ross and Cromarty North West,40
+S02000751,Ross and Cromarty South West,40
+S02000486,Rosyth Central,5
+S02000488,Rosyth East,5
+S02000489,Rosyth North,5
+S02000482,Rosyth South,15
+S02000182,Rotchell and Rosefield,5
+S02000133,Rothesay Town,25
+S02000666,"Roystonhill, Blochairn, and Provanmill",5
+S02000688,Ruchill,20
+S02000810,Rural Keith and Strathisla,5
+S02000788,Rural South Midlothian,15
+S02000521,Saline and Gowkall,5
+S02000846,Saltcoats Central,25
+S02000852,Saltcoats North East,0
+S02000848,Saltcoats North West,0
+S02001164,Sauchenford,10
+S02000155,Sauchie,10
+S02000968,Scone,5
+S02000686,Scotstoun North and East,0
+S02000684,Scotstoun South and West,15
+S02000758,Seaboard,10
+S02000931,Seafar,0
+S02000032,Seaton,5
+S02001030,Selkirk,20
+S02000365,Shandon,5
+S02000807,Shawfair,10
+S02001161,Shawfield and Clincarthill,30
+S02000900,Shawhead and Whifflet,5
+S02000605,Shawlands East,20
+S02000609,Shawlands West,20
+S02000027,Sheddocksley,5
+S02001050,Shetland South,5
+S02000632,Shettleston North,25
+S02000611,Shettleston South,15
+S02000441,Shieldhill,0
+S02000240,Shortlees,5
+S02000894,Shotts,5
+S02000670,Sighthill,0
+S02000417,Silverknowes and Davidson's Mains,15
+S02001127,Silvertonhill,15
+S02000867,Skelmorlie and Rural,5
+S02000745,Skye North East,45
+S02000746,Skye North West,25
+S02000724,Skye South,40
+S02000110,South Angus,10
+S02000271,South Castlehill and Thorn,0
+S02000332,South East Bypass,5
+S02000363,South Gyle,30
+S02000416,South Leith,25
+S02000434,South Lewis,10
+S02000429,South Queensferry (East) and Dalmeny,35
+S02000430,South Queensferry West,5
+S02000808,South Speyside and the Cabrach,25
+S02000324,South Thornliebank and Woodfarm,5
+S02000255,Southcraig and Beansburn,5
+S02000387,Southside and Canongate,55
+S02001152,Spittal,0
+S02000691,Springburn,10
+S02000694,Springburn East and Cowlairs,5
+S02000842,Springside and Rural,10
+S02000577,St Andrews Central,65
+S02000578,St Andrews North and Strathkinness,20
+S02000576,St Andrews South East,5
+S02000572,St Andrews South West,10
+S02001031,St Boswells and Newtown area,10
+S02001126,St Leonards North,5
+S02001121,St Leonards South,10
+S02000558,St Monans and Pittenweem,10
+S02000320,Stamperland,5
+S02000889,Stane,10
+S02000975,Stanley and Murthly,10
+S02001224,Starlaw,5
+S02000367,Stenhouse,5
+S02000472,Stenhousemuir East,5
+S02000475,Stenhousemuir West,10
+S02000923,Stepps,20
+S02000844,Stevenston Ardeer,10
+S02000850,Stevenston Hayocks,5
+S02000847,Stevenston North West,10
+S02001135,Stewartfield East,0
+S02001131,Stewartfield West,15
+S02000259,Stewarton East,15
+S02000258,Stewarton West,0
+S02001169,Stirling East,5
+S02000208,Stobswell,20
+S02000404,Stockbridge,40
+S02000028,Stockethill,5
+S02000052,Stonehaven North,10
+S02000051,Stonehaven South,30
+S02001092,Stonehouse,5
+S02000436,Stornoway East,0
+S02000437,Stornoway West,40
+S02000169,Stranraer Central,40
+S02000170,Stranraer West,10
+S02001094,Strathaven North,0
+S02001089,Strathaven South,15
+S02000614,Strathbungo,35
+S02001167,Strathendrick,30
+S02000946,"Stromness, Sandwick and Stenness",10
+S02001097,Strutherhill,0
+S02000020,Summerhill,10
+S02000713,Summerston Central and West,0
+S02000710,Summerston North,5
+S02000185,Summerville,10
+S02000916,Sunnyside and Cliftonville,30
+S02000762,Sutherland East,20
+S02000764,Sutherland North and West,35
+S02000761,Sutherland South,35
+S02000759,Tain,15
+S02000455,Tamfourhill,0
+S02000583,Tayport,10
+S02001179,Teith Valley,10
+S02000217,The Glens,10
+S02000349,The Inch,5
+S02001117,The Murray,5
+S02000539,Thornton and Kinglassie,10
+S02001124,"Thorntonhall, Jackton and Gardenhall",5
+S02000806,Thornybank,0
+S02000920,Thrashbush,0
+S02000769,Thurso East,30
+S02000770,Thurso West,5
+S02000163,Tillicoultry,15
+S02000036,Tillydrone,5
+S02000385,Tollcross,150
+S02000630,Tollcross,10
+S02001171,Torbrex,5
+S02000278,Torrance and Balmore,5
+S02000015,Torry East,5
+S02000012,Torry West,15
+S02000610,Toryglen and Oatlands,5
+S02001172,Town Centre,90
+S02000919,Townhead,10
+S02000425,Trinity,10
+S02001077,Troon,35
+S02000159,Tullibody North and Glenochil,5
+S02000156,Tullibody South,10
+S02000091,Turriff,15
+S02000283,Twechar and Harestanes East,0
+S02001155,Uddingston and Gardenside,25
+S02001230,Uphall,10
+S02000198,Upper Nithsdale,15
+S02000501,"Valleyfield, Culross and Torryburn",5
+S02001149,Vicarland and Cairns,5
+S02000682,Victoria Park,0
+S02000963,"Viewlands, Craigie and Wellshill",10
+S02000899,Viewpark,5
+S02000939,Village and Castlecary,15
+S02001175,Wallace,5
+S02000428,Waterfront and Granton,15
+S02000537,Wemyss,0
+S02000321,West Arthurlie and North Neilston,0
+S02000777,"West Braeside, East Inverkip and West Gourock",5
+S02001203,West Calder,10
+S02000285,West Clober and Mains Estate,0
+S02000019,West End North,35
+S02000017,West End South,15
+S02000210,West Ferry,0
+S02000858,West Kilbride and Seamill,5
+S02000944,West Kirkwall,20
+S02001040,West Linton and Broughton area,15
+S02000948,West Mainland,10
+S02001125,West Mains,15
+S02000314,West Neilston and Uplawmoor,10
+S02000422,West Pilton,10
+S02000224,West Pitkerro,5
+S02001157,Westburn and Newton,0
+S02000200,Westend,15
+S02000220,Western Edge,5
+S02000966,Western Edge,10
+S02001176,Western Villages,10
+S02000263,Westerton East,0
+S02000265,Westerton West,0
+S02000930,Westfield,10
+S02001228,Westfield,0
+S02000063,Westhill Central,15
+S02000064,Westhill North and South,5
+S02001123,Westwood East,0
+S02001116,Westwood South,0
+S02000134,Whiskey Isles,35
+S02001207,Whitburn Central,25
+S02000316,Whitecraigs and Broom,5
+S02001142,Whitehill,20
+S02001108,Whitehills West,5
+S02000673,Whiteinch,10
+S02000226,Whitfield,5
+S02001148,Whitlawburn and Greenlees,0
+S02000766,Wick North,15
+S02000765,Wick South,10
+S02000319,Williamwood,5
+S02000382,Willowbrae and Duddingston Village,20
+S02001233,Winchburgh,5
+S02000550,Windygates and Coaltown,5
+S02000872,Wishaw East,5
+S02000877,Wishaw North,10
+S02000873,Wishaw South,20
+S02001118,Woodhead and Meikle Earnock,5
+S02000261,Woodhill East,0
+S02000262,Woodhill West,5
+S02000665,Woodlands,65
+S02000038,Woodside,15
+S02000669,Woodside,10
+S02000693,Wyndford,10
+S02000707,Yoker North,0
+S02000696,Yoker South,5
+S02000078,Ythanside,5
+S02000075,Ythsie,10
+S02001624,Abbeyhill,5
+S02001325,Aberchirder and Whitehills,10
+S02001779,Aberdour and Auchtertool,15
+S02002227,Aberuthven and Almondbank,10
+S02001286,Aboyne and South Deeside,15
+S02002205,Abronhill North,0
+S02002204,Abronhill South,5
+S02002188,Airdrie North,15
+S02001928,Alexandra Parade,10
+S02002146,Allanton - Newmains Rural,5
+S02001403,Alloa North,5
+S02001402,Alloa South and East,35
+S02001404,Alloa West,5
+S02002335,Alloway and Doonfoot,10
+S02002020,Alness,10
+S02001500,Altonhill North and Onthank,5
+S02001501,"Altonhill South, Longpark and Hillhead",10
+S02001396,Alva,10
+S02002246,Alyth,10
+S02001935,Anderston,45
+S02001369,Angus Glens,15
+S02001442,Annan East,5
+S02001441,Annan West,20
+S02001439,Annandale East,5
+S02001440,Annandale West,10
+S02002349,"Annbank, Mossblown and Tarbolton - the Coalfields",5
+S02001970,Anniesland East,10
+S02001971,Anniesland West,5
+S02001832,Anstruther,20
+S02001354,Arbroath Cliffburn,5
+S02001353,Arbroath Harbour,40
+S02001352,Arbroath Keptie,10
+S02001351,Arbroath Kirkton,5
+S02001350,Arbroath Landward,10
+S02001355,Arbroath Warddykes,5
+S02001474,Ardler and St Marys,10
+S02002112,Ardrossan Central,15
+S02002114,Ardrossan North East,5
+S02002113,Ardrossan North West,5
+S02002500,Armadale,20
+S02002501,Armadale South,0
+S02002097,Arran,50
+S02001559,Arthurlie and Gateside,0
+S02002371,Ashgill and Netherburn,5
+S02001262,Ashgrove,5
+S02001560,Auchenback,0
+S02001521,Auchinairn,10
+S02001485,Auchinleck,10
+S02001332,Auchnagatt,0
+S02002223,Auchterarder,20
+S02001322,Auchterless and Monquhitter,0
+S02001824,Auchtermuchty and Gateside,5
+S02002340,"Ayr North Harbour, Wallacetown and Newton South",20
+S02002339,Ayr South Harbour and Town Centre,95
+S02001579,Baberton and Juniper Green,10
+S02001983,Badenoch and Strathspey Central,55
+S02001984,Badenoch and Strathspey North,35
+S02001982,Badenoch and Strathspey South,40
+S02001901,Baillieston East,25
+S02001900,Baillieston West,0
+S02001576,Balerno and Bonnington Village,5
+S02002437,Balfron and Drymen,20
+S02001470,Balgay,0
+S02001283,Balgownie and Donmouth East,10
+S02001282,Balgownie and Donmouth West,5
+S02001661,Balgreen and Roseburn,5
+S02001775,Ballingry,5
+S02002209,Balloch East,10
+S02002208,Balloch West,5
+S02002212,Balmalloch,5
+S02001312,Balmedie and Potterton,5
+S02001839,Balmullo and Gauldry,5
+S02001919,Balornock,0
+S02001297,Banchory East,5
+S02001298,Banchory West,15
+S02001295,Banchory-Devenick and Findon,10
+S02001326,Banff,20
+S02002411,Bankhead South,5
+S02001700,"Banknock, Haggs and Longcroft",5
+S02002482,Bankton and Murieston,5
+S02002443,Bannockburn,5
+S02002352,Barassie,0
+S02001908,Barlanark,10
+S02001508,Barloch,5
+S02001920,Barmulloch,5
+S02001460,Barnhill,5
+S02001674,"Barnton, Cammo and Cramond South",5
+S02001687,Barra and South Uist,15
+S02001317,Barrahill,10
+S02002504,Bathgate East,40
+S02002505,Bathgate West,0
+S02002503,Bathgate and Boghall,5
+S02002502,"Bathgate, Wester Inch and Inchcross",5
+S02001867,Battlefield,20
+S02001453,Baxter Park,0
+S02002134,Beith East and Rural,10
+S02002133,Beith West,0
+S02001494,Bellfield and Kirkstyle,5
+S02002165,Bellshill Central,5
+S02002163,Bellshill South,25
+S02002481,"Bellsquarry, Adambrae and Kirkton",20
+S02002337,Belmont,5
+S02001688,Benbecula and North Uist,15
+S02001373,Benderloch Trail,40
+S02002303,Berwickshire Central,10
+S02002305,Berwickshire East,20
+S02002355,"Biggar, Symington, Thankerton and Dolphinton",20
+S02001629,"Bingham, Magdalene and The Christians",5
+S02002168,Birkenshaw,10
+S02002435,"Birniehill, Kelvin and Whitehills East",10
+S02001519,Bishopbriggs North and Kenmure,5
+S02001520,Bishopbriggs West and Cadder,20
+S02002286,Bishopton,15
+S02002019,Black Isle North,10
+S02002018,Black Isle South,25
+S02001307,Blackburn,5
+S02002496,Blackburn,10
+S02001609,"Blackford, West Mains and Mayfield Road",20
+S02001664,Blackhall,10
+S02001917,Blackhill and Barmulloch East,5
+S02001737,"Blackness, Bo'ness - Carriden and Grahamsdyke",10
+S02002506,"Blackridge, Westfield and Torphichen",5
+S02002497,Blaeberry Hill and East Whitburn,5
+S02002247,"Blair Atholl, Strathardle and Glenshee",35
+S02001972,Blairdardie East,0
+S02001973,Blairdardie West,5
+S02002248,Blairgowrie East (Rattray),5
+S02002249,Blairgowrie West,30
+S02002436,Blane Valley,10
+S02002392,Blantyre South and Wheatlands,10
+S02002394,Blantytre North and Coatshill,10
+S02001734,Bo'ness - Douglas,5
+S02001736,Bo'ness - Kinneil,10
+S02001735,Bo'ness - Newtown,0
+S02001580,Bonaly and The Pentlands,10
+S02001649,Bonnington,15
+S02001701,Bonnybridge,15
+S02002061,Bonnyrigg North,20
+S02002060,Bonnyrigg South,5
+S02001502,Bonnyton and Town Centre,50
+S02002446,Borestone,10
+S02001667,Boswall and Pilton,5
+S02002400,Bothwell North,0
+S02002399,Bothwell South,10
+S02002044,"Bow Farm, Barrs Cottage, Cowdenknowes and Overton",5
+S02002448,Braehead,15
+S02001723,Braes Villages,0
+S02002040,"Braeside, Branchton, Lower Larkfield and Ravenscraig",5
+S02001240,"Braeside, Mannofield, Broomhill and Seafield East",10
+S02001242,"Braeside, Mannofield, Broomhill and Seafield North",5
+S02001241,"Braeside, Mannofield, Broomhill and Seafield South",0
+S02001896,Braidfauld,20
+S02001361,Brechin East,10
+S02001362,Brechin West,15
+S02002479,Breich Valley,5
+S02002453,Bridge of Allan and University,25
+S02002229,Bridge of Earn and Abernethy,10
+S02002291,Bridge of Weir,10
+S02001892,Bridgeton,10
+S02001725,Brightons and Wallacestone,5
+S02001692,Broadbay,0
+S02001959,Broomhill,10
+S02001586,Broomhouse and Bankhead,10
+S02002445,Broomridge,10
+S02001653,Broughton North and Powderhall,15
+S02001654,Broughton South,5
+S02001459,Broughty Ferry East,5
+S02001458,Broughty Ferry West,45
+S02002514,Broxburn East,15
+S02002511,Broxburn Kirkhill,5
+S02002513,Broxburn South,5
+S02001617,Bruntsfield,35
+S02001813,"Buckhaven, Denbeath and Muiredge",5
+S02002078,Buckie Central East,10
+S02002079,Buckie West and Mains of Buckie,15
+S02001277,Bucksburn North,70
+S02001276,Bucksburn South,5
+S02002407,"Burgh, Eastfield and Silverbank",5
+S02002092,"Burghead, Roseisle and Laich",10
+S02002232,Burghmuir and Oakbank,0
+S02002396,Burnbank Central and Udston,5
+S02002395,Burnbank North,15
+S02002397,Burnbank South and Chantinghall,10
+S02002316,Burnfoot,0
+S02002410,Burnhill and Bankhead North,0
+S02002414,Burnside and Springhall,5
+S02001781,Burntisland East,5
+S02001780,Burntisland West,10
+S02001567,Busby,10
+S02001381,Bute,10
+S02001465,Caird Park,0
+S02001742,Cairneyhill and Crombie,0
+S02002185,Cairnhill,25
+S02002029,Caithness North East,15
+S02002030,Caithness North West,10
+S02002026,Caithness South,10
+S02002179,Calderbank and Brownsburn,0
+S02002190,Caldercruix and Plains,10
+S02002418,Calderwood Central,0
+S02002417,Calderwood East,0
+S02002419,Calderwood West and Nerston,10
+S02002458,Callander and Trossachs,40
+S02001428,Calside,0
+S02001891,Calton and Gallowgate,25
+S02002439,Cambusbarron,0
+S02002406,Cambuslang Central,15
+S02001380,Campbeltown,20
+S02001623,"Canongate, Southside and Dumbiedykes",55
+S02001657,Canonmills and New Town North,25
+S02001776,Cardenden,15
+S02001851,Cardonald North,0
+S02001850,Cardonald South and East,20
+S02001852,Cardonald West and Central,20
+S02002193,Cardowan and Millerston,5
+S02002152,Carfin North,5
+S02002154,Carfin and Cleekhimin,10
+S02002361,Carluke East,0
+S02002360,Carluke North,10
+S02002362,Carluke South,10
+S02002359,Carluke West,5
+S02002494,Carmondean and Eliburn North,10
+S02001879,Carmunnock North,0
+S02001880,Carmunnock South,0
+S02001898,Carmyle and Mount Vernon South,5
+S02001349,Carnoustie East,10
+S02001348,Carnoustie West,10
+S02001913,Carntyne,5
+S02001929,Carntyne West and Haghill,20
+S02001875,Carnwadric East,5
+S02001874,Carnwadric West,5
+S02001680,Carrick Knowe,0
+S02002333,Carrick North,15
+S02002329,Carrick South,25
+S02002207,Carrickstone,5
+S02001708,Carron,5
+S02001709,Carronshore,5
+S02001710,Carse and Grangemouth Old Town,10
+S02002457,Carse of Stirling,20
+S02002356,"Carstairs, Carstairs Junction and Carnwath",5
+S02001415,Castle Douglas,25
+S02002336,Castlehill and Kincaidston,0
+S02001883,Castlemilk,5
+S02001886,Cathcart,10
+S02002452,Causewayhead,5
+S02001905,Central Easterhouse,5
+S02002325,Central Shetland,10
+S02002239,Central and South Inch,100
+S02002181,Chapelhall East,10
+S02002180,Chapelhall West,0
+S02002379,"Chapelton, Glengavel and Sandford",0
+S02001472,Charleston,5
+S02002309,Cheviot East,10
+S02002312,Cheviot West,5
+S02002307,Chirnside and Area,10
+S02002195,Chryston and Muirhead,10
+S02001448,City Centre,90
+S02002449,City Centre,65
+S02001250,City Centre East,95
+S02001932,City Centre East,135
+S02001934,City Centre South,370
+S02001249,City Centre West,155
+S02001933,City Centre West,110
+S02001400,"Clackmannan, Kennet and Forestmill",5
+S02001568,Clarkston and Sheddens,10
+S02001320,Clashindarroch,5
+S02002150,Cleland,5
+S02001675,Clermiston and Drumbrae,10
+S02002176,Cliftonville,15
+S02001582,Clovenstone and Wester Hailes,0
+S02002354,Clydesdale South,5
+S02002153,Clydesdale and New Stevenston,15
+S02002173,Coatbridge West,10
+S02002186,Coatdyke and Whinhall,30
+S02002308,Coldstream and Area,10
+S02001596,Colinton Mains and Firrhill,5
+S02001581,Colinton and Kingsknowe,5
+S02001434,Collin,15
+S02002143,Coltness,5
+S02001659,Comely Bank,5
+S02001598,Comiston and Swanston,10
+S02002224,"Comrie, Gilmerton and St Fillans",25
+S02002199,Condorrat,5
+S02002016,Conon,5
+S02002451,Cornton,5
+S02001679,Corstorphine,25
+S02001678,Corstorphine North,0
+S02001681,Corstorphine South,5
+S02002245,Coupar Angus and Meigle,15
+S02001256,Cove North,35
+S02001255,Cove South,0
+S02001384,Cowal North,35
+S02001383,Cowal South,20
+S02001771,Cowdenbeath North,10
+S02001770,Cowdenbeath South,5
+S02002441,Cowie,5
+S02001924,Cowlairs and Port Dundas,15
+S02002334,Coylton,10
+S02001915,Craigend and Ruchazie,5
+S02001636,Craigentinny,0
+S02002341,Craigie,0
+S02001454,Craigie and  Craigiebank,5
+S02001663,"Craigleith, Orchard Brae and Crewe Toll",5
+S02001593,Craiglockhart,10
+S02001627,Craigmillar,20
+S02002182,Craigneuk Airdrie,5
+S02002139,Craigneuk Wishaw,5
+S02002487,Craigshill,5
+S02001857,Craigton,5
+S02001833,Crail and Boarhills,20
+S02001673,Cramond,5
+S02001914,"Cranhill, Lightburn and Queenslie South",5
+S02001299,Crathes and Torphins,10
+S02002225,Crieff North,10
+S02002226,Crieff South,20
+S02001300,Cromar and Kildrummy,10
+S02001561,Crookfur and Fruin,10
+S02001847,Crookston North,0
+S02001846,Crookston South,0
+S02001557,Cross Stobbs,0
+S02001743,Crossford Charlestown and Limekilns,15
+S02002363,"Crossford, Braidwood and Yieldshields",5
+S02001768,Crossgates and Halbeath,25
+S02002429,Crosshouse and Lindsayfield,0
+S02001504,"Crosshouse, Gatehead and Kilmaurs Rural",5
+S02001333,Cruden,10
+S02002077,"Cullen, Portknockie, Findochty, Drybridge and Berryhillock",15
+S02001236,Culter,10
+S02001238,"Cults, Bieldside and Milltimber East",10
+S02001237,"Cults, Bieldside and Milltimber West",0
+S02002202,Cumbernauld Central,20
+S02001272,Cummings Park,5
+S02001484,Cumnock North,15
+S02001481,Cumnock Rural,10
+S02001483,Cumnock South and Craigens,5
+S02001827,Cupar Central,25
+S02001828,Cupar East,5
+S02001826,Cupar West and Springfield,5
+S02001578,Currie East,10
+S02001577,Currie West,0
+S02001829,Dairsie Ceres and Dunino,10
+S02001416,Dalbeattie,15
+S02001417,Dalbeattie Rural,20
+S02001766,Dalgety Bay Central,5
+S02001767,Dalgety Bay East,10
+S02001765,Dalgety Bay West and Hillend,5
+S02002066,Dalkeith,25
+S02001893,Dalmarnock,5
+S02001684,"Dalmeny, Kirkliston and Newbridge",20
+S02002342,Dalmilling,5
+S02002123,Dalry East and Rural,15
+S02002124,Dalry West,0
+S02001619,Dalry and Fountainbridge,40
+S02001279,Danestone,5
+S02001842,Darnley East,5
+S02001843,Darnley North,5
+S02001844,Darnley West,5
+S02001489,Darvel,5
+S02001498,Dean and New Farm Loch North,0
+S02002493,Deans,5
+S02001660,Deans Village,205
+S02002483,Dedridge East,35
+S02001330,Deer and Mormond,10
+S02002315,Denholm and Hermitage,15
+S02001284,Denmore,10
+S02001930,Dennistoun,10
+S02001927,Dennistoun North,10
+S02001698,Denny - Nethermains,5
+S02002017,Dingwall,25
+S02001449,Docks and Wellgate,25
+S02001399,Dollar and Muckhart,10
+S02001477,Doon Valley North,0
+S02001476,Doon Valley South,10
+S02001457,Douglas East,0
+S02001455,Douglas West,5
+S02002368,"Douglas, Coalburn and Rigside",10
+S02001957,Dowanhill,25
+S02001467,Downfield,5
+S02002100,Dreghorn,10
+S02001479,Drongan,5
+S02001975,Drumchapel North,0
+S02001974,Drumchapel South,10
+S02002189,Drumgelloch,10
+S02001855,Drumoyne and Shieldhall,10
+S02002172,Drumpellier and Langloan,0
+S02001976,Drumry East,5
+S02001977,Drumry West,5
+S02001665,Drylaw,10
+S02001633,Duddingston and Portobello South,5
+S02001430,Dumfries Central,80
+S02002455,Dunblane East,15
+S02002456,Dunblane West,0
+S02002350,"Dundonald, Loans and Symington",15
+S02002171,Dundyvan,10
+S02001296,"Dunecht, Durris and Drumoak",10
+S02001753,Dunfermline Abbeyview North,10
+S02001754,Dunfermline Abbeyview South,0
+S02001745,Dunfermline Baldridgeburn,10
+S02001750,Dunfermline Bellyeoman and Townhill,5
+S02001748,Dunfermline Brucefield,10
+S02001747,Dunfermline Central,50
+S02001751,Dunfermline Duloch North and Lynebank,0
+S02001755,Dunfermline Duloch South,5
+S02001749,Dunfermline Garvock Hill,0
+S02001746,Dunfermline Headwell,0
+S02001756,Dunfermline Masterton,0
+S02001744,Dunfermline Milesmark and Wellwood,0
+S02001757,Dunfermline Pitcorthie East,5
+S02001758,Dunfermline Pitcorthie West,5
+S02001752,Dunfermline Touch and Woodmill,0
+S02001696,Dunipace,5
+S02001386,Dunoon,25
+S02002304,Duns,10
+S02001558,"Dunterlie, East Arthurlie and Dovecothall",30
+S02001305,Durno-Chapel of Garioch,5
+S02001278,Dyce,20
+S02001796,Dysart,10
+S02001565,Eaglesham and Waterfoot,5
+S02002296,Earlston Stow and Clovernfords Area,10
+S02001492,Earlston and Hurlford Rural,10
+S02002389,Earnock,5
+S02001285,East Cairngorms,35
+S02002485,East Calder,10
+S02001507,East Clober and Mains Estate,5
+S02001676,East Craigs North,0
+S02001677,East Craigs South,15
+S02002217,East Kirkwall,10
+S02002215,East Mainland,10
+S02002422,East Mains,30
+S02002326,East and West Mainland,5
+S02001645,Easter Road and Hawkhill Avenue,5
+S02001904,Easterhouse East,5
+S02002068,Easthouses,5
+S02001443,Eastriggs,5
+S02002381,Eddlewood,0
+S02002262,Elderslie and Phoenix,15
+S02002088,Elgin Bishopmill East and Ladyhill,30
+S02002089,Elgin Bishopmill West and Newfield,0
+S02002084,Elgin Cathedral to Ashgrove and Pinefield,30
+S02002087,Elgin Central West,20
+S02001830,Elie Colinsburgh and Largoward,15
+S02001313,Ellon East,20
+S02001314,Ellon West,5
+S02002243,Errol and Inchture,5
+S02002284,Erskine Central,5
+S02002283,Erskine East and Inchinnan,0
+S02002285,Erskine West,5
+S02002063,Eskbank,15
+S02002320,Ettrick Yarrow and Liliesleaf Area,15
+S02002306,Eyemouth,15
+S02002386,Fairhill,0
+S02002125,Fairlie and Rural,15
+S02001599,Fairmilehead,5
+S02001468,Fairmuir,15
+S02001711,Falkirk - Bainsford and Langlees,5
+S02001716,Falkirk - Bantaskin,5
+S02001717,Falkirk - Camelon East,20
+S02001718,Falkirk - Camelon West,5
+S02001713,Falkirk - Grahamston,25
+S02001720,Falkirk - Lochgreen and Lionthorn,5
+S02001712,Falkirk - Merchiston and New Carron Village,10
+S02001714,Falkirk - Middlefield,5
+S02001719,Falkirk - Tamfourhill,0
+S02001715,Falkirk - Town Centre and Callendar Park,55
+S02001823,Falkland and Freuchie,10
+S02002442,Fallin,5
+S02002166,Fallside,25
+S02001697,"Fankerton, Stoneywood and Denny Town",10
+S02002408,Farme Cross and Gallowflat North,15
+S02002478,Fauldhouse,5
+S02002415,Fernhill and Cathkin,0
+S02001604,Fernieside and Moredun South,5
+S02001251,Ferryhill North,10
+S02001252,Ferryhill South,10
+S02001290,"Fetteresso, Netherley and Catter",10
+S02002093,"Findhorn, Kinloss and Pluscarden Valley",15
+S02001936,Finnieston and Kelvinhaugh,90
+S02001463,Fintry,5
+S02001939,Firhill,10
+S02001397,"Fishcross, Devon Village and Coalsnaughton",5
+S02002081,"Fochabers, Aultmore, Clochan and Ordiquish",10
+S02001365,Forfar Central,25
+S02001364,Forfar East,5
+S02001366,Forfar West,5
+S02002159,Forgewood,5
+S02002094,Forres Central East and seaward,25
+S02002095,Forres South West and Mannachie,5
+S02001979,Fort William North,10
+S02001980,Fort William South,50
+S02002454,Forth,25
+S02002357,"Forth, Braehead and Auchengray",5
+S02001342,Fraserburgh Central-Academy,5
+S02001343,Fraserburgh Harbour and Broadsea,25
+S02001341,Fraserburgh Lochpots,5
+S02001340,Fraserburgh Smiddyhill,5
+S02001360,Friockheim,5
+S02001263,"Froghall, Powis and Sunnybank",5
+S02001318,Fyvie-Rothie,5
+S02002297,Galashiels North,20
+S02002299,Galashiels South,15
+S02002298,Galashiels West,10
+S02001931,Gallowgate North and Bellgrove,10
+S02001491,Galston,15
+S02002240,Gannochy and Walnut Grove,10
+S02001328,Gardenstown and King Edward,10
+S02001387,Garelochhead,15
+S02001310,Garlogie and Elrick,10
+S02001903,Garrowhill East and Swinton,5
+S02001902,Garrowhill West,10
+S02002192,Gartcosh and Marnock,10
+S02001906,"Garthamlock, Auchinlea and Gartloch",15
+S02001239,Garthdee,15
+S02002184,Gartlea,5
+S02001413,Gatehouse,20
+S02001261,George Street,45
+S02001429,Georgetown,0
+S02001600,Gilmerton South and the Murrays,5
+S02002331,Girvan Ailsa,20
+S02002330,Girvan Glendoune,0
+S02001954,Glasgow Harbour and Partick South,20
+S02002380,"Glassford, Quarter and Allanton",15
+S02002228,"Glenfarg, Dunning and Rhynd",10
+S02001418,Glenkens,15
+S02002191,Glenmavis and Greengairs,5
+S02001803,Glenrothes Auchmuty,20
+S02001810,Glenrothes Balfarg Pitcairn and Coul,0
+S02001807,Glenrothes Balgeddie and Town Park,5
+S02001809,Glenrothes Cadham and Pitcoudie,0
+S02001802,Glenrothes Caskieberran and Rimbleton,0
+S02001808,Glenrothes Collydean,0
+S02001800,Glenrothes Macedonia and Tanshall,5
+S02001805,Glenrothes Pitteuchar,15
+S02001801,Glenrothes South Parks,0
+S02001804,Glenrothes Stenton and Finglassie,10
+S02001806,Glenrothes Woodside,5
+S02001882,Glenwood North,5
+S02001881,Glenwood South,0
+S02001889,Gorbals and Hutchesontown,10
+S02002072,Gorebridge and Middleton,5
+S02001591,Gorgie East,5
+S02001590,Gorgie West,15
+S02002039,"Gourock Central, Upper East and IRH",15
+S02002042,"Gourock East, Greenock West and Lyle Road",0
+S02002038,Gourock Upper and West Central and Upper Larkfield,5
+S02001856,Govan and Linthouse,25
+S02001866,Govanhill East and Aikenhead,10
+S02001865,Govanhill West,20
+S02001602,"Gracemount, Southhouse and Burdiehouse",5
+S02001503,"Grange, Howard and Gargieston",5
+S02001733,Grangemouth - Bowhouse,5
+S02001732,Grangemouth - Kersiebank,0
+S02001730,Grangemouth - Newlands,5
+S02001731,Grangemouth - Town Centre,15
+S02001668,Granton South and Wardieburn,0
+S02001670,Granton West and Salvesen,5
+S02001669,Granton and Royston Mains,10
+S02001643,Great Junction Street,30
+S02001376,Greater Lochgilphead,10
+S02001595,Greenbank and The Braids,0
+S02002178,Greenend and Carnbroe,0
+S02002200,Greenfaulds,10
+S02001909,Greenfield,5
+S02002431,Greenhills,5
+S02002047,Greenock East,10
+S02002046,Greenock Town Centre and East Central,55
+S02002045,Greenock Upper Central,10
+S02002043,Greenock West and Central,25
+S02001444,Gretna,20
+S02002242,"Guildtown, Balbeggie and St Madoes",10
+S02002427,Hairmyres and Westwood West,10
+S02002402,"Halfway, Hallside and Drumsagard",15
+S02001721,Hallglen and Glen Village,0
+S02002384,Hamilton Centre and Low Parks,60
+S02001260,Hanover North,5
+S02001259,Hanover South,25
+S02002374,Hareleeshill,0
+S02001531,Harestanes,0
+S02001689,Harris,15
+S02002149,Harthill and Salsburgh,10
+S02002164,Hattonrigg,0
+S02002317,Hawick Central,25
+S02002319,Hawick North,5
+S02002318,Hawick West End,15
+S02002367,Hazelbank and Kirkfieldbank,5
+S02001243,Hazlehead,10
+S02001699,Head of Muir and Dennyloanhead,5
+S02002345,Heathfield,5
+S02001433,Heathhall,5
+S02001274,Heathryfold and Middlefield,0
+S02002082,"Heldon West, Fogwatt to Inchberry",5
+S02001390,Helensburgh Centre,35
+S02001391,Helensburgh East,0
+S02001389,Helensburgh North,0
+S02001388,Helensburgh West and Rhu,5
+S02002391,High Blantyre,15
+S02001702,High Bonnybridge and Greenhill,0
+S02002413,High Crosshill,5
+S02002459,Highland,60
+S02001769,Hill of Beath and Kingseat,5
+S02001528,Hillhead,10
+S02001953,Hillhead,60
+S02002390,Hillhouse,0
+S02001854,Hillington,5
+S02002444,Hillpark,5
+S02001359,Hillside,5
+S02001647,Hillside and Calton Hill,40
+S02001450,Hilltown,25
+S02002235,"Hillyland, Tulloch and Inveralmond",10
+S02001268,Hilton,5
+S02002338,Holmston and Forehill,5
+S02002160,Holytown,10
+S02002290,Houston North,5
+S02002289,Houston South,0
+S02002488,Howden,5
+S02001301,Howe of Alford,15
+S02001385,Hunter's Quay,10
+S02001321,Huntly,15
+S02001603,Hyvots and Gilmerton,5
+S02001534,IZ01,10
+S02002460,IZ01,5
+S02001535,IZ02,5
+S02002461,IZ02,35
+S02001536,IZ03,0
+S02002462,IZ03,5
+S02001537,IZ04,25
+S02002463,IZ04,5
+S02001538,IZ05,5
+S02002464,IZ05,10
+S02001539,IZ06,0
+S02002465,IZ06,5
+S02001540,IZ07,15
+S02002466,IZ07,0
+S02001541,IZ08,5
+S02002467,IZ08,10
+S02001542,IZ09,15
+S02002468,IZ09,5
+S02001543,IZ10,20
+S02002469,IZ10,5
+S02001544,IZ11,5
+S02002470,IZ11,5
+S02001545,IZ12,0
+S02002471,IZ12,30
+S02001546,IZ13,15
+S02002472,IZ13,5
+S02001547,IZ14,10
+S02002473,IZ14,10
+S02001548,IZ15,5
+S02002474,IZ15,10
+S02001549,IZ16,25
+S02002475,IZ16,10
+S02001550,IZ17,20
+S02002476,IZ17,30
+S02001551,IZ18,30
+S02002477,IZ18,15
+S02001552,IZ19,5
+S02001553,IZ20,15
+S02001554,IZ21,10
+S02001555,IZ22,20
+S02001859,Ibrox,10
+S02001860,Ibrox East and Cessnock,20
+S02001319,"Insch, Oyne and Ythanwells",10
+S02002021,Invergordon,10
+S02002244,"Invergowrie, Longforgan and Abernyte",5
+S02001764,Inverkeithing East,10
+S02002036,Inverkip and Wemyss Bay,10
+S02001652,"Inverleith, Goldenacre and Warriston",10
+S02002000,Inverness Ballifeary and Dalneigh,10
+S02001998,"Inverness Central, Raigmore and Longman",110
+S02001999,Inverness Crown and Haugh,35
+S02001989,Inverness Culloden and Balloch,5
+S02001997,Inverness Drakies,5
+S02001995,Inverness Drummond,10
+S02001988,Inverness East Rural,15
+S02001996,Inverness Hilton,0
+S02001992,Inverness Inshes,5
+S02002004,Inverness Kinmylies and South West,5
+S02001994,Inverness Lochardil and Holm Mains,5
+S02002002,Inverness Merkinch,5
+S02002001,Inverness Muirtown,25
+S02002003,Inverness Scorguie,0
+S02001993,Inverness Slackbuie,5
+S02001990,Inverness Smithton,5
+S02002005,Inverness West Rural,20
+S02001991,Inverness Westhill,5
+S02001303,Inverurie North,10
+S02001304,Inverurie South,35
+S02002102,Irvine Bourtreehill,5
+S02002101,Irvine Broomlands,0
+S02002105,Irvine Castlepark North,0
+S02002106,Irvine Castlepark South,5
+S02002108,Irvine Central,35
+S02002107,Irvine East,5
+S02002109,Irvine Fullarton,25
+S02002103,Irvine Girdle Toll and Staneca,0
+S02002104,Irvine Perceton and Lawthorn,0
+S02002099,Irvine Tarryholme,5
+S02002218,Isles,10
+S02002314,Jedburgh,15
+S02001630,"Jewel, Brunstane and Newcraighall",20
+S02002260,Johnstone North East,25
+S02002259,Johnstone North West,10
+S02002261,Johnstone South East,5
+S02002258,Johnstone South West,0
+S02001631,Joppa,10
+S02002076,Keith and Fife Keith,15
+S02002310,Kelso North,0
+S02002311,Kelso South,20
+S02001773,Kelty East,5
+S02001772,Kelty West,0
+S02001950,Kelvindale,10
+S02001952,Kelvingrove and University,55
+S02001958,Kelvinside and Jordanhill,20
+S02001302,Kemnay,5
+S02001821,Kennoway and Bonnybank,10
+S02001940,Keppochhill,10
+S02001517,Kessington East,0
+S02001516,Kessington West,10
+S02001822,Kettle and Ladybank,10
+S02001509,Keystone and Dougalston,15
+S02002257,Kilbarchan,5
+S02002131,Kilbirnie North,10
+S02002132,Kilbirnie South and Longbar,5
+S02002203,Kildrum,0
+S02002034,Kilmacolm Central,10
+S02002035,"Kilmacolm, Quarriers, Greenock Upper East/Central",5
+S02001510,Kilmardinny East,5
+S02001511,Kilmardinny West,10
+S02001495,Kilmarnock South Central and Caprington,20
+S02001505,Kilmaurs,10
+S02002211,Kilsyth Bogside,5
+S02002210,Kilsyth East and Croy,20
+S02002122,Kilwinning Central and North,15
+S02002120,Kilwinning Pennyburn,0
+S02002121,Kilwinning West and Blacklands,0
+S02002119,Kilwinning Whitehirst Park and Woodside,0
+S02001738,Kincardine,10
+S02001253,"Kincorth, Leggart and Nigg North",5
+S02001254,"Kincorth, Leggart and Nigg South",5
+S02002447,King's Park and Torbrex,15
+S02001427,Kingholm,20
+S02001782,Kinghorn,10
+S02001885,Kingspark North,5
+S02001884,Kingspark South,5
+S02001862,Kingston West and Dumbreck,10
+S02001275,Kingswells,15
+S02001861,Kinning Park and Festival Park,20
+S02002220,Kinross,15
+S02001306,Kintore,10
+S02001379,Kintyre Trail,15
+S02002438,Kippen and Fintry,10
+S02001785,Kirkcaldy Bennochy East,0
+S02001786,Kirkcaldy Bennochy West,5
+S02001784,Kirkcaldy Central,50
+S02001792,Kirkcaldy Chapel,10
+S02001791,Kirkcaldy Dunnikier,0
+S02001795,Kirkcaldy Gallatown and Sinclairtown,10
+S02001793,Kirkcaldy Hayfield and Smeaton,5
+S02001783,Kirkcaldy Linktown & Seafield,5
+S02001788,Kirkcaldy Newliston and Redcraigs,0
+S02001794,Kirkcaldy Pathhead,10
+S02001787,Kirkcaldy Raith,0
+S02001790,Kirkcaldy Templehall East,5
+S02001789,Kirkcaldy Templehall West,5
+S02001414,Kirkcudbright,20
+S02001526,Kirkintilloch South,0
+S02001527,Kirkintilloch West,25
+S02002370,Kirkmuirhill and Blackwood,5
+S02002170,Kirkshaws,5
+S02001466,Kirkton,5
+S02002169,Kirkwood and Bargeddie,5
+S02001368,Kirriemuir,15
+S02001367,Kirriemuir Landward,5
+S02001377,Knapdale,20
+S02002491,Knightsridge,10
+S02002492,Knightsridge and Deans North,5
+S02001967,Knightswood East,0
+S02001969,Knightswood Park East,0
+S02001968,Knightswood Park West,0
+S02001966,Knightswood West,5
+S02002156,Ladywell,5
+S02002490,Ladywell,5
+S02002385,Laighstonehall,5
+S02002365,Lanark North East,10
+S02002364,Lanark North West,10
+S02002366,Lanark South,20
+S02001438,Langholm and Eskdale,10
+S02002300,Langlee,0
+S02001872,Langside,0
+S02001703,Larbert - North Broomage and Inches,10
+S02001704,Larbert - South Broomage and Village,15
+S02001820,Largo,10
+S02002128,Largs Central and Cumbrae,30
+S02002129,Largs North,15
+S02002127,Largs South,5
+S02002373,"Larkhall Central, Raploch, Millheugh and Burnhead",25
+S02002302,Lauder and Area,10
+S02001890,Laurieston and Tradeston,45
+S02001729,Laurieston and Westquarter,5
+S02001469,Law,10
+S02002358,Law,0
+S02001646,Leith (Albert Street),15
+S02001639,Leith (Hermitage and Prospect Bank),5
+S02001533,Lennoxtown,10
+S02001524,Lenzie North,5
+S02001525,Lenzie South,10
+S02002324,Lerwick North,45
+S02002323,Lerwick South,5
+S02001799,Leslie and Newcastle,10
+S02002369,Lesmahagow,10
+S02002234,Letham,5
+S02001363,Letham and Glamis,10
+S02001838,Leuchars and Guardbridge,5
+S02001817,Leven East,20
+S02001819,Leven North,0
+S02001818,Leven West,0
+S02002083,"Lhanbryde, Urquhart, Pitgavney and seaward",0
+S02001606,Liberton East,5
+S02001607,Liberton West and Braid Hills,5
+S02001464,Linlathen and Midcraigie,15
+S02002508,Linlithgow Bridge,25
+S02002509,Linlithgow North,5
+S02002507,Linlithgow South,5
+S02002288,Linwood North,0
+S02002287,Linwood South,10
+S02002388,Little Earnock,5
+S02002489,Livingston Village and Eliburn South,5
+S02002059,Loanhead,15
+S02001374,Loch Awe,20
+S02002006,Loch Ness,50
+S02001981,Lochaber East and North,65
+S02001978,Lochaber West,65
+S02002007,Lochalsh,30
+S02001432,Locharbriggs,0
+S02001473,Lochee,15
+S02001777,Lochgelly East,10
+S02001778,Lochgelly West and Lumphinnans,0
+S02001435,Lochmaben,5
+S02001774,Lochore and Crosshill,5
+S02001423,Lochside and Lincluden,5
+S02002343,"Lochside, Braehead and Whitletts",5
+S02002254,Lochwinnoch,10
+S02001436,Lockerbie,20
+S02001447,Logie and Blackness,5
+S02001392,Lomond Shore,15
+S02001338,Longside and Rattray,5
+S02001588,Longstone and Saughton,5
+S02002090,Lossiemouth East and Seatown,15
+S02002091,Lossiemouth West,10
+S02002393,Low Blantyre and Bardykes,5
+S02002382,Low Waters,10
+S02002041,"Lower Bow and Larkfield, Fancy Farm, Mallard Bowl",0
+S02001573,Lower Whitecraigs and South Giffnock,5
+S02001356,Lunan,5
+S02002251,Luncarty and Dunkeld,25
+S02001327,Macduff,10
+S02001410,Machars North,5
+S02001411,Machars South,20
+S02001726,Maddiston and Rumford,5
+S02001613,Marchmont East and Sciennes,15
+S02001614,Marchmont West,5
+S02001811,Markinch and Star,5
+S02001947,Maryhill East,0
+S02001948,Maryhill West,10
+S02001270,Mastrick,5
+S02001480,Mauchline,10
+S02001478,Mauchline Rural,5
+S02001869,Maxwell Park,5
+S02002332,Maybole,10
+S02002069,Mayfield,5
+S02001625,Meadowbank and Abbeyhill North,10
+S02001621,Meadows and Southside,70
+S02001289,Mearns North and Inverbervie,15
+S02001288,Mearns South and Benholm,10
+S02001562,"Mearns Village, Westacres and Greenfarm",10
+S02001287,Mearns and Laurencekirk,10
+S02001564,Mearnskirk and South Kirkhill,5
+S02002301,Melrose and Tweedbank Area,15
+S02001395,Menstrie,5
+S02001471,Menzieshill,10
+S02001616,Merchiston and Greenhill,20
+S02001572,Merrylee and Braidbar,5
+S02001877,Merrylee and Millbrae,0
+S02002372,Merryton and Meadowhill,5
+S02001816,Methil East,5
+S02001814,Methil Methilhill,5
+S02001815,Methil West,5
+S02001375,Mid Argyll,25
+S02002484,Mid Calder and Kirknewton,10
+S02001421,Mid Nithsdale,10
+S02001245,Midstocket,5
+S02002221,Milnathort and Crook of Devon,5
+S02002161,Milnwood,10
+S02001944,Milton East,0
+S02001943,Milton West,10
+S02001532,Milton of Campsie,0
+S02001331,Mintlaw,10
+S02001437,Moffat,20
+S02002230,Moncrieffe and Friarton,10
+S02001347,Monifieth East,15
+S02001346,Monifieth West,0
+S02001345,Monikie,10
+S02001358,Montrose North,10
+S02001357,Montrose South,35
+S02002197,Moodiesburn East,5
+S02002196,Moodiesburn West,5
+S02001605,Moredun and Craigour,5
+S02001615,Morningside,20
+S02001594,Morningside and Craighouse,10
+S02001601,Mortonhall and Anwickhill,5
+S02002428,Mossneuk and Newlandsmuir,0
+S02001858,Mosspark,5
+S02002080,"Mosstodloch, Portgordon and seaward",0
+S02002158,Motherwell North,5
+S02002155,Motherwell South,50
+S02002157,Motherwell West,0
+S02001887,Mount Florida,15
+S02001899,Mount Vernon North and Sandyhills,0
+S02001634,Mountcastle,5
+S02002015,Muir of Ord,10
+S02001878,Muirend and Old Cathcart,5
+S02002351,Muirhead,5
+S02001671,Muirhouse,5
+S02002137,Muirhouse,5
+S02002138,Muirhouse and Knowetop,20
+S02002237,Muirton,5
+S02001370,"Mull, Iona, Coll and Tiree",45
+S02001584,Murrayburn and Wester Hailes North,0
+S02001662,Murrayfield and Ravelston,10
+S02002222,"Muthill, Greenloaning and Gleneagles",10
+S02001986,Nairn East,20
+S02001985,Nairn Rural,15
+S02001987,Nairn West,15
+S02001556,Neilston and Uplawmoor,10
+S02002416,Nerston and EK Landward Area,15
+S02001571,Netherlee,5
+S02002136,Netherton and Kirkhill,5
+S02001426,New Abbey,15
+S02001482,New Cumnock,5
+S02002085,New Elgin East,5
+S02002086,New Elgin West,5
+S02001497,New Farm Loch South,0
+S02001329,New Pitsligo,10
+S02001655,New Town East and Gayfield,30
+S02001656,New Town West,95
+S02002151,Newarthill,5
+S02002062,Newbattle and Dalhousie,10
+S02001825,Newburgh,5
+S02001611,Newington and Dalkeith Road,30
+S02001876,Newlands,10
+S02001311,Newmachar and Fintray,5
+S02002145,Newmains,15
+S02001490,Newmilns,5
+S02001841,Newport and Wormit,5
+S02002344,Newton North,5
+S02001412,Newton Stewart,35
+S02002070,Newtongrange,5
+S02001293,Newtonhill,5
+S02001628,Niddrie,0
+S02001845,Nitshill,25
+S02001907,North Barlanark and Easterhouse South,5
+S02001512,North Castlehill and Thorn,5
+S02001574,North Giffnock and North Thornliebank,20
+S02002071,North Gorebridge,5
+S02002238,North Inch,10
+S02001951,North Kelvin,10
+S02001566,North Kirkhill,0
+S02001641,North Leith and Newhaven,20
+S02002327,North Mainland,20
+S02002236,North Muirton and Old Scone,5
+S02001763,North Queensferry and Inverkeithing West,10
+S02002074,North Speyside,20
+S02002328,North and East Isles,10
+S02001486,Northern and Irvine Valley Rural,10
+S02001273,Northfield,5
+S02001635,Northfield and Piershill,10
+S02001691,Northwest Lewis,5
+S02001431,Nunholm,20
+S02001739,Oakley Comrie and Blairhall,10
+S02001372,Oban North,60
+S02001371,Oban South,25
+S02001265,Old Aberdeen,5
+S02001912,Old Shettleston and Parkhead North,10
+S02001622,"Old Town, Princes Street and Leith Street",400
+S02001281,Oldmachar East,10
+S02001280,Oldmachar West,0
+S02002162,Orbiston,0
+S02002135,Overtown,0
+S02001597,Oxgangs,0
+S02002274,Paisley Central,75
+S02002272,Paisley Dykebar,0
+S02002273,Paisley East,0
+S02002263,Paisley Ferguslie,0
+S02002266,Paisley Foxbar,0
+S02002277,Paisley Gallowhill and Hillington,10
+S02002269,Paisley Glenburn East,0
+S02002268,Paisley Glenburn West,0
+S02002278,Paisley North,50
+S02002275,Paisley North East,20
+S02002264,Paisley North West,15
+S02002276,Paisley Ralston,0
+S02002270,Paisley South,5
+S02002271,Paisley South East,10
+S02002267,Paisley South West,0
+S02002265,Paisley West,0
+S02001895,Parkhead East and Braidfauld North,0
+S02001894,Parkhead West and Barrowfield,35
+S02001585,Parkhead and Sighthill,5
+S02001955,Partick,5
+S02001956,Partickhill and Hyndland,10
+S02002140,Pather,5
+S02002067,Pathhead and Rural East Midlothian,10
+S02002293,Peebles North,30
+S02002294,Peebles South,0
+S02002054,Penicuik East,5
+S02002055,Penicuik North,0
+S02002052,Penicuik Southeast,15
+S02002053,Penicuik Southwest,0
+S02001853,Penilee,5
+S02002056,Pentland,10
+S02001446,Perth Road,55
+S02001335,Peterhead Bay,5
+S02001336,Peterhead Harbour,40
+S02001334,Peterhead Links,10
+S02001337,Peterhead Ugieside,5
+S02002183,Petersburn,5
+S02001921,Petershill,5
+S02001496,Piersland,5
+S02001648,Pilrig,15
+S02002252,Pitlochry,45
+S02002440,Plean and Rural SE,10
+S02001695,Point,5
+S02001849,Pollok North and East,0
+S02001848,Pollok South and West,5
+S02001873,Pollokshaws,15
+S02001864,Pollokshields East,15
+S02001863,Pollokshields West,10
+S02001727,Polmont,15
+S02001618,Polwarth,10
+S02002049,"Port Glasgow Mid, East and Central",5
+S02002050,Port Glasgow Upper East,0
+S02002048,"Port Glasgow Upper, West and Central",15
+S02001294,Portlethen,5
+S02001632,Portobello,25
+S02001324,"Portsoy, Fordyce and Cornhill",10
+S02001942,Possil Park,10
+S02002219,"Powmill, Cleish and Scotlandwell",10
+S02001610,Prestonfield,5
+S02002348,Prestwick Airport and Monkton,20
+S02002347,Prestwick East,0
+S02002346,Prestwick West,30
+S02002486,Pumpherston and Uphall Station,15
+S02001685,Queensferry East,30
+S02001686,Queensferry West,5
+S02002096,"Rafford, Dallas, Dyke to Dava",5
+S02002253,Rannoch and Aberfeldy,55
+S02002450,Raploch,10
+S02001683,"Ratho, Ingliston and Gogar",30
+S02001728,Redding,5
+S02001724,Reddingmuirhead and Overton,5
+S02002281,Renfrew East,10
+S02002282,Renfrew North,60
+S02002280,Renfrew South,5
+S02002279,Renfrew West,5
+S02002256,Renfrewshire Rural North and Langbank,15
+S02002255,Renfrewshire Rural South and Howwood,5
+S02001637,Restalrig (Loganlea) and Craigentinny West,5
+S02001638,Restalrig and Lochend,5
+S02001408,Rhins North,30
+S02001409,Rhins South,15
+S02001916,Riddrie and Hogganfield,5
+S02001918,Robroyston and Millerston,10
+S02001529,Rosebank and Waterside,5
+S02001339,Rosehearty and Strathbeg,15
+S02001246,Rosemount,15
+S02002057,Roslin and Bilston,10
+S02002013,Ross and Cromarty Central,15
+S02002014,Ross and Cromarty East,10
+S02002012,Ross and Cromarty North West,40
+S02002011,Ross and Cromarty South West,40
+S02001761,Rosyth Central,5
+S02001760,Rosyth East,5
+S02001759,Rosyth North,5
+S02001762,Rosyth South,15
+S02001382,Rothesay Town,25
+S02001926,"Roystonhill, Blochairn, and Provanmill",5
+S02001941,Ruchill,15
+S02002075,Rural Keith and Strathisla,5
+S02002051,Rural South Midlothian,5
+S02001740,Saline and Gowkhall,5
+S02002111,Saltcoats Central,30
+S02002116,Saltcoats North East,0
+S02002115,Saltcoats North West,0
+S02001401,Sauchie,10
+S02002241,Scone,5
+S02001962,Scotstoun North and East,0
+S02001963,Scotstoun South and West,15
+S02002022,Seaboard,10
+S02002201,Seafar,0
+S02002495,Seafield,0
+S02001264,Seaton,5
+S02002321,Selkirk,20
+S02001592,Shandon,5
+S02002064,Shawfair,10
+S02002409,Shawfield and Clincarthill,35
+S02001422,Shawhead,5
+S02002177,Shawhead and Whifflet,5
+S02001871,Shawlands East,20
+S02001870,Shawlands West,20
+S02001271,Sheddocksley,5
+S02002322,Shetland South,5
+S02001910,Shettleston North,25
+S02001897,Shettleston South,15
+S02001722,Shieldhill,0
+S02001493,Shortlees,5
+S02002147,Shotts,15
+S02001925,Sighthill,0
+S02001672,Silverknowes and Davidson's Mains,15
+S02002383,Silvertonhill,15
+S02002130,Skelmorlie and Rural,5
+S02002009,Skye North East,45
+S02002010,Skye North West,25
+S02002008,Skye South,40
+S02001589,Slateford and Chesser,10
+S02001344,South Angus,10
+S02001513,South Castlehill and Thorn,0
+S02001682,South Gyle,30
+S02001644,South Leith,25
+S02001690,South Lewis,10
+S02002073,South Speyside and the Cabrach,25
+S02001575,South Thornliebank and Woodfarm,5
+S02001499,Southcraig and Beansburn,5
+S02002412,Spittal,0
+S02001922,Springburn,10
+S02001923,Springburn East and Cowlairs,5
+S02002098,Springside and Rural,10
+S02001835,St Andrews Central,65
+S02001837,St Andrews North and Strathkinness,20
+S02001834,St Andrews South East,5
+S02001836,St Andrews South West,10
+S02002313,St Boswells and Newtown Area,5
+S02002420,St Leonards North,5
+S02002421,St Leonards South,10
+S02001831,St Monans and Pittenweem,10
+S02001570,Stamperland,5
+S02002148,Stane,10
+S02002250,Stanley and Murthly,10
+S02001587,Stenhouse and Saughton Mains,5
+S02001707,Stenhousemuir - Antonshill,0
+S02001706,Stenhousemuir East,5
+S02001705,Stenhousemuir West,5
+S02002194,Stepps,15
+S02002110,Stevenston Ardeer,5
+S02002118,Stevenston Hayocks,5
+S02002117,Stevenston North West,10
+S02002424,Stewartfield East,5
+S02002425,Stewartfield West,15
+S02001487,Stewarton East,15
+S02001488,Stewarton West,0
+S02001452,Stobswell,20
+S02001658,Stockbridge,40
+S02001269,Stockethill,5
+S02001292,Stonehaven North,25
+S02001291,Stonehaven South,15
+S02002376,Stonehouse,5
+S02001694,Stornoway East,0
+S02001693,Stornoway West,40
+S02002058,Straiton,10
+S02001406,Stranraer East,40
+S02001407,Stranraer South,5
+S02001405,Stranraer West,10
+S02002378,Strathaven North,0
+S02002377,Strathaven South,15
+S02001868,Strathbungo,35
+S02002213,"Stromness, Sandwick and Stenness",10
+S02002375,Strutherhill,0
+S02001244,Summerhill,10
+S02001945,Summerston Central and West,0
+S02001946,Summerston North,5
+S02001424,Summerville,15
+S02002175,Sunnyside and Cliftonville,30
+S02002025,Sutherland East,20
+S02002033,Sutherland North and West,35
+S02002024,Sutherland South,35
+S02002023,Tain,15
+S02001840,Tayport,10
+S02001583,The Calders,5
+S02001451,The Glens,10
+S02001612,The Grange,20
+S02001608,The Inch,5
+S02002434,The Murray,0
+S02001642,The Shore and Constitution Street,40
+S02001420,Thornhill,15
+S02001798,Thornton and Kinglassie,10
+S02002426,"Thorntonhall, Jackton and Gardenhall",5
+S02002065,Thornybank,0
+S02002187,Thrashbush,0
+S02002031,Thurso East,30
+S02002032,Thurso West,5
+S02001398,Tillicoultry,15
+S02001266,Tillydrone,5
+S02001620,Tollcross,155
+S02001911,Tollcross,10
+S02001518,Torrance and Balmore,5
+S02001258,Torry East,5
+S02001257,Torry West,15
+S02001888,Toryglen and Oatlands,5
+S02002174,Townhead,5
+S02001651,Trinity,10
+S02001650,Trinity East and The Dudleys,5
+S02002353,Troon,35
+S02001425,Troqueer,5
+S02001394,Tullibody North and Glenochil,5
+S02001393,Tullibody South,10
+S02001323,Turriff,15
+S02001530,Twechar and Harestanes East,0
+S02002295,Tweeddale East Area,20
+S02002292,Tweeddale West Area,20
+S02002401,Uddingston and Gardenside,25
+S02002512,"Uphall, Dechmont and Ecclesmachan",10
+S02001419,Upper Nithsdale,15
+S02001741,Valleyfield Culross and Torryburn,5
+S02002404,Vicarland and Cairns,5
+S02001960,Victoria Park,0
+S02002231,"Viewlands, Craigie and Wellshill",10
+S02002167,Viewpark,5
+S02002206,Village and Castlecary,15
+S02001797,Wemyss,0
+S02002037,"West Braeside, East Inverkip and West Gourock",5
+S02002480,West Calder and Polbeth,15
+S02001506,West Clober and Mains Estate,0
+S02001247,West End North,35
+S02001248,West End South,15
+S02001456,West Ferry,0
+S02002126,West Kilbride and Seamill,5
+S02002216,West Kirkwall,25
+S02002214,West Mainland,10
+S02002423,West Mains,15
+S02001666,West Pilton,10
+S02001461,West Pitkerro,10
+S02002403,Westburn and Newton,0
+S02001445,Westend,15
+S02001475,Western Edge,5
+S02002233,Western Edge,10
+S02001640,Western Harbour and Leith Docks,25
+S02001515,Westerton East,0
+S02001514,Westerton West,0
+S02002198,Westfield,10
+S02001309,Westhill Central,10
+S02001308,Westhill North and South,5
+S02002433,Westwood East,0
+S02002432,Westwood South,0
+S02001378,Whisky Isles,30
+S02002498,Whitburn Central,25
+S02002499,"Whitburn, Croftmalloch and Greenrigg",5
+S02001563,Whitecraigs and Broom,5
+S02002398,Whitehill,20
+S02002430,Whitehills West,10
+S02001961,Whiteinch,10
+S02001462,Whitfield,5
+S02002405,Whitlawburn and Greenlees,0
+S02002028,Wick North,15
+S02002027,Wick South,10
+S02001569,Williamwood,5
+S02001626,Willowbrae and Duddingston Village,20
+S02002510,"Winchburgh, Bridgend and Philpstoun",5
+S02001812,Windygates and Coaltown,5
+S02002144,Wishaw East,0
+S02002142,Wishaw North,10
+S02002141,Wishaw South,20
+S02002387,Woodhead and Meikle Earnock,5
+S02001522,Woodhill East,0
+S02001523,Woodhill West,5
+S02001937,Woodlands,65
+S02001267,Woodside,15
+S02001938,Woodside,10
+S02001949,Wyndford,10
+S02001965,Yoker North,0
+S02001964,Yoker South,5
+S02001315,Ythanside,5
+S02001316,Ythsie,10
+S19001273,Aberchirder,5
+S19001274,Aberdeen,730
+S19001275,Aberdour,0
+S19001276,Aberfeldy,5
+S19001277,Aberfoyle,5
+S19001278,Aberlady,5
+S19001279,Aberlour,5
+S19001280,Abernethy,0
+S19001281,Aboyne,5
+S19001282,Addiewell,0
+S19001283,Airdrie,90
+S19001284,Airth,0
+S19001285,Alexandria,20
+S19001286,Alford,10
+S19001287,Allanton,5
+S19001288,Alloa,45
+S19001289,Almondbank,5
+S19001290,Alness,10
+S19001291,Alva,10
+S19001292,Alyth,5
+S19001294,Annan,25
+S19001295,Annbank,0
+S19001296,Anstruther,20
+S19001297,Arbroath,65
+S19001298,Ardersier,0
+S19001299,Ardrishaig,0
+S19001300,Ardrossan,25
+S19001301,Armadale,25
+S19001302,Ashgill,5
+S19001304,Auchinleck,10
+S19001305,Auchinloch,0
+S19001306,Auchterarder,25
+S19001307,Auchtermuchty,0
+S19001308,Auldearn,0
+S19001309,Aviemore,30
+S19001310,Avoch,5
+S19001312,Ayr,150
+S19001313,Ayton,0
+S19001315,Balfron,5
+S19001316,Balintore,0
+S19001318,Ballater,15
+S19001319,"Ballingry, Lochore and Crosshill",10
+S19001320,Balloch,0
+S19001321,Balloch and Haldane,30
+S19001322,Balmedie,5
+S19001323,Balmullo,0
+S19001324,Banavie and Corpach,5
+S19001325,Banchory,20
+S19001326,Banff,20
+S19001327,Bankfoot,5
+S19001328,Banknock,5
+S19001329,Bannockburn,10
+S19001330,Bargeddie,5
+S19001331,Barrhead,30
+S19001332,Bathgate,55
+S19001333,Bearsden,35
+S19001334,Beauly,5
+S19001335,Beith,10
+S19001336,Bellsbank,0
+S19001337,Bellshill,40
+S19001338,Biggar,15
+S19001339,Bilston,5
+S19001340,Birkhill and Muirhead,5
+S19001341,Bishopbriggs,40
+S19001342,Bishopton,15
+S19001343,Blackburn (Aberdeenshire),5
+S19001344,Blackburn (West Lothian),5
+S19001345,Blackford,0
+S19001346,Blackridge,5
+S19001347,Blairgowrie,30
+S19001348,Blairhall,5
+S19001349,Blantyre,45
+S19001351,Bo'ness,25
+S19001350,Boddam,5
+S19001352,Bonhill,10
+S19001353,Bonnybridge,15
+S19001354,Bonnyrigg,30
+S19001355,Bothwell,10
+S19001356,Bowling,0
+S19001357,Bowmore,10
+S19001360,Braidwood,0
+S19001361,Brechin,20
+S19001362,Bridge of Allan,25
+S19001363,Bridge of Earn,5
+S19001364,Bridge of Weir,10
+S19001365,Bridgend,0
+S19001366,Brightons,5
+S19001367,Broadford,10
+S19001368,Brodick,15
+S19001369,Brookfield,0
+S19001370,Brora,5
+S19001371,Broxburn,30
+S19001372,Buchlyvie,5
+S19001373,Buckhaven,5
+S19001374,Buckie,20
+S19001375,Burghead,5
+S19001376,Burntisland,15
+S19001377,Burrelton,0
+S19001378,Busby,5
+S19001379,Cairneyhill,0
+S19001380,Calderbank,0
+S19001381,Caldercruix,5
+S19001382,California,0
+S19001383,Callander,25
+S19001384,Cambuslang,45
+S19001385,Campbeltown,20
+S19001386,Caol,5
+S19001387,Cardenden and Auchterderran,15
+S19001388,Cardrona,0
+S19001389,Cardross,0
+S19001390,Carfin,10
+S19001392,Carluke,25
+S19001393,Carmunnock,0
+S19001394,Carnock,0
+S19001395,Carnoustie,20
+S19001396,Carnwath,5
+S19001397,Carron,0
+S19001398,Carronshore,5
+S19001399,Carstairs,0
+S19001400,Carstairs Junction,0
+S19001401,Castle Douglas,20
+S19001402,Castletown,0
+S19001403,Catrine,5
+S19001405,Chapelhall,10
+S19001407,Chirnside,0
+S19001408,Chryston,10
+S19001409,Clackmannan,5
+S19001410,Clarkston,15
+S19001411,Cleland,5
+S19001412,Clydebank,65
+S19001413,Coalburn,5
+S19001414,Coalsnaughton,0
+S19001415,Coaltown of Balgonie,0
+S19001417,Coatbridge,85
+S19001418,Cockenzie,10
+S19001419,Coldingham,5
+S19001420,Coldstream,10
+S19001421,Comrie (Fife),0
+S19001422,Comrie (Perth and Kinross),5
+S19001423,Conon Bridge,0
+S19001424,Coupar Angus,5
+S19001425,Cove Bay,10
+S19001426,Cowdenbeath and Lumphinnans,20
+S19001427,Cowie,5
+S19001428,Coylton,5
+S19001429,Crail,5
+S19001431,Crieff,30
+S19001432,Crimond,0
+S19001435,Crossford (Fife),5
+S19001436,Crossford (South Lanarkshire),0
+S19001437,Crossgates,10
+S19001438,Crosshill,0
+S19001439,Crosshouse,5
+S19001440,Croy,0
+S19001441,Cruden Bay,5
+S19001442,Cullen,10
+S19001443,Culloden,5
+S19001444,Cumbernauld,95
+S19001446,Cumnock,20
+S19001447,Cupar,35
+S19001448,Dailly,0
+S19001449,Dalbeattie,15
+S19001450,Dalgety Bay,15
+S19001451,Dalkeith,40
+S19001452,Dalmellington,5
+S19001453,Dalry,15
+S19001454,Dalrymple,0
+S19001455,Danderhall,0
+S19001457,Darvel,5
+S19001458,Dechmont,0
+S19001459,Denholm,5
+S19001460,Denny,15
+S19001461,Dennyloanhead,5
+S19001462,Dingwall,25
+S19001464,Dollar,0
+S19001465,Dornoch,10
+S19001466,Douglas,5
+S19001467,Doune,5
+S19001468,Dreghorn,10
+S19001469,Drongan,5
+S19001470,Drumnadrochit,5
+S19001471,Drumoak,5
+S19001472,Drymen,5
+S19001473,Dufftown,10
+S19001474,Dullatur,0
+S19001475,Dumbarton,40
+S19001476,Dumfries,150
+S19001477,Dunbar,25
+S19001478,Dunbeg,0
+S19001479,Dunblane,15
+S19001480,Dundee,430
+S19001481,Dundonald,5
+S19001482,Dunfermline,120
+S19001483,Dunipace,5
+S19001484,Dunkeld and Birnam,5
+S19001485,Dunlop,0
+S19001486,Dunning,5
+S19001487,Dunoon,25
+S19001488,Duns,10
+S19001489,Duntocher and Hardgate,10
+S19001490,Dyce,5
+S19001492,Eaglesham,5
+S19001493,Earlston,5
+S19001494,East Calder,5
+S19001495,East Kilbride,125
+S19001496,East Linton,0
+S19001497,East Wemyss,0
+S19001498,East Whitburn,0
+S19001499,Eastfield,0
+S19001500,Eastriggs,0
+S19001502,Edinburgh,2095
+S19001504,Elderslie,15
+S19001505,Elgin,95
+S19001506,Elie and Earlsferry,10
+S19001507,Ellon,25
+S19001508,Elphinstone,0
+S19001509,Errol,0
+S19001510,Erskine,10
+S19001511,Evanton,5
+S19001512,Eyemouth,15
+S19001513,Faifley,0
+S19001514,Fairlie,5
+S19001515,Falkirk,130
+S19001516,Falkland,0
+S19001517,Fallin,5
+S19001518,Fauldhouse,5
+S19001519,Fenwick,0
+S19001520,Ferryden and Inchbraoch,0
+S19001521,Findhorn,5
+S19001522,Findochty,5
+S19001523,Finstown,0
+S19001524,Fochabers,10
+S19001525,Forfar,40
+S19001527,Forres,25
+S19001529,Fort William,45
+S19001530,Forth,5
+S19001531,Fortrose,10
+S19001532,Fraserburgh,40
+S19001533,Freuchie,0
+S19001534,Friockheim,0
+S19001536,Galashiels,45
+S19001537,Galston,15
+S19001538,Gardenstown,0
+S19001539,Garelochhead,10
+S19001542,Gartcosh,5
+S19001543,Gartloch,0
+S19001544,Gatehouse of Fleet,10
+S19001546,Giffnock,30
+S19001548,Girvan,20
+S19001549,Glasgow,2080
+S19001551,Glenboig,5
+S19001552,Glenfarg,0
+S19001554,Glenmavis,0
+S19001556,Glenrothes,65
+S19001558,Gorebridge,5
+S19001559,Gourdon,5
+S19001560,Gourock,25
+S19001561,Gowkthrapple,0
+S19001562,Grangemouth,30
+S19001563,Grantown-on-Spey,25
+S19001564,Greengairs,0
+S19001565,Greenhill,0
+S19001566,Greenlaw,5
+S19001567,Greenock,105
+S19001568,Gretna,15
+S19001569,Guardbridge,5
+S19001570,Gullane,0
+S19001571,Haddington,30
+S19001572,Haggs and Longcroft,0
+S19001573,Halkirk,5
+S19001574,Hallglen,0
+S19001575,Hamilton,145
+S19001576,Harthill,5
+S19001577,Hatton of Cruden,0
+S19001578,Hawick,35
+S19001579,Head of Muir,0
+S19001580,Helensburgh,40
+S19001581,High Bonnybridge,0
+S19001582,"High Valleyfield, Low Valleyfield and Culross",0
+S19001583,Hillhead,0
+S19001584,Hillside,0
+S19001585,Holytown,10
+S19001586,Hopeman,5
+S19001587,Houston,5
+S19001588,Howwood,0
+S19001589,Huntly,20
+S19001590,Hurlford and Crookedholm,10
+S19001591,Inchinnan,15
+S19001592,Inchture,0
+S19001593,Innellan,0
+S19001594,Innerleithen,15
+S19001595,Insch,5
+S19001596,Inverallochy and Cairnbulg,0
+S19001598,Inverbervie,10
+S19001599,Invergordon,10
+S19001600,Invergowrie,5
+S19001601,Inverkeithing,15
+S19001602,Inverkip,10
+S19001603,Inverness,210
+S19001604,Inverurie,45
+S19001605,Irvine,85
+S19001606,Jedburgh,15
+S19001607,Johnshaven,5
+S19001608,Johnstone,40
+S19001609,Keith,15
+S19001610,Kelso,20
+S19001611,Kelty,10
+S19001612,Kemnay,5
+S19001613,Kennoway,10
+S19001614,Kilbarchan,5
+S19001615,Kilbirnie,15
+S19001616,Kilcreggan,5
+S19001617,Killearn,0
+S19001619,Kilmacolm,10
+S19001620,Kilmarnock,110
+S19001621,Kilmaurs,10
+S19001622,Kilsyth,20
+S19001623,Kilwinning,20
+S19001624,Kincardine,10
+S19001625,Kinghorn,10
+S19001626,Kinglassie,5
+S19001627,Kingseat (Aberdeenshire),0
+S19001628,Kingseat (Fife),0
+S19001629,Kingskettle and Kettlebridge,0
+S19001630,Kingswells,15
+S19001631,Kingussie,15
+S19001632,Kinlochleven,10
+S19001633,Kinloss,5
+S19001635,Kinross,15
+S19001636,Kintore,5
+S19001637,Kippen,0
+S19001638,Kirkcaldy and Dysart,105
+S19001639,Kirkconnel,0
+S19001640,Kirkcudbright,15
+S19001641,Kirkfieldbank,0
+S19001642,Kirkhill,0
+S19001643,Kirkintilloch,30
+S19001644,Kirkliston,5
+S19001645,Kirkmuirhill and Blackwood,5
+S19001646,Kirknewton,5
+S19001647,Kirkwall,40
+S19001648,Kirriemuir,15
+S19001649,Kyle of Lochalsh,10
+S19001650,Ladybank,0
+S19001651,Lamlash,0
+S19001652,Lanark,40
+S19001653,Langbank,0
+S19001654,Langholm,10
+S19001655,Larbert,30
+S19001656,Largs,40
+S19001657,Larkhall,30
+S19001658,Lauder,10
+S19001659,Laurencekirk,0
+S19001660,Laurieston,5
+S19001661,Law,0
+S19001662,Lennoxtown,10
+S19001663,Lenzie,15
+S19001664,Lerwick,50
+S19001665,Leslie,10
+S19001666,Lesmahagow,10
+S19001667,Letham,0
+S19001668,Leuchars,5
+S19001669,Leven,20
+S19001670,Lhanbryde,0
+S19001672,Limekilns and Charlestown,0
+S19001673,Linlithgow,30
+S19001674,Linwood,10
+S19001675,Livingston,85
+S19001676,Loanhead,25
+S19001678,Locharbriggs,5
+S19001679,Lochgelly,10
+S19001680,Lochgilphead,10
+S19001681,Lochmaben,5
+S19001682,Lochwinnoch,10
+S19001683,Lockerbie,15
+S19001684,Logan,5
+S19001685,Longforgan,0
+S19001686,Longniddry,5
+S19001687,Longridge,0
+S19001689,Lossiemouth,25
+S19001690,Lower Largo and Lundin Links,5
+S19001691,Lumphanan,0
+S19001692,Luncarty,0
+S19001693,Macduff,10
+S19001694,Macmerry,0
+S19001695,Maddiston,5
+S19001696,Mallaig,15
+S19001697,Markinch,5
+S19001698,Maryburgh,0
+S19001700,Mauchline,10
+S19001701,Maud,5
+S19001702,Maybole,10
+S19001703,Mayfield,15
+S19001704,Melrose,10
+S19001705,Menstrie,5
+S19001706,Methil,15
+S19001708,Methven,5
+S19001709,Mid Calder,5
+S19001710,Millport,10
+S19001711,Milltimber,0
+S19001712,Milnathort,0
+S19001713,Milngavie,25
+S19001714,Milton,5
+S19001716,Milton of Campsie,0
+S19001717,Milton of Leys,5
+S19001718,Mintlaw,10
+S19001719,Moffat,15
+S19001721,Monifieth,15
+S19001722,Monkton,10
+S19001723,Montrose,50
+S19001724,Moodiesburn,10
+S19001726,Mossblown,0
+S19001727,Mosstodloch,0
+S19001728,Motherwell,90
+S19001729,Muir of Ord,5
+S19001730,Muirhead,0
+S19001731,Muirkirk,0
+S19001732,Murthly,0
+S19001733,Musselburgh,45
+S19001735,Nairn,35
+S19001736,Neilston,10
+S19001737,Netherburn,0
+S19001738,Netherlee,10
+S19001740,New Cumnock,5
+S19001741,New Deer,5
+S19001742,New Pitsligo,10
+S19001743,New Stevenston,15
+S19001744,Newarthill,10
+S19001745,Newbattle,0
+S19001746,Newbridge and Ratho Station,10
+S19001747,Newburgh (Aberdeenshire),0
+S19001748,Newburgh (Fife),5
+S19001749,Newcastleton,5
+S19001750,Newmachar,0
+S19001751,Newmains,15
+S19001752,"Newmarket, Lacasdal and Bruach Mairi (Newmarket, Laxdale and Marybank)",5
+S19001753,Newmilns,5
+S19001754,Newport-on-Tay and Wormit,5
+S19001755,Newton Mearns,25
+S19001756,Newton Stewart,25
+S19001757,Newtonhill,5
+S19001758,Newtonmore,5
+S19001759,Newtown St Boswells,0
+S19001760,Newtyle,5
+S19001761,North Berwick,35
+S19001762,North Kessock,0
+S19001763,North Queensferry,5
+S19001764,Oakley,5
+S19001765,Oban,85
+S19001766,Ochiltree,0
+S19001767,Old Kilpatrick,5
+S19001768,Oldmeldrum,10
+S19001769,Ormiston,0
+S19001770,Overtown,0
+S19001771,Paisley,195
+S19001772,Pathhead,5
+S19001773,Patna,0
+S19001774,Peebles,30
+S19001776,Penicuik,20
+S19001777,Perth,170
+S19001778,Peterculter,5
+S19001779,Peterhead,60
+S19001780,Pitlochry,35
+S19001781,Pitmedden,0
+S19001782,Pittenweem,5
+S19001783,Plains,0
+S19001784,Plean,5
+S19001785,Polbeth,5
+S19001786,Polmont,5
+S19001787,Port Bannatyne,0
+S19001788,Port Ellen,5
+S19001789,Port Glasgow,20
+S19001790,Portgordon,0
+S19001791,Portknockie,5
+S19001792,Portlethen,10
+S19001794,Portree,40
+S19001795,Portsoy,5
+S19001796,Potterton,0
+S19001797,Prestonpans,15
+S19001798,Prestwick,40
+S19001799,Quarrier's Village,0
+S19001800,Quarter,0
+S19001801,Queenzieburn,0
+S19001802,Ratho,0
+S19001803,Redding,5
+S19001804,Reddingmuirhead,5
+S19001805,Renfrew,80
+S19001806,Renton,0
+S19001807,Rhu,5
+S19001809,Rosehearty,0
+S19001810,Rosemarkie,0
+S19001811,Rosewell,0
+S19001812,Roslin,5
+S19001813,Rosneath,0
+S19001814,Rosyth,30
+S19001815,Rothes,5
+S19001816,Rothesay,25
+S19001817,Rothienorman,0
+S19001819,Rutherglen,60
+S19001820,Saline,0
+S19001821,Salsburgh,0
+S19001822,Saltcoats,35
+S19001823,Sandbank,5
+S19001824,Sandhaven,5
+S19001825,Sanndabhaig (Sandwick),0
+S19001826,Sanquhar,5
+S19001827,Sauchie,10
+S19001829,Scone,5
+S19001830,Seafield,0
+S19001831,Selkirk,20
+S19001832,Shieldhill,0
+S19001833,Shotts,20
+S19001834,Skelmorlie,5
+S19001835,Slamannan,0
+S19001836,Smithton,0
+S19001837,South Queensferry,35
+S19001839,Springfield,0
+S19001840,Springside,0
+S19001841,St Andrews,80
+S19001842,St Boswells,0
+S19001844,St Cyrus,0
+S19001847,St Monans,0
+S19001848,Stamperland,0
+S19001849,Stanley,5
+S19001850,Stenhousemuir,10
+S19001851,Steornabhagh (Stornoway),35
+S19001852,Stepps,20
+S19001853,Stevenston,15
+S19001854,Stewarton,15
+S19001855,Stirling,155
+S19001856,Stonehaven,35
+S19001857,Stonehouse,5
+S19001858,Stoneyburn,0
+S19001859,Stow,0
+S19001860,Stranraer,50
+S19001861,Strathaven,20
+S19001862,Strathblane,0
+S19001865,Strathpeffer,5
+S19001866,Strichen,5
+S19001867,Stromness,5
+S19001868,Stuartfield,0
+S19001871,Tain,15
+S19001872,Tarbert,10
+S19001873,Tarbolton,0
+S19001874,Tarland,0
+S19001876,Tayport,10
+S19001877,Thankerton,0
+S19001878,Thornhill (Dumfries and Galloway),10
+S19001879,Thornhill (Stirling),5
+S19001880,Thornliebank,5
+S19001881,Thornton,5
+S19001882,Thorntonhall,0
+S19001883,Thurso,35
+S19001884,Tighnabruaich,5
+S19001885,Tillicoultry,20
+S19001886,Tobermory,15
+S19001887,Torphichen,0
+S19001888,Torphins,5
+S19001889,Torrance,0
+S19001890,Torryburn and Newmills,0
+S19001891,Townhill,0
+S19001892,Tranent,25
+S19001893,Troon,40
+S19001894,Tullibody,15
+S19001895,Turriff,15
+S19001896,Twechar,0
+S19001897,Tweedbank,0
+S19001898,Uddingston,25
+S19001899,Ullapool,20
+S19001900,Uplawmoor,0
+S19001901,Viewpark,40
+S19001902,Walkerburn,0
+S19001903,Wallacestone,0
+S19001904,Wallyford,5
+S19001905,Waterfoot,0
+S19001906,Wattston,0
+S19001907,Wellbank,0
+S19001908,Wemyss Bay,5
+S19001909,West Barns,0
+S19001910,West Calder,10
+S19001911,West Kilbride,5
+S19001912,West Linton,0
+S19001913,Westhill (Aberdeenshire),20
+S19001914,Westhill (Highland),5
+S19001915,Westquarter,0
+S19001916,Whitburn,30
+S19001917,Whitecraig,5
+S19001918,Whitecross,0
+S19001919,Whitehills,5
+S19001920,Whithorn,0
+S19001922,Wick,25
+S19001923,Wigtown,5
+S19001924,Winchburgh,0
+S19001925,Windygates,5
+S19001926,Wishaw,55
+S19001927,Yetholm,0
+S22000047,Aberdeen,1180
+S22000048,Alness and Invergordon,55
+S22000049,Arbroath and Montrose,135
+S22000050,Aviemore and Grantown-on-Spey,125
+S22000051,Ayr,380
+S22000052,Broadford and Kyle of Lochalsh,80
+S22000005,Campbeltown,35
+S22000053,Dalbeattie and Castle Douglas,90
+S22000054,Dumbarton and Helensburgh,215
+S22000055,Dumfries,325
+S22000056,Dundee,645
+S22000057,Dunfermline and Kirkcaldy,605
+S22000058,Dunoon and Rothesay,105
+S22000059,Edinburgh,2625
+S22000060,Elgin,320
+S22000061,Falkirk and Stirling,815
+S22000062,Fort William,210
+S22000084,Fraserburgh,65
+S22000063,Galashiels and Peebles,180
+S22000064,Girvan,45
+S22000065,Glasgow,3330
+S22000066,Golspie and Brora,55
+S22000085,Greenock,180
+S22000067,Hawick and Kelso,105
+S22000068,Inverness,435
+S22000069,Kilmarnock and Irvine,540
+S22000070,Livingston,375
+S22000086,Lochgilphead,60
+S22000071,Motherwell and Airdrie,950
+S22000032,Mull and Islay,80
+S22000072,Newton Stewart,65
+S22000073,Oban,145
+S22000035,Orkney Islands,75
+S22000074,Perth,405
+S22000075,Peterhead,90
+S22000076,Pitlochry and Aberfeldy,145
+S22000077,Portree,80
+S22000039,Shetland Islands,95
+S22000078,St Andrews and Cupar,230
+S22000079,Stranraer,100
+S22000080,Thurso,60
+S22000081,Turriff and Banff,80
+S22000082,Ullapool,95
+S22000013,Western Isles,110
+S22000083,Wick,45

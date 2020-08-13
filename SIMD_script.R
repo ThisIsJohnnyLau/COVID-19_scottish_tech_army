@@ -10,7 +10,7 @@ read_csv("raw_data/dwellings-type.csv",
              fill = "right") %>% 
     select(-c("a", "b", "c", "d", "e", "f", "g")) %>% 
     clean_names() %>% 
-    write_csv("clean_data/dwellings")
+    write_csv("clean_data/dwellings.csv")
 
 
 
@@ -21,15 +21,28 @@ read_csv("raw_data/household-estimates.csv",
              fill = "right") %>% 
     select(-c("a", "b", "c", "d", "e", "f", "g")) %>% 
     clean_names() %>%
-    write_csv("clean_data/household_estimates")
+    write_csv("clean_data/household_estimates.csv")
 
-# NB duplicated entries need addressing
+# NB duplicated entries need addressing.  Potentially something to do with datazone changes
 housing_data <-
     full_join(
-        read_csv("clean_data/household_estimates"),
-        read_csv("clean_data/dwellings")
-    ) %>% 
-    filter(!duplicated(data_zone))
+        read_csv("clean_data/household_estimates.csv"),
+        read_csv("clean_data/dwellings.csv"),
+        by = c("data_zone", "reference_area")
+        ) %>% 
+  drop_na(.)
+
+# Business stocks and sites 2017
+read_csv("raw_data/business-stocks-and-sites.csv",
+         skip = 9) %>% 
+  separate("http://purl.org/linked-data/sdmx/2009/dimension#refArea",
+           into = c("a", "b", "c", "d", "e", "f", "g", "data_zone"),
+           fill = "right") %>% 
+  select(-c("a", "b", "c", "d", "e", "f", "g")) %>% 
+  clean_names() %>%
+  rename(intermediate_zone = reference_area) %>% 
+  drop_na() %>% 
+  write_csv("clean_data/food_drink.csv")
 
 
 # Reading from raw Excel SIMD file - data tab
@@ -205,7 +218,7 @@ SIMD_and_deaths <-
 
   
 
-
+# N.B. Na h-Eilean are NAs
 SIMD_and_deaths_and_area <-
     left_join(SIMD_and_deaths, zone_area, by = "data_zone") %>%
     mutate(overall_density = (intermediate_zone_pop / std_area_km2),
@@ -215,7 +228,22 @@ SIMD_and_deaths_and_area <-
            working_pop_pct = intermediate_zone_working_pop / intermediate_zone_pop * 100,
            attainment_score = attainment_score * 100) %>%
     relocate(c(council_area_code, data_zone, covid_death_pct, number_of_deaths), .after = council_area) %>%
-    pivot_longer(-intermediate_zone:-data_zone)
+  drop_na()
+
+
+  FB <- read_csv("clean_data/food_drink.csv") %>% 
+    rename(FB_count = "count")
+    
+
+SIMD_and_deaths_and_area_and_FB <-
+  left_join(SIMD_and_deaths_and_area, FB, by = c("data_zone", "intermediate_zone")
+            ) %>%
+  mutate(FB_density_area = FB_count / std_area_km2,
+         FB_density_pop = FB_count / intermediate_zone_pop,
+         FB_density_working = FB_count / intermediate_zone_working_pop) %>%
+  select(-long:-lat) %>% 
+  pivot_longer(-intermediate_zone:-data_zone)
+
 
 
 # Setting up modelling data
