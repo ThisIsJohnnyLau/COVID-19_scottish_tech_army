@@ -234,17 +234,38 @@ SIMD_and_deaths_and_area <-
   FB <- read_csv("clean_data/food_drink.csv") %>% 
     rename(FB_count = "count")
     
-
+# Shouldn't really be x 100
 SIMD_and_deaths_and_area_and_FB <-
   left_join(SIMD_and_deaths_and_area, FB, by = c("data_zone", "intermediate_zone")
             ) %>%
-  mutate(FB_density_area = FB_count / std_area_km2,
-         FB_density_pop = FB_count / intermediate_zone_pop,
-         FB_density_working = FB_count / intermediate_zone_working_pop) %>%
+  mutate(FB_density_area = FB_count / std_area_km2 * 100,
+         FB_density_pop = FB_count / intermediate_zone_pop * 100,
+         FB_density_working = FB_count / intermediate_zone_working_pop * 100) %>%
   select(-long:-lat) %>% 
   pivot_longer(-intermediate_zone:-data_zone)
 
 
+age_split_2018 <-
+  read_csv("clean_data/age_split_int_zones.csv") %>%
+  filter(year == max(year),
+         sex == "All") %>%
+  select(-year, -sex) %>% 
+  mutate(baby_pct = select(., age0:age4) %>% rowSums() / all_ages * 100,
+         children_pct = select(., age5:age12) %>% rowSums() / all_ages * 100,
+         teenager_pct = select(., age13:age19) %>% rowSums() / all_ages * 100,
+         adult_pct = select(., age20:age65) %>% rowSums() / all_ages * 100,
+         new_retiree_age_pct = select(., age66:age75) %>% rowSums() / all_ages * 100,
+         elderly_age_pct = select(., age76:age90plus) %>% rowSums() / all_ages * 100) %>% 
+  select(-all_ages, -age0:-age90plus) %>%
+  rename(data_zone = "int_zone")
+
+
+# Adding age data
+
+SIMD_and_deaths_and_area_and_FB_and_ages <-
+  left_join(SIMD_and_deaths_and_area_and_FB %>% 
+              pivot_wider(), age_split_2018, by = "data_zone") %>% 
+  pivot_longer(-intermediate_zone:-data_zone)
 
 # Setting up modelling data
 modelling_data <-

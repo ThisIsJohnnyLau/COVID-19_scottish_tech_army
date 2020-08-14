@@ -14,7 +14,8 @@ daily <- c("Daily people found positive",
 
 cumulative_care <- c("Cumulative number of suspected COVID-19 cases",
 "Cumulative number that have reported a suspected COVID-19 case",
-"Cumulative number that have reported more than one suspected COVID-19 case")
+"Cumulative number that have reported more t
+p[{;0oiu7654321# one suspected COVID-19 case")
     
 daily_care <- c("Daily number of new suspected COVID-19 cases","Number of staff reported as absent",
 "Number with current suspected COVID-19 cases","Adult care homes which submitted a return", "Total number of staff in adult care homes which submitted a return")
@@ -76,7 +77,12 @@ read_excel("raw_data/pop_estimates.xlsx",
     read_csv("raw_data/area_code_lookup.csv") %>% 
         clean_names() %>%
         write_csv("clean_data/area_codes_lookup.csv")
-# 
+# Age splits
+    
+    read_csv("raw_data/iz2011-pop-est_01072020.csv") %>%
+        clean_names() %>% 
+        select(-int_zone_qf, -sex_qf) %>%
+        write_csv("clean_data/age_split_int_zones.csv")
 # # 4. FT Excess Deaths
 # read_excel("raw_data/ft_excess_deaths.xls") %>% 
 #     write_csv("clean_data/ft_excess_deaths_clean.csv")
